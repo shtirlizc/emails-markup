@@ -343,6 +343,9 @@
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 18px 0">
           А вот и чек-лист<br/>про устойчивость
         </mj-text>
+        <mj-text font-size="16px" line-height="1.2" color="#ffffff" padding="0 0 20px 2px">
+          Обещали его в начале письма
+        </mj-text>
         <mj-button background-color="#ffffff" color="#222a3a" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="13px 24px" padding="0" align="left" href="#TODO-checklist-download">
           Скачать
         </mj-button>
@@ -358,7 +361,7 @@
           <mj-text font-size="36px" font-weight="bold" line-height="1" color="#ffffff" padding="12px 0 24px 2px">
             События<br/>Сферы
           </mj-text>
-          <mj-text font-size="16px" line-height="1.35" color="#ffffff" padding="0 0 0 2px" css-class="text-nowrap">
+          <mj-text font-size="16px" line-height="1.2" color="#ffffff" padding="0 0 0 2px" css-class="text-nowrap">
             Встречаем лето с классными событиями июня.
           </mj-text>
         </mj-column>
