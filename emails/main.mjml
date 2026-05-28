@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Сфера — июньский дайджест: про отпуск</mj-title>
-    <mj-preview>Встречаем лето: как уйти в отпуск так, чтобы быть уверенным в команде</mj-preview>
+    <mj-title>Сфера — июньский дайджест: про&nbsp;отпуск</mj-title>
+    <mj-preview>Встречаем лето: как&nbsp;уйти в&nbsp;отпуск так, чтобы быть уверенным в&nbsp;команде</mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
@@ -78,10 +78,10 @@
       <mj-section padding="33px 32px 18px 32px" css-class="hero-copy">
         <mj-column>
           <mj-text font-size="18px" line-height="1.25" color="#000000" padding="0">
-            Это ежемесячный дайджест от сообщества руководителей «Сфера». В сообществе мы обмениваемся практиками и&nbsp;опытом, делимся подходами, идеями, инструментами и&nbsp;встречаемся офлайн и онлайн.
+            Это ежемесячный дайджест от&nbsp;сообщества руководителей «Сфера». В&nbsp;сообществе мы&nbsp;обмениваемся практиками и&nbsp;опытом, делимся подходами, идеями, инструментами и&nbsp;встречаемся офлайн и&nbsp;онлайн.
           </mj-text>
           <mj-button background-color="#9261ff" color="#ffffff" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="13px 24px 14px" padding="17px 0 0 0" align="left" href="https://forms.yandex-team.ru/ext/surveys/13844554/">
-            Подписаться на Сферу
+            Подписаться на&nbsp;Сферу
           </mj-button>
         </mj-column>
       </mj-section>
@@ -89,7 +89,7 @@
       <mj-section padding="0px 32px 32px 32px" css-class="hero-digest">
         <mj-column background-color="#f0e9ff" border-radius="20px" padding="20px 16px 15px 16px" css-class="digest-card">
           <mj-text font-weight="bold" font-size="16px" color="#000000" padding="0 0 5px 0">
-            Что в этом дайджесте
+            Что&nbsp;в&nbsp;этом дайджесте
           </mj-text>
           <mj-table cellpadding="0" cellspacing="0" padding="0">
             <tr>
@@ -97,7 +97,7 @@
                 <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0 6px 0;">
-                Встречаем лето, а вместе с ним — период отпусков. Собрали опыт и&nbsp;советы руководителей о том, как уйти отдыхать так, чтобы быть уверенным в команде и спокойно возвращаться к работе.
+                Встречаем лето, а&nbsp;вместе с&nbsp;ним — период отпусков. Собрали опыт и&nbsp;советы руководителей о&nbsp;том, как&nbsp;уйти отдыхать так, чтобы быть уверенным в&nbsp;команде и&nbsp;спокойно возвращаться к&nbsp;работе.
               </td>
             </tr>
             <tr>
@@ -105,7 +105,7 @@
                 <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
-                Ещё делимся чек-листом, по которому можно проверить,<span class="desktop-break"><br /></span>насколько вы сейчас устойчивы к неопределённости — и узнать,<span class="desktop-break"><br /></span>как эту устойчивость планировать.
+                Ещё делимся чек-листом, по&nbsp;которому можно проверить,<span class="desktop-break"><br /></span>насколько вы&nbsp;сейчас устойчивы к&nbsp;неопределённости — и&nbsp;узнать,<span class="desktop-break"><br /></span>как&nbsp;эту устойчивость планировать.
               </td>
             </tr>
             <tr>
@@ -113,7 +113,7 @@
                 <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
-                А в конце собрали первые летние события для тех,<span class="desktop-break"><br /></span>кто не запланировал отпуск на июнь.
+                А&nbsp;в&nbsp;конце собрали первые летние события для&nbsp;тех,<span class="desktop-break"><br /></span>кто не&nbsp;запланировал отпуск на&nbsp;июнь.
               </td>
             </tr>
           </mj-table>
@@ -145,7 +145,7 @@
       <mj-section padding="0 0 0 4px" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
           <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
-            Не замыкать процессы на себе
+            Не&nbsp;замыкать процессы на&nbsp;себе
           </mj-text>
           <mj-text padding="0 0 16px 0">
             <div style="position:relative;">
@@ -156,7 +156,7 @@
                 </td>
                 <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
                   <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
-                  <div class="chip-wrap" style="width: 165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и оптимизации проектов</span></div>
+                  <div class="chip-wrap" style="width: 165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и&nbsp;оптимизации проектов</span></div>
                 </td>
               </tr>
             </table>
@@ -166,33 +166,33 @@
             </div>
           </mj-text>
           <mj-text font-size="16px" line-height="1.2" color="#000000" padding="4px 0 0 0">
-            Во время отпуска становилось ясно: где команда умела жить без&nbsp;ручного управления, а где всё держалось на моём незримом присутствии в каждом решении.
+            Во&nbsp;время отпуска становилось ясно: где команда умела жить без&nbsp;ручного управления, а&nbsp;где всё держалось на&nbsp;моём незримом присутствии в&nbsp;каждом решении.
           </mj-text>
           <mj-text font-size="16px" line-height="1.2" color="#000000" padding="10px 0 18px 0">
-            Сложные и нестандартные вопросы ждали моего возвращения — и&nbsp;не от недостатка компетенций у сотрудников, а потому что&nbsp;система была настроена на мой финальный «кивок». Так&nbsp;я&nbsp;поняла, что мне нужно выстроить процессы, чтобы команда могла сама принимать решения.
+            Сложные и&nbsp;нестандартные вопросы ждали моего возвращения — и&nbsp;не&nbsp;от&nbsp;недостатка компетенций у&nbsp;сотрудников, а&nbsp;потому что&nbsp;система была настроена на&nbsp;мой финальный «кивок». Так&nbsp;я&nbsp;поняла, что&nbsp;мне нужно выстроить процессы, чтобы команда могла сама принимать решения.
           </mj-text>
 
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
               <tr>
                 <td style="padding:20px 16px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:19px;">
-                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А проверить, как с этим дела сейчас, мне помогают вопросы:</p>
+                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А&nbsp;проверить, как&nbsp;с&nbsp;этим дела сейчас, мне помогают вопросы:</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в неделю команда принимает без меня?</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в&nbsp;неделю команда принимает без&nbsp;меня?</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я не отвечаю день?</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я&nbsp;не&nbsp;отвечаю день?</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и ответственность зафиксированы, а где держатся на&nbsp;личных договорённостях?</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и&nbsp;ответственность зафиксированы, а&nbsp;где держатся на&nbsp;личных договорённостях?</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и встреч идут только потому, что я в них участвую?</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и&nbsp;встреч идут только потому, что&nbsp;я&nbsp;в&nbsp;них участвую?</td>
                     </tr>
                   </table>
                 </td>
@@ -204,7 +204,7 @@
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#9261ff;border-radius:20px;">
               <tr>
                 <td style="padding:21px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1.2;color:#ffffff;">
-                  Что делать, если процессы стопорятся на вас, читайте в&nbsp;<a href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1778840966040010" style="color:#ffffff;text-decoration:underline;">«Сфере» в Мессенджере</a>.
+                  Что&nbsp;делать, если процессы стопорятся на&nbsp;вас, читайте в&nbsp;<a href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1778840966040010" style="color:#ffffff;text-decoration:underline;">«Сфере» в&nbsp;Мессенджере</a>.
                 </td>
               </tr>
             </table>
@@ -218,7 +218,7 @@
       <mj-section padding="0 0 0 4px" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
           <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 1px 0">
-            Делегировать, закрывать долги и&nbsp;оставлять первый день без встреч
+            Делегировать, закрывать долги и&nbsp;оставлять первый день без&nbsp;встреч
           </mj-text>
           <mj-text padding="0 0 20px 0">
             <div style="position:relative;">
@@ -229,7 +229,7 @@
                 </td>
                 <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
                   <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
-                  <div class="chip-wrap" style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span></div>
+                  <div class="chip-wrap" style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и&nbsp;региональной архитектуры</span></div>
                 </td>
               </tr>
             </table>
@@ -243,31 +243,31 @@
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
               <tr>
                 <td style="padding:20px 16px 11px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:19px;">
-                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Я использую классический подход:</p>
+                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Я&nbsp;использую классический подход:</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">За 2–3 дня до отпуска закрываю мелкие задачи и согласования, чтобы они не тормозили смежников.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">За&nbsp;2–3 дня до&nbsp;отпуска закрываю мелкие задачи и&nbsp;согласования, чтобы они не&nbsp;тормозили смежников.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Выделяю приоритетные задачи, в которых я нужен. Назначаю замов по этим задачам и по обработке новых задач, чтобы ничего не потерялось.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Выделяю приоритетные задачи, в&nbsp;которых я&nbsp;нужен. Назначаю замов по&nbsp;этим задачам и&nbsp;по&nbsp;обработке новых задач, чтобы ничего не&nbsp;потерялось.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 4px;">Предупреждаю внутренних смежников и внешних контрагентов об&nbsp;отпуске и говорю, к кому обращаться.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 4px;">Предупреждаю внутренних смежников и&nbsp;внешних контрагентов об&nbsp;отпуске и&nbsp;говорю, к&nbsp;кому обращаться.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Ставлю автоответ в почте и статус в Мессенджере.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Ставлю автоответ в&nbsp;почте и&nbsp;статус в&nbsp;Мессенджере.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:2px 0 4px;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:6px 0 2px;">По возможности остаюсь доступным для своей команды по&nbsp;срочным неотложным вопросам. Пока никто не обращался!</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:6px 0 2px;">По&nbsp;возможности остаюсь доступным для&nbsp;своей команды по&nbsp;срочным неотложным вопросам. Пока никто не&nbsp;обращался!</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0;">Первый день после отпуска стараюсь оставить без встреч — только разбор Мессенджера, почты и короткие созвоны с командой, чтобы&nbsp;забрать задачи обратно.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0;">Первый день после отпуска стараюсь оставить без&nbsp;встреч — только разбор Мессенджера, почты и&nbsp;короткие созвоны с&nbsp;командой, чтобы&nbsp;забрать задачи обратно.</td>
                     </tr>
                   </table>
                 </td>
@@ -283,7 +283,7 @@
       <mj-section padding="0 0 0 4px" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 18px 20px">
           <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
-            Вести таблицу с задачами<span class="desktop-break"><br /></span>и не отвлекать в отпуске
+            Вести таблицу с&nbsp;задачами<span class="desktop-break"><br /></span>и&nbsp;не&nbsp;отвлекать в&nbsp;отпуске
           </mj-text>
           <mj-text padding="0 0 19px 0">
             <div style="position:relative;">
@@ -308,23 +308,23 @@
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
               <tr>
                 <td style="padding:20px 16px 17px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:19px;">
-                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Отпуск в команде мы всегда планируем заранее.</p>
+                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Отпуск в&nbsp;команде мы&nbsp;всегда планируем заранее.</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 6px;">На общей встрече я подсвечиваю, кто в какие даты отдыхает — и&nbsp;напоминаю, что отдыхающих мы не тревожим по рабочим вопросам.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 6px;">На&nbsp;общей встрече я&nbsp;подсвечиваю, кто в&nbsp;какие даты отдыхает — и&nbsp;напоминаю, что&nbsp;отдыхающих мы&nbsp;не&nbsp;тревожим по&nbsp;рабочим вопросам.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Составляем таблицу с задачами, где указываем детали, ответственного и дедлайн.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Составляем таблицу с&nbsp;задачами, где указываем детали, ответственного и&nbsp;дедлайн.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">В процессе выполнения задач отмечаем, что уже сделано, чтобы&nbsp;был понятен статус — даже если ответственный в отпуске.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">В&nbsp;процессе выполнения задач отмечаем, что&nbsp;уже сделано, чтобы&nbsp;был понятен статус — даже если ответственный в&nbsp;отпуске.</td>
                     </tr>
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">В первый день после выхода просматриваем таблицу, чтобы&nbsp;включиться с того места, где остановились до отпуска (и&nbsp;вспомнить, кем и где мы работаем).</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">В&nbsp;первый день после выхода просматриваем таблицу, чтобы&nbsp;включиться с&nbsp;того места, где остановились до&nbsp;отпуска (и&nbsp;вспомнить, кем и&nbsp;где мы&nbsp;работаем).</td>
                     </tr>
                   </table>
                 </td>
@@ -341,10 +341,10 @@
     <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="https://emails-markup.vercel.app/assets/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
       <mj-column vertical-align="middle" padding="23px 20px 20px 32px">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 18px 0">
-          А вот и чек-лист<br/>про устойчивость
+          А&nbsp;вот и&nbsp;чек-лист<br/>про&nbsp;устойчивость
         </mj-text>
         <mj-text font-size="16px" line-height="1.2" color="#ffffff" padding="0 0 20px 2px">
-          Обещали его в начале письма
+          Обещали его в&nbsp;начале письма
         </mj-text>
         <mj-button background-color="#ffffff" color="#222a3a" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="13px 24px" padding="0" align="left" href="#TODO-checklist-download">
           Скачать
@@ -362,7 +362,7 @@
             События<br/>Сферы
           </mj-text>
           <mj-text font-size="16px" line-height="1.2" color="#ffffff" padding="0 0 0 2px" css-class="text-nowrap">
-            Встречаем лето с классными событиями июня.
+            Встречаем лето с&nbsp;классными событиями июня.
           </mj-text>
         </mj-column>
         <mj-column width="38%" vertical-align="middle" css-class="events-illu-column">
@@ -376,9 +376,9 @@
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
               <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про × Сфера: когда риск (не) оправдан</p>
+                <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про&nbsp;× Сфера: когда риск (не) оправдан</p>
                 <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">3 июня 17:00–18:30</p>
-                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">В новом выпуске Поговорим про × «Сфера» обсудим решения без полной ясности, ответственность, давление, ошибки и всё то, что обычно остаётся за&nbsp;кадром красивых запусков.</p>
+                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">В&nbsp;новом выпуске Поговорим про&nbsp;× «Сфера» обсудим решения без&nbsp;полной ясности, ответственность, давление, ошибки и&nbsp;всё то, что&nbsp;обычно остаётся за&nbsp;кадром красивых запусков.</p>
                 <a class="event-card-cta" href="#TODO-event-1" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
               </td>
             </tr>
@@ -392,7 +392,7 @@
               <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                 <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Какие мы:<br>портрет яндексоида</p>
                 <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">10 июня 16:00–17:30</p>
-                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">Как мы взаимодействуем, что нас мотивирует, чем мы похожи друг на&nbsp;друга и чем отличаемся от других компаний — разберёмся на встрече, основываясь на исследовании Zetic.</p>
+                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">Как&nbsp;мы&nbsp;взаимодействуем, что&nbsp;нас мотивирует, чем&nbsp;мы&nbsp;похожи друг на&nbsp;друга и&nbsp;чем&nbsp;отличаемся от&nbsp;других компаний — разберёмся на&nbsp;встрече, основываясь на&nbsp;исследовании Zetic.</p>
                 <a class="event-card-cta" href="#TODO-event-2" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
               </td>
             </tr>
@@ -409,7 +409,7 @@
                 <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в&nbsp;Питере</p>
                   <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">16 июня 19:00</p>
-                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и обсуждаем профессиональные темы. Приходите,&nbsp;если окажетесь в Питере!</p>
+                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и&nbsp;обсуждаем профессиональные темы. Приходите,&nbsp;если окажетесь в&nbsp;Питере!</p>
                   <a class="event-card-cta" href="#TODO-event-3" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">БЦ Феррум, Epochs</a>
                 </td>
               </tr>
@@ -423,7 +423,7 @@
                 <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Дискуссионный клуб руководителей Яндекса</p>
                   <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">26 июня 16:30–18:00</p>
-                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или просто послушать, с&nbsp;чем&nbsp;сейчас сталкиваются коллеги из&nbsp;разных команд Яндекса.</p>
+                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или&nbsp;просто послушать, с&nbsp;чем&nbsp;сейчас сталкиваются коллеги из&nbsp;разных команд Яндекса.</p>
                   <a class="event-card-cta" href="#TODO-event-4" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
                 </td>
               </tr>
@@ -447,7 +447,7 @@
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td style="padding:14px 8px 14px 26px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.2;color:#000000;">
-                  <span style="color:#000000;text-decoration:underline;">Вики Toolbox — база знаний, подходов и инструментов</span>
+                  <span style="color:#000000;text-decoration:underline;">Вики Toolbox — база знаний, подходов и&nbsp;инструментов</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
                   <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
@@ -492,7 +492,7 @@
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td style="padding:10px 8px 8px 26px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.2;color:#000000;">
-                  <span style="color:#000000;text-decoration:underline;">Новый ГЭП — запланировать отпуск и посмотреть календарь команды</span>
+                  <span style="color:#000000;text-decoration:underline;">Новый ГЭП — запланировать отпуск и&nbsp;посмотреть календарь команды</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
                   <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
@@ -510,7 +510,7 @@
     <mj-section css-class="mobile-section-pad-tight" background-color="#9261ff" border-radius="20px" padding="19px 30px 14px">
       <mj-column width="62%" vertical-align="middle">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0">
-          Как вам рассылка?
+          Как&nbsp;вам рассылка?
         </mj-text>
       </mj-column>
       <mj-column width="38%" vertical-align="middle">
@@ -520,10 +520,10 @@
               <table cellpadding="0" cellspacing="0" role="presentation" align="right">
                 <tr>
                   <td style="padding:0 6px 0 0;">
-                    <a href="#TODO-feedback-good" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-down.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="#TODO-feedback-bad" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                   <td>
-                    <a href="#TODO-feedback-bad" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-up.png" alt="Не понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="#TODO-feedback-good" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                 </tr>
               </table>
@@ -539,10 +539,10 @@
     <mj-section css-class="mobile-section-pad" background-color="#f0e9ff" border-radius="24px" padding="35px 32px 28px">
       <mj-column>
         <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 22px 0">
-          Участвуйте в жизни сообщества «Сфера»
+          Участвуйте в&nbsp;жизни сообщества «Сфера»
         </mj-text>
         <mj-text font-size="16px" line-height="1.2" color="rgba(0,0,0,0.8)" padding="0 2px 23px 2px">
-          Станьте спикером, автором сообщества или экспертом Toolbox,&nbsp;участвуйте в разборе кейсов или делитесь идеями того,&nbsp;как&nbsp;нам сделать «Сферу» полезнее для вас — в&nbsp;общем,&nbsp;выбирайте свой формат.
+          Станьте спикером, автором сообщества или&nbsp;экспертом Toolbox,&nbsp;участвуйте в&nbsp;разборе кейсов или&nbsp;делитесь идеями того,&nbsp;как&nbsp;нам сделать «Сферу» полезнее для&nbsp;вас — в&nbsp;общем,&nbsp;выбирайте свой формат.
         </mj-text>
 
         <mj-text padding="0 0 25px 0">
@@ -561,7 +561,7 @@
         </mj-text>
 
         <mj-text font-size="15px" line-height="1.3" color="#5d6c72" padding="0" css-class="footer-link">
-          <a href="https://forms.yandex-team.ru/ext/surveys/13828618" style="color:#5d6c72;text-decoration:underline;">Отписаться от рассылки</a>
+          <a href="https://forms.yandex-team.ru/ext/surveys/13828618" style="color:#5d6c72;text-decoration:underline;">Отписаться от&nbsp;рассылки</a>
         </mj-text>
       </mj-column>
     </mj-section>
