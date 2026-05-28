@@ -129,7 +129,7 @@
           </mj-text>
 
           <mj-text padding="0">
-            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #ff0000;border-radius:20px;">
               <tr>
                 <td style="padding:20px 16px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
                   <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А проверить, как с этим дела сейчас, мне помогают вопросы:</p>
@@ -255,7 +255,7 @@
               </tr>
             </table>
             <!--[if !mso]><!-->
-            <img src="../assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-62px;bottom:-10px;display:block;border:0;outline:none;text-decoration:none;" />
+            <img src="../assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-62px;bottom:42px;display:block;border:0;outline:none;text-decoration:none;" />
             <!--<![endif]-->
             </div>
           </mj-text>
@@ -286,10 +286,6 @@
                 </td>
               </tr>
             </table>
-          </mj-text>
-
-          <mj-text font-size="16px" line-height="1.2" color="#000000" padding="21px 0 0 0">
-            С таким подходом спокойны и коллеги в отпуске, и команда, и я.
           </mj-text>
         </mj-column>
       </mj-section>
