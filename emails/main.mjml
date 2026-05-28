@@ -352,9 +352,21 @@
         <mj-text font-size="16px" line-height="1.2" color="#ffffff" padding="0 0 20px 2px">
           Обещали его в&nbsp;начале письма
         </mj-text>
-        <mj-button background-color="#ffffff" color="#222a3a" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="13px 24px" padding="0" align="left" href="#TODO-checklist-download">
-          Скачать
-        </mj-button>
+        <mj-raw>
+          <tr>
+            <td align="left" style="font-size:0px;padding:0;word-break:break-word;">
+              <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+                <tbody>
+                  <tr>
+                    <td align="center" bgcolor="#ffffff" role="presentation" style="border:none;border-radius:40px;cursor:auto;mso-padding-alt:13px 24px;background:#ffffff;" valign="middle">
+                      <a href="https://emails-markup.vercel.app/assets/checklist.pdf" download="Чек_лист_«Как_сохранить_внутренний_ресурс»" style="display:inline-block;background:#ffffff;color:#222a3a;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:13px 24px;mso-padding-alt:0px;border-radius:40px;" target="_blank">Скачать</a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </mj-raw>
       </mj-column>
     </mj-section>
 
