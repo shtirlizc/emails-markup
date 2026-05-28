@@ -232,12 +232,13 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 3 — Vesta -->
-      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
-        <mj-column>
+      <mj-section padding="0">
+        <mj-column background-color="#e1c9fd" border-radius="20px" padding="20px">
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Вести таблицу с задачами и не отвлекать в отпуске
           </mj-text>
           <mj-text padding="0 0 16px 0">
+            <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
                 <td valign="top" width="112" style="padding:0;">
@@ -249,6 +250,10 @@
                 </td>
               </tr>
             </table>
+            <!--[if !mso]><!-->
+            <img src="../assets/star-2.png" alt="" width="147" height="142" style="position:absolute;right:-50px;bottom:-20px;display:block;border:0;outline:none;text-decoration:none;" />
+            <!--<![endif]-->
+            </div>
           </mj-text>
 
           <mj-text padding="0">
