@@ -42,6 +42,12 @@
         .feedback-actions table { margin-left: 0 !important; margin-right: auto !important; }
         .feedback-actions td { text-align: left !important; }
       }
+      @media only screen and (max-width:553px) {
+        .event-card-content { padding: 8px 8px 8px 8px !important; }
+      }
+      @media only screen and (max-width:511px) {
+        .event-card-left, .event-card-right { width: 100% !important; max-width: 100% !important; display: block !important; padding-left: 0 !important; padding-right: 0 !important; padding-bottom: 16px !important; }
+      }
       @media only screen and (max-width:489px) {
         .cloud-promo { background: #9261ff !important; background-image: none !important; }
         .cloud-promo table { background: #9261ff !important; background-image: none !important; }
@@ -358,7 +364,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+              <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                 <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про × Сфера: когда риск (не) оправдан</p>
                 <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">3 июня 17:00–18:30</p>
                 <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">В новом выпуске Поговорим про × «Сфера» обсудим решения без полной ясности, ответственность, давление, ошибки и всё то, что обычно остаётся за&nbsp;кадром красивых запусков.</p>
@@ -372,7 +378,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+              <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                 <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Какие мы:<br>портрет яндексоида</p>
                 <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">10 июня 16:00–17:30</p>
                 <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">Как мы взаимодействуем, что нас мотивирует, чем мы похожи друг на&nbsp;друга и чем отличаемся от других компаний — разберёмся на встрече, основываясь на исследовании Zetic.</p>
@@ -389,7 +395,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в&nbsp;Питере</p>
                   <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">16 июня 19:00</p>
                   <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и обсуждаем профессиональные темы. Приходите,&nbsp;если окажетесь в Питере!</p>
@@ -403,7 +409,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <td class="event-card-content" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Дискуссионный клуб руководителей Яндекса</p>
                   <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">26 июня 16:30–18:00</p>
                   <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или просто послушать, с&nbsp;чем&nbsp;сейчас сталкиваются коллеги из&nbsp;разных команд Яндекса.</p>
