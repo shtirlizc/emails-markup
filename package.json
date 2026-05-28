@@ -4,10 +4,14 @@
   "private": true,
   "description": "Email templates compiled from MJML",
   "scripts": {
-    "email:build": "mjml emails/main.mjml -o emails/dist/main.html",
-    "email:watch": "mjml --watch emails/main.mjml -o emails/dist/main.html"
+    "email:build": "mjml emails/*.mjml -o emails/dist",
+    "email:watch": "mjml --watch emails/*.mjml -o emails/dist",
+    "email:serve": "browser-sync start --server emails --startPath /dist/main.html --files \"emails/dist/*.html, emails/assets/**/*\" --no-open --no-notify --host 127.0.0.1",
+    "email:dev": "npm run email:build && concurrently -k -n mjml,server -c magenta,cyan \"npm:email:watch\" \"npm:email:serve\""
   },
   "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "concurrently": "^10.0.0",
     "mjml": "^4.15.3"
   }
 }
