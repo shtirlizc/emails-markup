@@ -94,23 +94,28 @@
       </mj-section>
 
       <!-- Expert 1 — Olga -->
-      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
-        <mj-column>
+      <mj-section padding="0">
+        <mj-column background-color="#e1c9fd" border-radius="20px" padding="20px">
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Не замыкать процессы на себе
           </mj-text>
           <mj-text padding="0 0 12px 0">
+            <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td valign="top" width="112" style="padding:0 14px 0 0;">
-                  <img src="../assets/avatar-olga.png" alt="Ольга Кирюточкина" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                <td valign="top" width="112" style="padding:0 0 0 0;">
+                  <img src="../assets/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
                 </td>
-                <td valign="middle">
-                  <div style="margin:0 0 6px 0;"><span class="chip">Руководитель группы развития и оптимизации проектов</span></div>
-                  <div><span class="chip">Ольга Кирюточкина</span></div>
+                <td valign="top" style="padding:16px 0 0 0;">
+                  <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
+                  <div style="width: 165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и оптимизации проектов</span></div>
                 </td>
               </tr>
             </table>
+            <!--[if !mso]><!-->
+            <img src="../assets/star-2.png" alt="" width="147" height="142" style="position:absolute;right:-50px;bottom:-20px;display:block;border:0;outline:none;text-decoration:none;" />
+            <!--<![endif]-->
+            </div>
           </mj-text>
           <mj-text font-size="16px" line-height="1.4" color="#000000" padding="4px 0 0 0">
             Во время отпуска становилось ясно: где команда умела жить без ручного управления, а где всё держалось на моём незримом присутствии в каждом решении.
@@ -162,23 +167,28 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 2 — Sergey -->
-      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
-        <mj-column>
+      <mj-section padding="0">
+        <mj-column background-color="#e1c9fd" border-radius="20px" padding="20px">
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Делегировать, закрывать долги и оставлять первый день без встреч
           </mj-text>
           <mj-text padding="0 0 16px 0">
+            <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td valign="top" width="112" style="padding:0 14px 0 0;">
-                  <img src="../assets/avatar-sergey.png" alt="Сергей Гринченко" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                <td valign="top" width="112" style="padding:0;">
+                  <img src="../assets/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
                 </td>
                 <td valign="middle">
-                  <div style="margin:0 0 6px 0;"><span class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span></div>
-                  <div><span class="chip">Сергей Гринченко</span></div>
+                  <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
+                  <div style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span></div>
                 </td>
               </tr>
             </table>
+            <!--[if !mso]><!-->
+            <img src="../assets/star-1.png" alt="" width="147" height="142" style="position:absolute;right:-50px;bottom:-20px;display:block;border:0;outline:none;text-decoration:none;" />
+            <!--<![endif]-->
+            </div>
           </mj-text>
 
           <mj-text padding="0">
@@ -230,12 +240,12 @@
           <mj-text padding="0 0 16px 0">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td valign="top" width="112" style="padding:0 14px 0 0;">
-                  <img src="../assets/avatar-vesta.png" alt="Веста Нестерова" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                <td valign="top" width="112" style="padding:0;">
+                  <img src="../assets/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
                 </td>
                 <td valign="middle">
-                  <div style="margin:0 0 6px 0;"><span class="chip">Лид команды Сигма</span></div>
-                  <div><span class="chip">Веста Нестерова</span></div>
+                  <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
+                  <div style="margin:0;"><span style="margin:0;" class="chip">Лид команды Сигма</span></div>
                 </td>
               </tr>
             </table>
