@@ -31,52 +31,52 @@
 
 
 
-      <mj-section padding="0 20px 18px 20px">
+      <mj-section padding="33px 32px 18px 32px">
         <mj-column>
-          <mj-text font-size="18px" line-height="1.35" color="#000000" padding="0">
-            Это ежемесячный дайджест от сообщества руководителей «Сфера». В сообществе мы обмениваемся практиками и опытом, делимся подходами, идеями, инструментами и встречаемся офлайн и онлайн.
+          <mj-text font-size="18px" line-height="1.25" color="#000000" padding="0">
+            Это ежемесячный дайджест от сообщества руководителей «Сфера». В сообществе мы обмениваемся практиками и&nbsp;опытом, делимся подходами, идеями, инструментами и&nbsp;встречаемся офлайн и онлайн.
           </mj-text>
-          <mj-button background-color="#9261ff" color="#ffffff" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="12px 24px" padding="18px 0 0 0" align="left" href="https://forms.yandex-team.ru/ext/surveys/13844554/">
+          <mj-button background-color="#9261ff" color="#ffffff" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="13px 24px 14px" padding="17px 0 0 0" align="left" href="https://forms.yandex-team.ru/ext/surveys/13844554/">
             Подписаться на Сферу
           </mj-button>
         </mj-column>
       </mj-section>
 
-      <mj-section padding="20px">
-        <mj-column background-color="#f0e9ff" border-radius="20px" padding="20px" css-class="digest-card">
-          <mj-text font-weight="bold" font-size="16px" color="#000000" padding="0 0 8px 0">
+      <mj-section padding="0px 32px 32px 32px">
+        <mj-column background-color="#f0e9ff" border-radius="20px" padding="20px 16px 15px 16px" css-class="digest-card">
+          <mj-text font-weight="bold" font-size="16px" color="#000000" padding="0 0 5px 0">
             Что в этом дайджесте
           </mj-text>
           <mj-table cellpadding="0" cellspacing="0" padding="0">
             <tr>
-              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
-                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
+              <td width="30" valign="top" style="width:30px;padding:1px 0 6px 0;">
+                <img src="../assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
-              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
-                Встречаем лето, а вместе с ним — период отпусков. Собрали опыт и советы руководителей о том, как уйти отдыхать так, чтобы быть уверенным в команде и спокойно возвращаться к работе.
-              </td>
-            </tr>
-            <tr>
-              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
-                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
-              </td>
-              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
-                Ещё делимся чек-листом, по которому можно проверить, насколько вы сейчас устойчивы к неопределённости — и узнать, как эту устойчивость планировать.
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0 6px 0;">
+                Встречаем лето, а вместе с ним — период отпусков. Собрали опыт и&nbsp;советы руководителей о том, как уйти отдыхать так, чтобы быть уверенным в команде и спокойно возвращаться к работе.
               </td>
             </tr>
             <tr>
-              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
-                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
+              <td width="30" valign="top" style="width:30px;padding:0">
+                <img src="../assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
-              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
-                А в конце собрали первые летние события для тех, кто не запланировал отпуск на июнь.
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
+                Ещё делимся чек-листом, по которому можно проверить,<br>насколько вы сейчас устойчивы к неопределённости — и узнать,<br>как эту устойчивость планировать.
+              </td>
+            </tr>
+            <tr>
+              <td width="30" valign="top" style="width:30px;padding:0;">
+                <img src="../assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
+              </td>
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
+                А в конце собрали первые летние события для тех,<br>кто не запланировал отпуск на июнь.
               </td>
             </tr>
           </mj-table>
           <mj-raw>
             <!--[if !mso]><!-->
             <div style="position:relative;height:0;line-height:0;font-size:0;">
-              <img src="../assets/star-1.png" alt="" width="147" height="142" style="position:absolute;right:-50px;bottom:-20px;display:block;border:0;outline:none;text-decoration:none;" />
+              <img src="../assets/star-1.png" alt="" width="166" style="position:absolute;right:-71px;bottom:-33px;display:block;border:0;outline:none;text-decoration:none;" />
             </div>
             <!--<![endif]-->
           </mj-raw>
