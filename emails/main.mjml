@@ -404,7 +404,7 @@
                   </tr>
                   <tr>
                     <td valign="bottom" style="padding-top:12px;font-family:Arial,Helvetica,sans-serif;">
-                      <a class="event-card-cta" href="#TODO-event-1" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
+                      <a class="event-card-cta" href="https://events.yandex-team.ru/?city=1&startDateTime=2026-06-03T00%3A00%3A00.000Z&eventId=ef405411-7a4a-4f52-b8c0-762fa23433db&utm_source=tg&utm_medium=any&utm_campaign=pogovorim_pro_risk" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
                     </td>
                   </tr>
                 </table>
@@ -428,7 +428,7 @@
                   </tr>
                   <tr>
                     <td valign="bottom" style="padding-top:12px;font-family:Arial,Helvetica,sans-serif;">
-                      <a class="event-card-cta" href="#TODO-event-2" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
+                      <a class="event-card-cta" href="https://events.yandex-team.ru/?city=1&startDateTime=2026-06-10T00%3A00%3A00.000Z&eventId=78f9760a-cc98-4174-a212-7aa84407b346" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
                     </td>
                   </tr>
                 </table>
@@ -479,7 +479,7 @@
                   </tr>
                   <tr>
                     <td valign="bottom" style="padding-top:12px;font-family:Arial,Helvetica,sans-serif;">
-                      <a class="event-card-cta" href="#TODO-event-4" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
+                      <a class="event-card-cta" href="https://events.yandex-team.ru/?city=1&startDateTime=2026-06-26T00%3A00%3A00.000Z&eventId=26907d40-31eb-46e8-8ce7-59631e74cbf3" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
                     </td>
                   </tr>
                 </table>
@@ -578,10 +578,10 @@
               <table cellpadding="0" cellspacing="0" role="presentation" align="right">
                 <tr>
                   <td style="padding:0 6px 0 0;">
-                    <a href="#TODO-feedback-bad" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="https://forms.yandex-team.ru/ext/surveys/13828617" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                   <td>
-                    <a href="#TODO-feedback-good" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="https://forms.yandex-team.ru/ext/surveys/13828614" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                 </tr>
               </table>
