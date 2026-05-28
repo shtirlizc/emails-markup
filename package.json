@@ -1,0 +1,13 @@
+{
+  "name": "emails-markup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Email templates compiled from MJML",
+  "scripts": {
+    "email:build": "mjml emails/main.mjml -o emails/dist/main.html",
+    "email:watch": "mjml --watch emails/main.mjml -o emails/dist/main.html"
+  },
+  "devDependencies": {
+    "mjml": "^4.15.3"
+  }
+}

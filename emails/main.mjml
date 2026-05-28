@@ -1,0 +1,482 @@
+<mjml>
+  <mj-head>
+    <mj-title>Сфера — июньский дайджест: про отпуск</mj-title>
+    <mj-preview>Встречаем лето: как уйти в отпуск так, чтобы быть уверенным в команде</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style>
+      a { color: inherit; }
+      .link-white a { color: #ffffff !important; text-decoration: underline; }
+      .footer-link a { color: #5d6c72 !important; text-decoration: underline; }
+      .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.3 Arial, Helvetica, sans-serif; padding: 8px 12px; border-radius: 14px; margin: 0 8px 8px 0; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1c9fd" width="600px">
+
+    <!-- ============== HERO CARD ============== -->
+    <mj-wrapper background-color="#ffffff" border-radius="24px" padding="24px 24px 24px 24px" css-class="hero">
+      <mj-section padding="0 0 16px 0">
+        <mj-column width="50%" vertical-align="middle">
+          <mj-image src="../assets/logo-yateam.png" alt="Я Team" align="left" width="96px" padding="0 0 16px 0" />
+          <mj-text font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="16px 0 0 0">
+            Привет!
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle">
+          <mj-image src="../assets/logo-sfera.png" alt="Сфера" align="right" width="140px" padding="0 0 8px 0" />
+          <mj-image src="../assets/hero.png" alt="Иллюстрация — лето в Сфере" align="right" width="220px" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 18px 0">
+        <mj-column>
+          <mj-text font-size="18px" line-height="1.35" color="#000000" padding="0">
+            Это ежемесячный дайджест от сообщества руководителей «Сфера». В сообществе мы обмениваемся практиками и опытом, делимся подходами, идеями, инструментами и встречаемся офлайн и онлайн.
+          </mj-text>
+          <mj-button background-color="#9261ff" color="#ffffff" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="12px 24px" padding="18px 0 0 0" align="left" href="https://forms.yandex-team.ru/ext/surveys/13844554/">
+            Подписаться на Сферу
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f0e9ff" border-radius="20px" padding="20px">
+        <mj-column>
+          <mj-text font-weight="bold" font-size="16px" color="#000000" padding="0 0 8px 0">
+            Что в этом дайджесте
+          </mj-text>
+          <mj-table cellpadding="0" cellspacing="0" padding="0">
+            <tr>
+              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
+                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
+              </td>
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
+                Встречаем лето, а вместе с ним — период отпусков. Собрали опыт и советы руководителей о том, как уйти отдыхать так, чтобы быть уверенным в команде и спокойно возвращаться к работе.
+              </td>
+            </tr>
+            <tr>
+              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
+                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
+              </td>
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
+                Ещё делимся чек-листом, по которому можно проверить, насколько вы сейчас устойчивы к неопределённости — и узнать, как эту устойчивость планировать.
+              </td>
+            </tr>
+            <tr>
+              <td width="30" valign="top" style="padding:4px 6px 4px 0;">
+                <img src="../assets/check-violet.png" alt="" width="24" height="24" style="display:block;" />
+              </td>
+              <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">
+                А в конце собрали первые летние события для тех, кто не запланировал отпуск на июнь.
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== PRO OTPUSK BIG CARD ============== -->
+    <mj-wrapper background-color="#ffffff" border-radius="20px" padding="24px 20px 24px 20px" css-class="pro-otpusk">
+
+      <mj-section padding="0 4px 16px 4px">
+        <mj-column>
+          <mj-text font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="0">
+            Про&nbsp;отпуск
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Expert 1 — Olga -->
+      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
+        <mj-column>
+          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
+            Не замыкать процессы на себе
+          </mj-text>
+          <mj-image src="../assets/avatar-olga.png" alt="Ольга Кирюточкина" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
+          <mj-text padding="0 0 4px 0">
+            <span class="chip">Руководитель группы развития и оптимизации проектов</span>
+          </mj-text>
+          <mj-text padding="0 0 12px 0">
+            <span class="chip">Ольга Кирюточкина</span>
+          </mj-text>
+          <mj-text font-size="16px" line-height="1.4" color="#000000" padding="4px 0 0 0">
+            Во время отпуска становилось ясно: где команда умела жить без ручного управления, а где всё держалось на моём незримом присутствии в каждом решении.
+          </mj-text>
+          <mj-text font-size="16px" line-height="1.4" color="#000000" padding="8px 0 16px 0">
+            Сложные и нестандартные вопросы ждали моего возвращения — и не от недостатка компетенций у сотрудников, а потому что система была настроена на мой финальный «кивок». Так я поняла, что мне нужно выстроить процессы, чтобы команда могла сама принимать решения.
+          </mj-text>
+
+          <mj-text padding="0">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
+              <tr>
+                <td style="padding:20px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
+                  <p style="margin:0 0 12px 0;font-size:16px;font-weight:bold;line-height:1.3;">А проверить, как с этим дела сейчас, мне помогают вопросы:</p>
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Сколько решений в неделю команда принимает без меня?</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Какие задачи останавливаются, если я не отвечаю день?</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Где роли и ответственность зафиксированы, а где держатся на личных договорённостях?</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Сколько чатов и встреч идут только потому, что я в них участвую?</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+
+          <mj-text padding="12px 0 0 0" css-class="link-white">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#9261ff;border-radius:20px;">
+              <tr>
+                <td style="padding:20px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1.4;color:#ffffff;">
+                  Что делать, если процессы стопорятся на вас, читайте в <a href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1778840966040010" style="color:#ffffff;text-decoration:underline;">«Сфере» в Мессенджере</a>.
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="16px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+      <!-- Expert 2 — Sergey -->
+      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
+        <mj-column>
+          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
+            Делегировать, закрывать долги и оставлять первый день без встреч
+          </mj-text>
+          <mj-image src="../assets/avatar-sergey.png" alt="Сергей Гринченко" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
+          <mj-text padding="0 0 4px 0">
+            <span class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span>
+          </mj-text>
+          <mj-text padding="0 0 16px 0">
+            <span class="chip">Сергей Гринченко</span>
+          </mj-text>
+
+          <mj-text padding="0">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
+              <tr>
+                <td style="padding:20px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
+                  <p style="margin:0 0 12px 0;font-size:16px;font-weight:bold;line-height:1.3;">Я использую классический подход:</p>
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">За 2–3 дня до отпуска закрываю мелкие задачи и согласования, чтобы они не тормозили смежников.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Выделяю приоритетные задачи, в которых я нужен. Назначаю замов по этим задачам и по обработке новых задач, чтобы ничего не потерялось.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Предупреждаю внутренних смежников и внешних контрагентов об отпуске и говорю, к кому обращаться.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Ставлю автоответ в почте и статус в Мессенджере.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">По возможности остаюсь доступным для своей команды по срочным неотложным вопросам. Пока никто не обращался!</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Первый день после отпуска стараюсь оставить без встреч — только разбор Мессенджера, почты и короткие созвоны с командой, чтобы забрать задачи обратно.</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="16px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+      <!-- Expert 3 — Vesta -->
+      <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
+        <mj-column>
+          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
+            Вести таблицу с задачами и не отвлекать в отпуске
+          </mj-text>
+          <mj-image src="../assets/avatar-vesta.png" alt="Веста Нестерова" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
+          <mj-text padding="0 0 4px 0">
+            <span class="chip">Лид команды Сигма</span>
+          </mj-text>
+          <mj-text padding="0 0 16px 0">
+            <span class="chip">Веста Нестерова</span>
+          </mj-text>
+
+          <mj-text padding="0">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
+              <tr>
+                <td style="padding:20px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
+                  <p style="margin:0 0 12px 0;font-size:16px;font-weight:bold;line-height:1.3;">Отпуск в команде мы всегда планируем заранее.</p>
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">На общей встрече я подсвечиваю, кто в какие даты отдыхает — и напоминаю, что отдыхающих мы не тревожим по рабочим вопросам.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Составляем таблицу с задачами, где указываем детали, ответственного и дедлайн.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">В процессе выполнения задач отмечаем, что уже сделано, чтобы был понятен статус — даже если ответственный в отпуске.</td>
+                    </tr>
+                    <tr>
+                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-pink.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">В первый день после выхода просматриваем таблицу, чтобы включиться с того места, где остановились до отпуска (и вспомнить, кем и где мы работаем).</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+
+          <mj-text font-size="16px" line-height="1.4" color="#000000" padding="16px 0 0 0">
+            С таким подходом спокойны и коллеги в отпуске, и команда, и я.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== CHECKLIST PROMO ============== -->
+    <mj-section background-color="#9261ff" border-radius="20px" padding="20px">
+      <mj-column width="65%" vertical-align="middle">
+        <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 16px 0">
+          А вот и чек-лист<br/>про устойчивость
+        </mj-text>
+        <mj-button background-color="#ffffff" color="#222a3a" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="12px 24px" padding="0" align="left" href="#TODO-checklist-download">
+          Скачать
+        </mj-button>
+      </mj-column>
+      <mj-column width="35%" vertical-align="middle">
+        <mj-image src="../assets/checklist-bg.png" alt="" width="160px" align="right" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== EVENTS ============== -->
+    <mj-wrapper background-color="#9261ff" border-radius="20px" padding="24px" css-class="events">
+      <mj-section padding="0 0 16px 0">
+        <mj-column width="62%" vertical-align="middle">
+          <mj-text font-size="36px" font-weight="bold" line-height="1" color="#ffffff" padding="0 0 8px 0">
+            События<br/>Сферы
+          </mj-text>
+          <mj-text font-size="16px" line-height="1.35" color="#ffffff" padding="0">
+            Встречаем лето с классными событиями июня.
+          </mj-text>
+        </mj-column>
+        <mj-column width="38%" vertical-align="middle">
+          <mj-image src="../assets/events-illu.png" alt="" width="160px" align="right" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 16px 0">
+        <mj-column background-color="#ffffff" border-radius="16px" padding="18px" vertical-align="top" width="50%">
+          <mj-text font-weight="bold" font-size="16px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            Поговорим Про × Сфера: когда риск (не) оправдан
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            3 июня 17:00–18:30
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.35" padding="0 0 12px 0">
+            В новом выпуске Поговорим про × «Сфера» обсудим решения без полной ясности, ответственность, давление, ошибки и всё то, что обычно остаётся за кадром красивых запусков.
+          </mj-text>
+          <mj-button background-color="#222a3a" color="#ffffff" font-weight="bold" font-size="14px" border-radius="40px" inner-padding="10px 20px" padding="0" align="left" href="#TODO-event-1">
+            Записаться
+          </mj-button>
+        </mj-column>
+        <mj-column background-color="#ffffff" border-radius="16px" padding="18px" vertical-align="top" width="50%">
+          <mj-text font-weight="bold" font-size="16px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            Какие мы: портрет яндексоида
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            10 июня 16:00–17:30
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.35" padding="0 0 12px 0">
+            Как мы взаимодействуем, что нас мотивирует, чем мы похожи друг на друга и чем отличаемся от других компаний — разберёмся на встрече, основываясь на исследовании Zetic.
+          </mj-text>
+          <mj-button background-color="#222a3a" color="#ffffff" font-weight="bold" font-size="14px" border-radius="40px" inner-padding="10px 20px" padding="0" align="left" href="#TODO-event-2">
+            Записаться
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column background-color="#ffffff" border-radius="16px" padding="18px" vertical-align="top" width="50%">
+          <mj-text font-weight="bold" font-size="16px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            Teamlead Community Day в Питере
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            16 июня 19:00
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.35" padding="0 0 12px 0">
+            Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и обсуждаем профессиональные темы. Приходите, если окажетесь в Питере!
+          </mj-text>
+          <mj-button background-color="#222a3a" color="#ffffff" font-weight="bold" font-size="13px" border-radius="40px" inner-padding="10px 18px" padding="0" align="left" href="#TODO-event-3">
+            БЦ Феррум, Epochs
+          </mj-button>
+        </mj-column>
+        <mj-column background-color="#ffffff" border-radius="16px" padding="18px" vertical-align="top" width="50%">
+          <mj-text font-weight="bold" font-size="16px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            Дискуссионный клуб руководителей Яндекса
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.2" padding="0 0 8px 0">
+            26 июня 16:30–18:00
+          </mj-text>
+          <mj-text font-size="12px" color="rgba(0,0,0,0.8)" line-height="1.35" padding="0 0 12px 0">
+            Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или просто послушать, с чем сейчас сталкиваются коллеги из разных команд Яндекса.
+          </mj-text>
+          <mj-button background-color="#222a3a" color="#ffffff" font-weight="bold" font-size="14px" border-radius="40px" inner-padding="10px 20px" padding="0" align="left" href="#TODO-event-4">
+            Записаться
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== USEFUL LINKS ============== -->
+    <mj-section background-color="#f0e9ff" border-radius="20px" padding="30px">
+      <mj-column>
+        <mj-text font-size="36px" font-weight="bold" line-height="1" color="#1f2426" padding="0 0 20px 0">
+          Полезные ссылки
+        </mj-text>
+
+        <mj-text padding="0 0 14px 0">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border-radius:64px;">
+            <tr>
+              <td style="padding:14px 8px 14px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.3;color:#000000;">
+                <a href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/" style="color:#000000;text-decoration:none;"><strong>Вики Toolbox</strong> — база знаний, подходов и инструментов</a>
+              </td>
+              <td width="48" align="right" valign="middle" style="padding:8px;">
+                <a href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"><img src="../assets/arrow.png" alt="" width="32" height="32" style="display:block;" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 14px 0">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border-radius:64px;">
+            <tr>
+              <td style="padding:14px 8px 14px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.3;color:#000000;">
+                <a href="https://lead.yandex-team.ru/" style="color:#000000;text-decoration:none;"><strong>Toolbox AI</strong> — нейроассистент, который помогает управлять командой</a>
+              </td>
+              <td width="48" align="right" valign="middle" style="padding:8px;">
+                <a href="https://lead.yandex-team.ru/"><img src="../assets/arrow.png" alt="" width="32" height="32" style="display:block;" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 14px 0">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border-radius:64px;">
+            <tr>
+              <td style="padding:14px 8px 14px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.3;color:#000000;">
+                <a href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/" style="color:#000000;text-decoration:none;">Среда развития руководителей</a>
+              </td>
+              <td width="48" align="right" valign="middle" style="padding:8px;">
+                <a href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"><img src="../assets/arrow.png" alt="" width="32" height="32" style="display:block;" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border-radius:64px;">
+            <tr>
+              <td style="padding:14px 8px 14px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.3;color:#000000;">
+                <a href="https://wiki.yandex-team.ru/hr/dk-1/rabochie-kommunikacii-v-messendzhere/?utm_source=mail&amp;utm_medium=any&amp;utm_campaign=messenger_0226" style="color:#000000;text-decoration:none;">Новый ГЭП — запланировать отпуск и посмотреть календарь команды</a>
+              </td>
+              <td width="48" align="right" valign="middle" style="padding:8px;">
+                <a href="https://wiki.yandex-team.ru/hr/dk-1/rabochie-kommunikacii-v-messendzhere/?utm_source=mail&amp;utm_medium=any&amp;utm_campaign=messenger_0226"><img src="../assets/arrow.png" alt="" width="32" height="32" style="display:block;" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== FEEDBACK ============== -->
+    <mj-section background-color="#9261ff" border-radius="20px" padding="20px 30px">
+      <mj-column width="62%" vertical-align="middle">
+        <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0">
+          Как вам рассылка?
+        </mj-text>
+      </mj-column>
+      <mj-column width="38%" vertical-align="middle">
+        <mj-table cellpadding="0" cellspacing="0" padding="0" align="right">
+          <tr>
+            <td align="right">
+              <table cellpadding="0" cellspacing="0" role="presentation" align="right">
+                <tr>
+                  <td style="padding:0 6px 0 0;">
+                    <a href="#TODO-feedback-good" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="../assets/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
+                  </td>
+                  <td>
+                    <a href="#TODO-feedback-bad" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="../assets/thumbs-down.png" alt="Не понравилось" width="26" height="26" style="display:block;" /></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+    <!-- ============== COMMUNITY / FOOTER ============== -->
+    <mj-section background-color="#f0e9ff" border-radius="24px" padding="32px">
+      <mj-column>
+        <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
+          Участвуйте в жизни сообщества «Сфера»
+        </mj-text>
+        <mj-text font-size="16px" line-height="1.35" color="rgba(0,0,0,0.8)" padding="0 0 20px 0">
+          Станьте спикером, автором сообщества или экспертом Toolbox, участвуйте в разборе кейсов или делитесь идеями того, как нам сделать «Сферу» полезнее для вас — в общем, выбирайте свой формат.
+        </mj-text>
+
+        <mj-text padding="0 0 20px 0">
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border-radius:64px;">
+            <tr>
+              <td style="padding:14px 8px 14px 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;line-height:1.3;">
+                <a href="https://forms.yandex-team.ru/ext/surveys/13717108" style="color:#9261ff;text-decoration:none;">Выбрать формат участия</a>
+              </td>
+              <td width="48" align="right" valign="middle" style="padding:8px;">
+                <a href="https://forms.yandex-team.ru/ext/surveys/13717108"><img src="../assets/arrow.png" alt="" width="32" height="32" style="display:block;" /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text font-size="15px" line-height="1.3" color="#5d6c72" padding="0" css-class="footer-link">
+          <a href="https://forms.yandex-team.ru/ext/surveys/13828618" style="color:#5d6c72;text-decoration:underline;">Отписаться от рассылки</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 24px 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+
+  </mj-body>
+</mjml>
