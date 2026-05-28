@@ -294,17 +294,14 @@
     <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== CHECKLIST PROMO ============== -->
-    <mj-section background-color="#9261ff" border-radius="20px" padding="20px">
-      <mj-column width="65%" vertical-align="middle">
+    <mj-section background-color="#9261ff" background-url="../assets/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 160px" border-radius="20px" padding="0">
+      <mj-column vertical-align="middle" padding="20px">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 16px 0">
           А вот и чек-лист<br/>про устойчивость
         </mj-text>
         <mj-button background-color="#ffffff" color="#222a3a" font-weight="bold" font-size="16px" border-radius="40px" inner-padding="12px 24px" padding="0" align="left" href="#TODO-checklist-download">
           Скачать
         </mj-button>
-      </mj-column>
-      <mj-column width="35%" vertical-align="middle">
-        <mj-image src="../assets/checklist-bg.png" alt="" width="160px" align="right" padding="0" />
       </mj-column>
     </mj-section>
 
