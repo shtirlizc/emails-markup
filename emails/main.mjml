@@ -11,7 +11,7 @@
       a { color: inherit; }
       .link-white a { color: #ffffff !important; text-decoration: underline; }
       .footer-link a { color: #5d6c72 !important; text-decoration: underline; }
-      .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.2 Arial, Helvetica, sans-serif; padding: 10px 8px 8px; border-radius: 17px; margin: 0 8px 8px 0; }
+      .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.2 Arial, Helvetica, sans-serif; padding: 9px 8px 8px; border-radius: 17px; margin: 0 8px 8px 0; }
       @media only screen and (max-width:480px) {
         .event-card-left, .event-card-right { padding-left: 0 !important; padding-right: 0 !important; }
         .event-card-left { padding-bottom: 16px !important; }
@@ -171,26 +171,26 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 2 — Sergey -->
-      <mj-section padding="0">
-        <mj-column background-color="#e1c9fd" border-radius="20px" padding="20px">
-          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
-            Делегировать, закрывать долги и оставлять первый день без встреч
+      <mj-section padding="0 0 0 4px">
+        <mj-column background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
+          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 1px 0">
+            Делегировать, закрывать долги и&nbsp;оставлять первый день без встреч
           </mj-text>
-          <mj-text padding="0 0 16px 0">
+          <mj-text padding="0 0 20px 0">
             <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td valign="top" width="112" style="padding:0;">
+                <td valign="top" width="112" style="padding:0 0 0 0;">
                   <img src="../assets/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
                 </td>
-                <td valign="middle">
+                <td valign="top" style="padding:25px 0 0 0;">
                   <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
                   <div style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span></div>
                 </td>
               </tr>
             </table>
             <!--[if !mso]><!-->
-            <img src="../assets/star-1.png" alt="" width="166" height="161" style="position:absolute;right:-50px;bottom:-20px;display:block;border:0;outline:none;text-decoration:none;" />
+            <img src="../assets/star-1.png" alt="" width="166" height="161" style="position:absolute;right:-64px;bottom:-22px;display:block;border:0;outline:none;text-decoration:none;" />
             <!--<![endif]-->
             </div>
           </mj-text>
@@ -198,32 +198,32 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
               <tr>
-                <td style="padding:20px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
-                  <p style="margin:0 0 12px 0;font-size:16px;font-weight:bold;line-height:1.3;">Я использую классический подход:</p>
+                <td style="padding:20px 16px 11px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
+                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Я использую классический подход:</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">За 2–3 дня до отпуска закрываю мелкие задачи и согласования, чтобы они не тормозили смежников.</td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">За 2–3 дня до отпуска закрываю мелкие задачи и согласования, чтобы они не тормозили смежников.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Выделяю приоритетные задачи, в которых я нужен. Назначаю замов по этим задачам и по обработке новых задач, чтобы ничего не потерялось.</td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Выделяю приоритетные задачи, в которых я нужен. Назначаю замов по этим задачам и по обработке новых задач, чтобы ничего не потерялось.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Предупреждаю внутренних смежников и внешних контрагентов об отпуске и говорю, к кому обращаться.</td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 4px;">Предупреждаю внутренних смежников и внешних контрагентов об&nbsp;отпуске и говорю, к кому обращаться.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Ставлю автоответ в почте и статус в Мессенджере.</td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Ставлю автоответ в почте и статус в Мессенджере.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">По возможности остаюсь доступным для своей команды по срочным неотложным вопросам. Пока никто не обращался!</td>
+                      <td width="30" valign="top" style="width:30px;padding:2px 0 4px;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:6px 0 2px;">По возможности остаюсь доступным для своей команды по&nbsp;срочным неотложным вопросам. Пока никто не обращался!</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="padding:4px 6px 4px 0;"><img src="../assets/check-purple.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Первый день после отпуска стараюсь оставить без встреч — только разбор Мессенджера, почты и короткие созвоны с командой, чтобы забрать задачи обратно.</td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0;">Первый день после отпуска стараюсь оставить без встреч — только разбор Мессенджера, почты и короткие созвоны с командой, чтобы&nbsp;забрать задачи обратно.</td>
                     </tr>
                   </table>
                 </td>
@@ -236,26 +236,26 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 3 — Vesta -->
-      <mj-section padding="0">
-        <mj-column background-color="#e1c9fd" border-radius="20px" padding="20px">
-          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
-            Вести таблицу с задачами и не отвлекать в отпуске
+      <mj-section padding="0 0 0 4px">
+        <mj-column background-color="#e1c9fd" border-radius="20px" padding="22px 20px 18px 20px">
+          <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
+            Вести таблицу с задачами<br>и не отвлекать в отпуске
           </mj-text>
-          <mj-text padding="0 0 16px 0">
+          <mj-text padding="0 0 19px 0">
             <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td valign="top" width="112" style="padding:0;">
+                <td valign="top" width="112" style="padding:0 0 0 0;">
                   <img src="../assets/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
                 </td>
-                <td valign="middle">
+                <td valign="bottom" style="padding:25px 0 3px 6px;">
                   <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
                   <div style="margin:0;"><span style="margin:0;" class="chip">Лид команды Сигма</span></div>
                 </td>
               </tr>
             </table>
             <!--[if !mso]><!-->
-            <img src="../assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-50px;bottom:-8px;display:block;border:0;outline:none;text-decoration:none;" />
+            <img src="../assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-62px;bottom:-10px;display:block;border:0;outline:none;text-decoration:none;" />
             <!--<![endif]-->
             </div>
           </mj-text>
@@ -263,24 +263,24 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;">
               <tr>
-                <td style="padding:20px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
-                  <p style="margin:0 0 12px 0;font-size:16px;font-weight:bold;line-height:1.3;">Отпуск в команде мы всегда планируем заранее.</p>
+                <td style="padding:20px 16px 17px;font-family:Arial,Helvetica,sans-serif;color:#000000;">
+                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Отпуск в команде мы всегда планируем заранее.</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
                       <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">На общей встрече я подсвечиваю, кто в какие даты отдыхает — и напоминаю, что отдыхающих мы не тревожим по рабочим вопросам.</td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 6px;">На общей встрече я подсвечиваю, кто в какие даты отдыхает — и&nbsp;напоминаю, что отдыхающих мы не тревожим по рабочим вопросам.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">Составляем таблицу с задачами, где указываем детали, ответственного и дедлайн.</td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Составляем таблицу с задачами, где указываем детали, ответственного и дедлайн.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">В процессе выполнения задач отмечаем, что уже сделано, чтобы был понятен статус — даже если ответственный в отпуске.</td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">В процессе выполнения задач отмечаем, что уже сделано, чтобы&nbsp;был понятен статус — даже если ответственный в отпуске.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.4;color:#000000;padding:4px 0;">В первый день после выхода просматриваем таблицу, чтобы включиться с того места, где остановились до отпуска (и вспомнить, кем и где мы работаем).</td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="../assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">В первый день после выхода просматриваем таблицу, чтобы&nbsp;включиться с того места, где остановились до отпуска (и&nbsp;вспомнить, кем и где мы работаем).</td>
                     </tr>
                   </table>
                 </td>
@@ -288,7 +288,7 @@
             </table>
           </mj-text>
 
-          <mj-text font-size="16px" line-height="1.4" color="#000000" padding="16px 0 0 0">
+          <mj-text font-size="16px" line-height="1.2" color="#000000" padding="21px 0 0 0">
             С таким подходом спокойны и коллеги в отпуске, и команда, и я.
           </mj-text>
         </mj-column>
