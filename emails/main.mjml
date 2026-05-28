@@ -17,17 +17,27 @@
   <mj-body background-color="#e1c9fd" width="600px">
 
     <!-- ============== HERO CARD ============== -->
-    <mj-wrapper background-color="#ffffff" border-radius="24px" padding="24px 24px 24px 24px" css-class="hero">
+    <mj-wrapper background-color="#ffffff" border-radius="24px" padding="32px 32px 24px 32px" css-class="hero">
       <mj-section padding="0 0 16px 0">
-        <mj-column width="50%" vertical-align="middle">
-          <mj-image src="../assets/logo-yateam.png" alt="Я Team" align="left" width="96px" padding="0 0 16px 0" />
-          <mj-text font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="16px 0 0 0">
+        <mj-column width="40%" vertical-align="middle">
+          <mj-image src="../assets/logo-yateam.png" alt="Я Team" align="left" width="96px" padding="0" />
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-image src="../assets/logo-sfera.png" alt="Сфера" align="right" width="140px" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="../assets/hero.png" alt="Иллюстрация — лето в Сфере" align="center" width="320px" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 8px 0">
+        <mj-column>
+          <mj-text font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="8px 0 0 0">
             Привет!
           </mj-text>
-        </mj-column>
-        <mj-column width="50%" vertical-align="middle">
-          <mj-image src="../assets/logo-sfera.png" alt="Сфера" align="right" width="140px" padding="0 0 8px 0" />
-          <mj-image src="../assets/hero.png" alt="Иллюстрация — лето в Сфере" align="right" width="220px" padding="0" />
         </mj-column>
       </mj-section>
 
@@ -82,7 +92,7 @@
     <!-- ============== PRO OTPUSK BIG CARD ============== -->
     <mj-wrapper background-color="#ffffff" border-radius="20px" padding="24px 20px 24px 20px" css-class="pro-otpusk">
 
-      <mj-section padding="0 4px 16px 4px">
+      <mj-section padding="0 4px 36px 4px">
         <mj-column>
           <mj-text font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="0">
             Про&nbsp;отпуск
@@ -96,12 +106,18 @@
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Не замыкать процессы на себе
           </mj-text>
-          <mj-image src="../assets/avatar-olga.png" alt="Ольга Кирюточкина" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
-          <mj-text padding="0 0 4px 0">
-            <span class="chip">Руководитель группы развития и оптимизации проектов</span>
-          </mj-text>
           <mj-text padding="0 0 12px 0">
-            <span class="chip">Ольга Кирюточкина</span>
+            <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+              <tr>
+                <td valign="top" width="112" style="padding:0 14px 0 0;">
+                  <img src="../assets/avatar-olga.png" alt="Ольга Кирюточкина" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                </td>
+                <td valign="middle">
+                  <div style="margin:0 0 6px 0;"><span class="chip">Руководитель группы развития и оптимизации проектов</span></div>
+                  <div><span class="chip">Ольга Кирюточкина</span></div>
+                </td>
+              </tr>
+            </table>
           </mj-text>
           <mj-text font-size="16px" line-height="1.4" color="#000000" padding="4px 0 0 0">
             Во время отпуска становилось ясно: где команда умела жить без ручного управления, а где всё держалось на моём незримом присутствии в каждом решении.
@@ -150,7 +166,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="16px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+      <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 2 — Sergey -->
       <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
@@ -158,12 +174,18 @@
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Делегировать, закрывать долги и оставлять первый день без встреч
           </mj-text>
-          <mj-image src="../assets/avatar-sergey.png" alt="Сергей Гринченко" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
-          <mj-text padding="0 0 4px 0">
-            <span class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span>
-          </mj-text>
           <mj-text padding="0 0 16px 0">
-            <span class="chip">Сергей Гринченко</span>
+            <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+              <tr>
+                <td valign="top" width="112" style="padding:0 14px 0 0;">
+                  <img src="../assets/avatar-sergey.png" alt="Сергей Гринченко" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                </td>
+                <td valign="middle">
+                  <div style="margin:0 0 6px 0;"><span class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и региональной архитектуры</span></div>
+                  <div><span class="chip">Сергей Гринченко</span></div>
+                </td>
+              </tr>
+            </table>
           </mj-text>
 
           <mj-text padding="0">
@@ -204,7 +226,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="16px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
+      <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 3 — Vesta -->
       <mj-section background-color="#e1c9fd" border-radius="20px" padding="20px">
@@ -212,12 +234,18 @@
           <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 16px 0">
             Вести таблицу с задачами и не отвлекать в отпуске
           </mj-text>
-          <mj-image src="../assets/avatar-vesta.png" alt="Веста Нестерова" width="96px" align="left" border-radius="48px" padding="0 0 12px 0" />
-          <mj-text padding="0 0 4px 0">
-            <span class="chip">Лид команды Сигма</span>
-          </mj-text>
           <mj-text padding="0 0 16px 0">
-            <span class="chip">Веста Нестерова</span>
+            <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+              <tr>
+                <td valign="top" width="112" style="padding:0 14px 0 0;">
+                  <img src="../assets/avatar-vesta.png" alt="Веста Нестерова" width="96" height="96" style="display:block;border-radius:48px;border:0;" />
+                </td>
+                <td valign="middle">
+                  <div style="margin:0 0 6px 0;"><span class="chip">Лид команды Сигма</span></div>
+                  <div><span class="chip">Веста Нестерова</span></div>
+                </td>
+              </tr>
+            </table>
           </mj-text>
 
           <mj-text padding="0">
@@ -275,7 +303,7 @@
     <mj-section padding="12px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== EVENTS ============== -->
-    <mj-wrapper background-color="#9261ff" border-radius="20px" padding="24px" css-class="events">
+    <mj-wrapper background-color="#9261ff" border-radius="24px" padding="24px" css-class="events">
       <mj-section padding="0 0 16px 0">
         <mj-column width="62%" vertical-align="middle">
           <mj-text font-size="36px" font-weight="bold" line-height="1" color="#ffffff" padding="0 0 8px 0">
