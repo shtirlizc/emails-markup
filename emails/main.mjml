@@ -11,6 +11,9 @@
       a { color: inherit; }
       .link-white a { color: #ffffff !important; text-decoration: underline; }
       .footer-link a { color: #5d6c72 !important; text-decoration: underline; }
+      .text-nowrap div { white-space: nowrap; }
+      .events { overflow: visible !important; }
+      .events-illu-column { margin-bottom: -34px; position: relative; z-index: 2; }
       .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.2 Arial, Helvetica, sans-serif; padding: 9px 8px 8px; border-radius: 17px; margin: 0 8px 8px 0; }
       @media only screen and (max-width:480px) {
         .event-card-left, .event-card-right { padding-left: 0 !important; padding-right: 0 !important; }
@@ -314,11 +317,11 @@
           <mj-text font-size="36px" font-weight="bold" line-height="1" color="#ffffff" padding="12px 0 24px 2px">
             События<br/>Сферы
           </mj-text>
-          <mj-text font-size="16px" line-height="1.35" color="#ffffff" padding="0 0 0 2px">
+          <mj-text font-size="16px" line-height="1.35" color="#ffffff" padding="0 0 0 2px" css-class="text-nowrap">
             Встречаем лето с классными событиями июня.
           </mj-text>
         </mj-column>
-        <mj-column width="38%" vertical-align="middle">
+        <mj-column width="38%" vertical-align="middle" css-class="events-illu-column">
           <mj-image src="../assets/events-illu.png" alt="" width="165px" height="169px" align="right" padding="0" />
         </mj-column>
       </mj-section>
