@@ -42,6 +42,10 @@
         .feedback-actions table { margin-left: 0 !important; margin-right: auto !important; }
         .feedback-actions td { text-align: left !important; }
       }
+      @media only screen and (max-width:489px) {
+        .cloud-promo { background: #9261ff !important; background-image: none !important; }
+        .cloud-promo table { background: #9261ff !important; background-image: none !important; }
+      }
     </mj-style>
   </mj-head>
   <mj-body background-color="#e1c9fd" width="600px">
@@ -320,7 +324,7 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== CHECKLIST PROMO ============== -->
-    <mj-section css-class="mobile-section-pad" background-color="#9261ff" background-url="../assets/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
+    <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="../assets/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
       <mj-column vertical-align="middle" padding="23px 20px 20px 32px">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 18px 0">
           А вот и чек-лист<br/>про устойчивость
