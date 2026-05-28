@@ -57,8 +57,16 @@
         .event-row-gap > table > tbody > tr > td { padding-bottom: 0 !important; }
       }
       @media only screen and (max-width:489px) {
-        .cloud-promo { background: #9261ff !important; background-image: none !important; }
-        .cloud-promo table { background: #9261ff !important; background-image: none !important; }
+        .cloud-promo { background-size: auto 90px !important; }
+        .cloud-promo table { background-size: auto 90px !important; }
+      }
+      @media only screen and (min-width:420px) and (max-width:489px) {
+        .cloud-promo { background-size: auto 110px !important; }
+        .cloud-promo table { background-size: auto 110px !important; }
+      }
+      @media only screen and (min-width:460px) and (max-width:489px) {
+        .cloud-promo { background-size: auto 135px !important; }
+        .cloud-promo table { background-size: auto 135px !important; }
       }
     </mj-style>
   </mj-head>
