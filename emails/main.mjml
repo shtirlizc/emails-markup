@@ -331,11 +331,11 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td style="padding:18px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <p style="margin:0 0 8px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про × Сфера: когда риск (не) оправдан</p>
-                <p style="margin:0 0 8px 0;font-size:12px;line-height:1.2;">3 июня 17:00–18:30</p>
-                <p style="margin:0 0 12px 0;font-size:12px;line-height:1.35;">В новом выпуске Поговорим про × «Сфера» обсудим решения без полной ясности, ответственность, давление, ошибки и всё то, что обычно остаётся за кадром красивых запусков.</p>
-                <a href="#TODO-event-1" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:10px 20px;">Записаться</a>
+              <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про × Сфера: когда риск (не) оправдан</p>
+                <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">3 июня 17:00–18:30</p>
+                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">В новом выпуске Поговорим про × «Сфера» обсудим решения без полной ясности, ответственность, давление, ошибки и всё то, что обычно остаётся за&nbsp;кадром красивых запусков.</p>
+                <a href="#TODO-event-1" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
               </td>
             </tr>
             </table>
@@ -345,11 +345,11 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td style="padding:18px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <p style="margin:0 0 8px 0;font-size:16px;font-weight:bold;line-height:1.2;">Какие мы: портрет яндексоида</p>
-                <p style="margin:0 0 8px 0;font-size:12px;line-height:1.2;">10 июня 16:00–17:30</p>
-                <p style="margin:0 0 12px 0;font-size:12px;line-height:1.35;">Как мы взаимодействуем, что нас мотивирует, чем мы похожи друг на друга и чем отличаемся от других компаний — разберёмся на встрече, основываясь на исследовании Zetic.</p>
-                <a href="#TODO-event-2" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:10px 20px;">Записаться</a>
+              <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Какие мы:<br>портрет яндексоида</p>
+                <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">10 июня 16:00–17:30</p>
+                <p style="margin:0 0 30px 0;font-size:12px;line-height:1.2;">Как мы взаимодействуем, что нас мотивирует, чем мы похожи друг на&nbsp;друга и чем отличаемся от других компаний — разберёмся на встрече, основываясь на исследовании Zetic.</p>
+                <a href="#TODO-event-2" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
               </td>
             </tr>
             </table>
@@ -362,11 +362,11 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td style="padding:18px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                  <p style="margin:0 0 8px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в Питере</p>
-                  <p style="margin:0 0 8px 0;font-size:12px;line-height:1.2;">16 июня 19:00</p>
-                  <p style="margin:0 0 12px 0;font-size:12px;line-height:1.35;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и обсуждаем профессиональные темы. Приходите, если окажетесь в Питере!</p>
-                  <a href="#TODO-event-3" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:10px 18px;">БЦ Феррум, Epochs</a>
+                <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                  <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в Питере</p>
+                  <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">16 июня 19:00</p>
+                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и обсуждаем профессиональные темы. Приходите,&nbsp;если окажетесь в Питере!</p>
+                  <a href="#TODO-event-3" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">БЦ Феррум, Epochs</a>
                 </td>
               </tr>
             </table>
@@ -376,11 +376,11 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td style="padding:18px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                  <p style="margin:0 0 8px 0;font-size:16px;font-weight:bold;line-height:1.2;">Дискуссионный клуб руководителей Яндекса</p>
-                  <p style="margin:0 0 8px 0;font-size:12px;line-height:1.2;">26 июня 16:30–18:00</p>
-                  <p style="margin:0 0 12px 0;font-size:12px;line-height:1.35;">Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или просто послушать, с чем сейчас сталкиваются коллеги из разных команд Яндекса.</p>
-                  <a href="#TODO-event-4" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:10px 20px;">Записаться</a>
+                <td style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                  <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Дискуссионный клуб руководителей Яндекса</p>
+                  <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">26 июня 16:30–18:00</p>
+                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Первая летняя встреча участников «Сферы», куда можно принести любой вопрос — или просто послушать, с&nbsp;чем&nbsp;сейчас сталкиваются коллеги из&nbsp;разных команд Яндекса.</p>
+                  <a href="#TODO-event-4" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;">Записаться</a>
                 </td>
               </tr>
             </table>
