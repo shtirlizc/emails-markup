@@ -242,19 +242,19 @@
                               <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А&nbsp;проверить, как&nbsp;с&nbsp;этим дела сейчас, мне помогают вопросы:</p>
                               <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в&nbsp;неделю команда принимает без&nbsp;меня?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я&nbsp;не&nbsp;отвечаю день?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и&nbsp;ответственность зафиксированы, а&nbsp;где держатся на&nbsp;личных договорённостях?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и&nbsp;встреч идут только потому, что&nbsp;я&nbsp;в&nbsp;них участвую?</td>
                                 </tr>
                               </table>
@@ -518,12 +518,11 @@
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в&nbsp;Питере</p>
                   <p style="margin:0 0 12px 0;font-size:12px;line-height:1.2;">16 июня 19:00</p>
                   <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">Внутренняя встреча комьюнити тимлидов Яндекса: знакомимся, общаемся и&nbsp;обсуждаем профессиональные темы. Приходите,&nbsp;если окажетесь в&nbsp;Питере!</p>
+                  <p style="margin:0 0 14px 0;font-size:12px;line-height:1.2;">БЦ&nbsp;Феррум, Epochs<br />Регистрация скоро на&nbsp;«Событиях»</p>
                     </td>
                   </tr>
                   <tr>
-                    <td valign="bottom" style="padding-top:12px;font-family:Arial,Helvetica,sans-serif;">
-                      <a class="event-card-cta" href="#TODO-event-3" style="display:inline-block;background:#222a3a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1;text-decoration:none;border-radius:40px;padding:15px 24px;text-align: center">БЦ Феррум, Epochs</a>
-                    </td>
+                    <td valign="bottom" height="15" style="height:5px;font-size:0;line-height:0;">&nbsp;</td>
                   </tr>
                 </table>
               </td>
@@ -613,7 +612,7 @@
         </mj-text>
 
         <mj-text padding="0">
-          <a class="mobile-link-card" href="https://wiki.yandex-team.ru/hr/dk-1/rabochie-kommunikacii-v-messendzhere/?utm_source=mail&amp;utm_medium=any&amp;utm_campaign=messenger_0226" style="display:block;background:#ffffff;border-radius:64px;color:#000000;text-decoration:none;">
+          <a class="mobile-link-card" href="https://yandex-team.ru/gap?utm_source=mail&utm_medium=any&utm_content=hng" style="display:block;background:#ffffff;border-radius:64px;color:#000000;text-decoration:none;">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td style="padding:10px 8px 8px 26px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.2;color:#000000;">
