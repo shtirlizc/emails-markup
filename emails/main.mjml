@@ -101,7 +101,7 @@
     <mj-wrapper background-color="#ffffff" border-radius="24px" padding="0 0 0 0" css-class="hero">
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="https://emails-markup.vercel.app/assets/hero.jpg" alt="Сфера" align="right" width="600px" padding="0" fluid-on-mobile="true" />
+          <mj-image src="https://storage.yandexcloud.net/team-hh-email/hero.jpg" alt="Сфера" align="right" width="600px" padding="0" fluid-on-mobile="true" />
         </mj-column>
       </mj-section>
 
@@ -126,7 +126,7 @@
           <mj-table cellpadding="0" cellspacing="0" padding="0">
             <tr>
               <td width="30" valign="top" style="width:30px;padding:1px 0 6px 0;">
-                <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
+                <img src="https://storage.yandexcloud.net/team-hh-email/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0 6px 0;">
                 Встречаем лето, а&nbsp;вместе с&nbsp;ним — период отпусков. Собрали опыт и&nbsp;советы руководителей о&nbsp;том, как&nbsp;уйти отдыхать так, чтобы быть уверенным в&nbsp;команде и&nbsp;спокойно возвращаться к&nbsp;работе.
@@ -134,7 +134,7 @@
             </tr>
             <tr>
               <td width="30" valign="top" style="width:30px;padding:0">
-                <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
+                <img src="https://storage.yandexcloud.net/team-hh-email/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
                 Ещё делимся чек-листом, по&nbsp;которому можно проверить,<span class="desktop-break"><br /></span>насколько вы&nbsp;сейчас устойчивы к&nbsp;неопределённости — и&nbsp;узнать,<span class="desktop-break"><br /></span>как&nbsp;эту устойчивость планировать.
@@ -142,7 +142,7 @@
             </tr>
             <tr>
               <td width="30" valign="top" style="width:30px;padding:0;">
-                <img src="https://emails-markup.vercel.app/assets/check-sun.png" alt="" width="24" height="24" style="display:block;" />
+                <img src="https://storage.yandexcloud.net/team-hh-email/check-sun.png" alt="" width="24" height="24" style="display:block;" />
               </td>
               <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.25;color:#000000;padding:4px 0;">
                 А&nbsp;в&nbsp;конце собрали первые летние события для&nbsp;тех,<span class="desktop-break"><br /></span>кто не&nbsp;запланировал отпуск на&nbsp;июнь.
@@ -198,7 +198,7 @@
                               <table class="expert-person-table" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                                 <tr>
                                   <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                                    <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
+                                    <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
                                   </td>
                                   <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
                                     <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
@@ -208,7 +208,7 @@
                               </table>
                             </td>
                             <td class="expert-illustration-cell" valign="top" width="119" height="154" style="width:119px;height:154px;padding:0;text-align:right;line-height:0;font-size:0;">
-                              <img src="https://emails-markup.vercel.app/assets/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
+                              <img src="https://storage.yandexcloud.net/team-hh-email/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
                             </td>
                           </tr>
                         </table>
@@ -234,19 +234,19 @@
                               <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А&nbsp;проверить, как&nbsp;с&nbsp;этим дела сейчас, мне помогают вопросы:</p>
                               <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в&nbsp;неделю команда принимает без&nbsp;меня?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я&nbsp;не&nbsp;отвечаю день?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и&nbsp;ответственность зафиксированы, а&nbsp;где держатся на&nbsp;личных договорённостях?</td>
                                 </tr>
                                 <tr>
-                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                                   <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и&nbsp;встреч идут только потому, что&nbsp;я&nbsp;в&nbsp;них участвую?</td>
                                 </tr>
                               </table>
@@ -290,7 +290,7 @@
                   <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                     <tr>
                       <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                        <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
+                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
                       </td>
                       <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
                         <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
@@ -310,27 +310,27 @@
                   <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Я&nbsp;использую классический подход:</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">За&nbsp;2–3 дня до&nbsp;отпуска закрываю мелкие задачи и&nbsp;согласования, чтобы они не&nbsp;тормозили смежников.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Выделяю приоритетные задачи, в&nbsp;которых я&nbsp;нужен. Назначаю замов по&nbsp;этим задачам и&nbsp;по&nbsp;обработке новых задач, чтобы ничего не&nbsp;потерялось.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 4px;">Предупреждаю внутренних смежников и&nbsp;внешних контрагентов об&nbsp;отпуске и&nbsp;говорю, к&nbsp;кому обращаться.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 2px;">Ставлю автоответ в&nbsp;почте и&nbsp;статус в&nbsp;Мессенджере.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:2px 0 4px;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:2px 0 4px;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:6px 0 2px;">По&nbsp;возможности остаюсь доступным для&nbsp;своей команды по&nbsp;срочным неотложным вопросам. Пока никто не&nbsp;обращался!</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-star.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0;">Первый день после отпуска стараюсь оставить без&nbsp;встреч — только разбор Мессенджера, почты и&nbsp;короткие созвоны с&nbsp;командой, чтобы&nbsp;забрать задачи обратно.</td>
                     </tr>
                   </table>
@@ -356,7 +356,7 @@
                   <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                     <tr>
                       <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                        <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
+                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
                       </td>
                       <td class="expert-info-cell" valign="bottom" style="padding:25px 0 3px 6px;">
                         <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
@@ -376,19 +376,19 @@
                   <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">Отпуск в&nbsp;команде мы&nbsp;всегда планируем заранее.</p>
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:8px 0 6px;">На&nbsp;общей встрече я&nbsp;подсвечиваю, кто в&nbsp;какие даты отдыхает — и&nbsp;напоминаю, что&nbsp;отдыхающих мы&nbsp;не&nbsp;тревожим по&nbsp;рабочим вопросам.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Составляем таблицу с&nbsp;задачами, где указываем детали, ответственного и&nbsp;дедлайн.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">В&nbsp;процессе выполнения задач отмечаем, что&nbsp;уже сделано, чтобы&nbsp;был понятен статус — даже если ответственный в&nbsp;отпуске.</td>
                     </tr>
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                      <td width="30" valign="top" style="width:30px;padding:0;"><img src="https://storage.yandexcloud.net/team-hh-email/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
                       <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">В&nbsp;первый день после выхода просматриваем таблицу, чтобы&nbsp;включиться с&nbsp;того места, где остановились до&nbsp;отпуска (и&nbsp;вспомнить, кем и&nbsp;где мы&nbsp;работаем).</td>
                     </tr>
                   </table>
@@ -403,7 +403,7 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== CHECKLIST PROMO ============== -->
-    <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="https://emails-markup.vercel.app/assets/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
+    <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="https://storage.yandexcloud.net/team-hh-email/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
       <mj-column vertical-align="middle" padding="23px 20px 20px 32px">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 18px 0">
           А&nbsp;вот и&nbsp;чек-лист<br/>про&nbsp;устойчивость
@@ -418,7 +418,7 @@
                 <tbody>
                   <tr>
                     <td align="center" bgcolor="#ffffff" role="presentation" style="border:none;border-radius:40px;cursor:auto;mso-padding-alt:13px 24px;background:#ffffff;" valign="middle">
-                      <a href="https://emails-markup.vercel.app/assets/checklist.pdf" download="Чек_лист_«Как_сохранить_внутренний_ресурс»" style="display:inline-block;background:#ffffff;color:#222a3a;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:13px 24px;mso-padding-alt:0px;border-radius:40px;" target="_blank">Скачать</a>
+                      <a href="https://storage.yandexcloud.net/team-hh-email/checklist.pdf" download="Чек_лист_«Как_сохранить_внутренний_ресурс»" style="display:inline-block;background:#ffffff;color:#222a3a;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:13px 24px;mso-padding-alt:0px;border-radius:40px;" target="_blank">Скачать</a>
                     </td>
                   </tr>
                 </tbody>
@@ -443,7 +443,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="38%" vertical-align="middle" css-class="events-illu-column">
-          <mj-image src="https://emails-markup.vercel.app/assets/events-illu.png" alt="" width="165px" height="169px" align="right" padding="0" />
+          <mj-image src="https://storage.yandexcloud.net/team-hh-email/events-illu.png" alt="" width="165px" height="169px" align="right" padding="0" />
         </mj-column>
       </mj-section>
 
@@ -566,7 +566,7 @@
                   <span style="color:#000000;text-decoration:underline;">Вики Toolbox — база знаний, подходов и&nbsp;инструментов</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
-                  <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
+                  <img src="https://storage.yandexcloud.net/team-hh-email/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
                 </td>
               </tr>
             </table>
@@ -581,7 +581,7 @@
                   <span style="color:#000000;text-decoration:underline;">Toolbox AI — нейроассистент, который помогает управлять&nbsp;командой</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
-                  <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
+                  <img src="https://storage.yandexcloud.net/team-hh-email/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
                 </td>
               </tr>
             </table>
@@ -596,7 +596,7 @@
                   <span style="color:#000000;text-decoration:underline;">Среда развития руководителей</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
-                  <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
+                  <img src="https://storage.yandexcloud.net/team-hh-email/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
                 </td>
               </tr>
             </table>
@@ -611,7 +611,7 @@
                   <span style="color:#000000;text-decoration:underline;">Новый ГЭП — запланировать отпуск и&nbsp;посмотреть календарь команды</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
-                  <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
+                  <img src="https://storage.yandexcloud.net/team-hh-email/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
                 </td>
               </tr>
             </table>
@@ -636,10 +636,10 @@
               <table cellpadding="0" cellspacing="0" role="presentation" align="right">
                 <tr>
                   <td style="padding:0 6px 0 0;">
-                    <a href="https://forms.yandex-team.ru/ext/surveys/13828617" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="https://forms.yandex-team.ru/ext/surveys/13828617" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://storage.yandexcloud.net/team-hh-email/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                   <td>
-                    <a href="https://forms.yandex-team.ru/ext/surveys/13828614" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://emails-markup.vercel.app/assets/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
+                    <a href="https://forms.yandex-team.ru/ext/surveys/13828614" style="display:inline-block;background:#ffffff;border-radius:42px;padding:8px;line-height:0;"><img src="https://storage.yandexcloud.net/team-hh-email/thumbs-up.png" alt="Понравилось" width="26" height="26" style="display:block;" /></a>
                   </td>
                 </tr>
               </table>
@@ -669,7 +669,7 @@
                   <span style="color:#9261ff;text-decoration:none;">Выбрать формат участия</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
-                  <img src="https://emails-markup.vercel.app/assets/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
+                  <img src="https://storage.yandexcloud.net/team-hh-email/arrow.png" alt="" width="32" height="32" style="display:block;border:0;" />
                 </td>
               </tr>
             </table>
