@@ -11,78 +11,39 @@
       a { color: inherit; }
       .link-white a { color: #ffffff !important; text-decoration: underline; }
       .footer-link a { color: #5d6c72 !important; text-decoration: underline; }
+      .events > table { border-radius: 24px !important; overflow: hidden !important; }
+      .events-illu-column { margin-bottom: 0; position: relative; z-index: 2; }
+      .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.2 Arial, Helvetica, sans-serif; padding: 9px 8px 8px; border-radius: 17px; margin: 0 8px 8px 0; max-width: 100%; box-sizing: border-box; }
+      .event-card, .event-card-content, .event-card-inner { height: auto !important; }
+      .event-card-cta { max-width: 100% !important; box-sizing: border-box !important; white-space: nowrap !important; line-height: 1.15 !important; text-align: center !important; }
       @media only screen and (min-width:566px) {
         .text-nowrap div { white-space: nowrap; }
       }
-      .events > table { border-radius: 24px !important; overflow: hidden !important; }
-      .events-illu-column { margin-bottom: -34px; position: relative; z-index: 2; }
-      .chip { display: inline-block; background: #ebe9f5; color: #222a3a; font: 12px/1.2 Arial, Helvetica, sans-serif; padding: 9px 8px 8px; border-radius: 17px; margin: 0 8px 8px 0; }
-      @media only screen and (max-width:480px) {
-        .hero-copy > table > tbody > tr > td { padding: 24px 20px 16px 20px !important; }
-        .hero-digest > table > tbody > tr > td { padding: 0 20px 24px 20px !important; }
-        .pro-otpusk > table > tbody > tr > td { padding: 20px 0 20px 16px !important; }
-        .pro-title > table > tbody > tr > td { padding: 0 0 28px 0 !important; }
-        .expert-section > table > tbody > tr > td { padding-left: 0 !important; }
-        .mobile-section-pad > table > tbody > tr > td { padding-left: 20px !important; padding-right: 20px !important; }
-        .mobile-section-pad-tight > table > tbody > tr > td { padding-left: 18px !important; padding-right: 18px !important; }
-        .mobile-title div { font-size: 32px !important; line-height: 1.05 !important; }
-        .mobile-subtitle, .mobile-subtitle div { font-size: 22px !important; line-height: 1.15 !important; }
-        .desktop-break { display: none !important; }
-        .chip-wrap { width: auto !important; max-width: 100% !important; }
-        .chip { max-width: 100% !important; box-sizing: border-box !important; }
-        .expert-decor { display: none !important; }
-        .expert-illustration-cell { width: 119px !important; max-width: 119px !important; height: 154px !important; padding: 0 !important; }
-        .expert-illustration-cell img { width: 119px !important; height: 154px !important; }
-        .expert-heading-cell { width: 100% !important; }
-        .expert-photo-cell { width: 96px !important; }
-        .expert-photo { width: 88px !important; height: auto !important; }
-        .expert-info-cell { padding-top: 16px !important; padding-left: 0 !important; padding-right: 20px !important; }
-        .expert-person-table { padding-right: 20px !important; }
-        .events > table > tbody > tr > td { padding: 12px 18px 20px 18px !important; }
-        .events-copy-column { width: 68% !important; max-width: 68% !important; display: inline-block !important; vertical-align: top !important; }
-        .events-illu-column { width: 32% !important; max-width: 32% !important; display: inline-block !important; vertical-align: middle !important; margin-bottom: 0 !important; }
-        .events-illu-column table { width: auto !important; margin-left: auto !important; }
-        .events-illu-column td { width: auto !important; }
-        .events-illu-column img { width: 96px !important; height: auto !important; visibility: visible !important; opacity: 1 !important; }
-        .event-card-left, .event-card-right { padding-left: 0 !important; padding-right: 0 !important; padding-bottom: 16px !important; }
-        .event-card { height: 260px !important; }
-        .event-card-content { height: 222px !important; }
-        .event-card-cta { max-width: 100% !important; box-sizing: border-box !important; white-space: nowrap !important; line-height: 1.15 !important; text-align: center !important; }
-        .mobile-link-card td:first-child { padding-left: 18px !important; font-size: 15px !important; }
-        .feedback-actions table { margin-left: 0 !important; margin-right: auto !important; }
-        .feedback-actions td { text-align: left !important; }
-      }
-      @media only screen and (max-width:539px) {
-        .expert-middle-wrap {
-          padding: 0 22px 0 0 !important;
-        }
-        .expert-illustration-cell {
-          display: none !important;
-          width: 0 !important;
-          max-width: 0 !important;
-          height: 0 !important;
-          max-height: 0 !important;
-          padding: 0 !important;
-          overflow: hidden !important;
-          line-height: 0 !important;
-          font-size: 0 !important;
-        }
-        .expert-illustration-cell img {
-          display: none !important;
-          width: 0 !important;
-          height: 0 !important;
-          max-height: 0 !important;
-          overflow: hidden !important;
-        }
-      }
-      @media only screen and (max-width:511px) {
-        .event-card-left, .event-card-right { width: 100% !important; max-width: 100% !important; display: block !important; padding-left: 0 !important; padding-right: 0 !important; padding-bottom: 16px !important; }
-        .event-card-left > table > tbody > tr > td, .event-card-right > table > tbody > tr > td { padding-left: 0 !important; padding-right: 0 !important; }
-        .event-row-gap > table > tbody > tr > td { padding-bottom: 0 !important; }
+      @media only screen and (min-width:481px) {
+        .hero-copy > table > tbody > tr > td { padding: 33px 32px 18px 32px !important; }
+        .hero-digest > table > tbody > tr > td { padding: 0 32px 32px 32px !important; }
+        .pro-otpusk > table > tbody > tr > td { padding: 24px 0 24px 22px !important; }
+        .pro-title > table > tbody > tr > td { padding: 0 4px 36px 4px !important; }
+        .mobile-section-pad-tight > table > tbody > tr > td { padding-left: 30px !important; padding-right: 30px !important; }
+        .mobile-title div { font-size: 42px !important; line-height: 1 !important; }
+        .mobile-subtitle, .mobile-subtitle div { font-size: 24px !important; line-height: 1.2 !important; }
+        .events > table > tbody > tr > td { padding: 12px 24px 24px 24px !important; }
+        .events-illu-column { margin-bottom: -34px !important; }
+        .events-illu-column img { width: 165px !important; height: auto !important; }
+        .event-card-left > table > tbody > tr > td { padding: 0 8px 0 0 !important; }
+        .event-card-right > table > tbody > tr > td { padding: 0 0 0 8px !important; }
+        .event-card-row-1 { height: 272px !important; }
+        .event-card-content-row-1 { height: 234px !important; }
+        .event-card-row-2 { height: 240px !important; }
+        .event-card-content-row-2 { height: 202px !important; }
       }
       @media only screen and (max-width:489px) {
-        .cloud-promo { background-size: auto 90px !important; }
-        .cloud-promo table { background-size: auto 90px !important; }
+        .cloud-promo { background-size: auto 120px !important; }
+        .cloud-promo table { background-size: auto 120px !important; }
+      }
+      @media only screen and (min-width:490px) {
+        .cloud-promo { background-size: auto 163px !important; }
+        .cloud-promo table { background-size: auto 163px !important; }
       }
       @media only screen and (min-width:420px) and (max-width:489px) {
         .cloud-promo { background-size: auto 110px !important; }
@@ -107,7 +68,7 @@
 
 
 
-      <mj-section padding="33px 32px 18px 32px" css-class="hero-copy">
+      <mj-section padding="24px 20px 16px 20px" css-class="hero-copy">
         <mj-column>
           <mj-text font-size="18px" line-height="1.25" color="#000000" padding="0">
             Это ежемесячный дайджест от&nbsp;сообщества руководителей «Сфера». В&nbsp;сообществе мы&nbsp;обмениваемся практиками и&nbsp;опытом, делимся подходами, идеями, инструментами и&nbsp;встречаемся офлайн и&nbsp;онлайн.
@@ -118,7 +79,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0px 32px 32px 32px" css-class="hero-digest">
+      <mj-section padding="0 20px 24px 20px" css-class="hero-digest">
         <mj-column background-color="#f0e9ff" border-radius="20px" padding="20px 16px 15px 16px" css-class="digest-card">
           <mj-text font-weight="bold" font-size="16px" color="#000000" padding="0 0 5px 0">
             Что&nbsp;в&nbsp;этом дайджесте
@@ -156,23 +117,23 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== PRO OTPUSK BIG CARD ============== -->
-    <mj-wrapper background-color="#ffffff" border-radius="20px" padding="24px 0 24px 22px" css-class="pro-otpusk">
+    <mj-wrapper background-color="#ffffff" border-radius="20px" padding="20px 0 20px 16px" css-class="pro-otpusk">
 
-      <mj-section padding="0 4px 36px 4px" css-class="pro-title">
+      <mj-section padding="0 0 28px 0" css-class="pro-title">
         <mj-column>
-          <mj-text css-class="mobile-title" font-size="42px" font-weight="bold" line-height="1" color="rgba(0,0,0,0.8)" padding="0">
+          <mj-text css-class="mobile-title" font-size="32px" font-weight="bold" line-height="1.05" color="rgba(0,0,0,0.8)" padding="0">
             Про&nbsp;отпуск
           </mj-text>
         </mj-column>
       </mj-section>
 
       <!-- Expert 1 — Olga -->
-      <mj-section padding="0 0 0 4px" css-class="expert-section">
+      <mj-section padding="0" css-class="expert-section">
         <mj-column css-class="expert-card" border-radius="20px" padding="0">
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:0 22px 0 0;">
+                <td style="padding:0 16px 0 0;">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-radius:20px 20px 0 0;border-collapse:separate;border-spacing:0;overflow:hidden;">
                     <tr>
                       <td height="22" style="height:22px;line-height:22px;font-size:22px;border-radius:20px 20px 0 0;">&nbsp;</td>
@@ -185,30 +146,27 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td class="expert-middle-wrap" style="padding:0;">
+                <td class="expert-middle-wrap" style="padding:0 16px 0 0;">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-collapse:separate;border-spacing:0;">
                     <tr>
                       <td style="padding:0 0 0 20px;">
                         <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                           <tr>
                             <td class="expert-heading-cell" valign="top" style="padding:0;">
-                              <div class="mobile-subtitle" style="font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:bold;line-height:1.2;color:#1f2426;margin:0 0 2px 0;">
+                              <div class="mobile-subtitle" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;line-height:1.15;color:#1f2426;margin:0 0 2px 0;">
                                 Не&nbsp;замыкать процессы на&nbsp;себе
                               </div>
                               <table class="expert-person-table" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                                 <tr>
-                                  <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                                    <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
+                                  <td class="expert-photo-cell" valign="top" width="96" style="width:96px;padding:0 0 0 0;">
+                                    <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-1.png" alt="Ольга Кирюточкина" width="88" height="87" style="display:block;border:0;width:88px;height:auto;" />
                                   </td>
-                                  <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
+                                  <td class="expert-info-cell" valign="top" style="padding:16px 20px 0 0;">
                                     <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
-                                    <div class="chip-wrap" style="width:165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и&nbsp;оптимизации проектов</span></div>
+                                    <div class="chip-wrap" style="width:auto;max-width:100%;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и&nbsp;оптимизации проектов</span></div>
                                   </td>
                                 </tr>
                               </table>
-                            </td>
-                            <td class="expert-illustration-cell" valign="top" width="119" height="154" style="width:119px;height:154px;padding:0;text-align:right;line-height:0;font-size:0;">
-                              <img src="https://storage.yandexcloud.net/team-hh-email/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
                             </td>
                           </tr>
                         </table>
@@ -222,7 +180,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:0 22px 0 0;">
+                <td style="padding:0 16px 0 0;">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-radius:0 0 20px 20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
                     <tr>
                       <td style="padding:20px 20px 20px 20px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:0 0 20px 20px;">
@@ -278,9 +236,9 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 2 — Sergey -->
-      <mj-section padding="0 22px 0 4px" css-class="expert-section">
+      <mj-section padding="0 16px 0 0" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
-          <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 1px 0">
+          <mj-text css-class="mobile-subtitle" font-size="22px" font-weight="bold" line-height="1.15" color="#1f2426" padding="0 0 1px 0">
             Делегировать, закрывать долги и&nbsp;оставлять первый день без&nbsp;встреч
           </mj-text>
           <mj-text padding="0 0 20px 0">
@@ -289,12 +247,12 @@
                 <td valign="top" style="padding:0;">
                   <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                     <tr>
-                      <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
+                      <td class="expert-photo-cell" valign="top" width="96" style="width:96px;padding:0 0 0 0;">
+                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-2.png" alt="Сергей Гринченко" width="88" height="87" style="display:block;border:0;width:88px;height:auto;" />
                       </td>
-                      <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
+                      <td class="expert-info-cell" valign="top" style="padding:16px 20px 0 0;">
                         <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
-                        <div class="chip-wrap" style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и&nbsp;региональной архитектуры</span></div>
+                        <div class="chip-wrap" style="width:auto;max-width:100%;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и&nbsp;региональной архитектуры</span></div>
                       </td>
                     </tr>
                   </table>
@@ -344,9 +302,9 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 3 — Vesta -->
-      <mj-section padding="0 22px 0 4px" css-class="expert-section">
+      <mj-section padding="0 16px 0 0" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 18px 20px">
-          <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
+          <mj-text css-class="mobile-subtitle" font-size="22px" font-weight="bold" line-height="1.15" color="#1f2426" padding="0 0 2px 0">
             Вести таблицу с&nbsp;задачами<span class="desktop-break"><br /></span>и&nbsp;не&nbsp;отвлекать в&nbsp;отпуске
           </mj-text>
           <mj-text padding="0 0 19px 0">
@@ -355,10 +313,10 @@
                 <td valign="top" style="padding:0;">
                   <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                     <tr>
-                      <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
+                      <td class="expert-photo-cell" valign="top" width="96" style="width:96px;padding:0 0 0 0;">
+                        <img class="expert-photo" src="https://storage.yandexcloud.net/team-hh-email/expert-3.png" alt="Веста Нестерова" width="88" height="87" style="display:block;border:0;width:88px;height:auto;" />
                       </td>
-                      <td class="expert-info-cell" valign="bottom" style="padding:25px 0 3px 6px;">
+                      <td class="expert-info-cell" valign="bottom" style="padding:16px 20px 3px 0;">
                         <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
                         <div style="margin:0;"><span style="margin:0;" class="chip">Лид команды Сигма</span></div>
                       </td>
@@ -403,8 +361,8 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== CHECKLIST PROMO ============== -->
-    <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="https://storage.yandexcloud.net/team-hh-email/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 163px" border-radius="20px" padding="0">
-      <mj-column vertical-align="middle" padding="23px 20px 20px 32px">
+    <mj-section css-class="mobile-section-pad cloud-promo" background-color="#9261ff" background-url="https://storage.yandexcloud.net/team-hh-email/cloud.png" background-repeat="no-repeat" background-position="right bottom" background-size="auto 90px" border-radius="20px" padding="0">
+      <mj-column vertical-align="middle" padding="23px 20px 20px 20px">
         <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0 0 18px 0">
           А&nbsp;вот и&nbsp;чек-лист<br/>про&nbsp;устойчивость
         </mj-text>
@@ -414,11 +372,11 @@
         <mj-raw>
           <tr>
             <td align="left" style="font-size:0px;padding:0;word-break:break-word;">
-              <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+              <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="116" style="width:116px;max-width:116px;border-collapse:separate;line-height:100%;table-layout:fixed;">
                 <tbody>
                   <tr>
-                    <td align="center" bgcolor="#ffffff" role="presentation" style="border:none;border-radius:40px;cursor:auto;mso-padding-alt:13px 24px;background:#ffffff;" valign="middle">
-                      <a href="https://storage.yandexcloud.net/team-hh-email/checklist.pdf" download="Чек_лист_«Как_сохранить_внутренний_ресурс»" style="display:inline-block;background:#ffffff;color:#222a3a;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:13px 24px;mso-padding-alt:0px;border-radius:40px;" target="_blank">Скачать</a>
+                    <td align="center" bgcolor="#ffffff" role="presentation" width="116" style="width:116px;border:none;border-radius:40px;cursor:auto;mso-padding-alt:13px 0;background:#ffffff;" valign="middle">
+                      <a href="https://storage.yandexcloud.net/team-hh-email/checklist.pdf" download="Чек_лист_«Как_сохранить_внутренний_ресурс»" style="display:block;width:116px;max-width:116px;background:#ffffff;color:#222a3a;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;line-height:120%;margin:0;text-align:center;text-decoration:none;text-transform:none;padding:13px 0;mso-padding-alt:0px;border-radius:40px;box-sizing:border-box;" target="_blank">Скачать</a>
                     </td>
                   </tr>
                 </tbody>
@@ -432,7 +390,7 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== EVENTS ============== -->
-    <mj-wrapper background-color="#9261ff" border-radius="24px" padding="12px 24px 24px 24px" css-class="events">
+    <mj-wrapper background-color="#9261ff" border-radius="24px" padding="12px 18px 20px 18px" css-class="events">
       <mj-section padding="0 0 16px 0">
         <mj-column width="62%" vertical-align="top" css-class="events-copy-column">
           <mj-text font-size="36px" font-weight="bold" line-height="1" color="#ffffff" padding="12px 0 24px 2px">
@@ -448,12 +406,12 @@
       </mj-section>
 
       <mj-section padding="0 0 16px 0" css-class="event-row-gap">
-        <mj-column width="50%" vertical-align="top" padding="0 8px 0 0" css-class="event-card-left">
+        <mj-column width="50%" vertical-align="top" padding="0 0 16px 0" css-class="event-card-left">
           <mj-text padding="0">
-            <table class="event-card event-card-row-1" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="272" style="background:#ffffff;border-radius:16px;height:272px;">
+            <table class="event-card event-card-row-1" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td class="event-card-content event-card-content-row-1" height="234" valign="top" style="height:234px;padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="100%" style="width:100%;height:100%;">
+              <td class="event-card-content event-card-content-row-1" valign="top" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%;">
                   <tr>
                     <td valign="top" style="font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                 <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Поговорим Про&nbsp;× Сфера: когда риск (не) оправдан</p>
@@ -472,12 +430,12 @@
             </table>
           </mj-text>
         </mj-column>
-        <mj-column width="50%" vertical-align="top" padding="0 0 0 8px" css-class="event-card-right">
+        <mj-column width="50%" vertical-align="top" css-class="event-card-right">
           <mj-text padding="0">
-            <table class="event-card event-card-row-1" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="272" style="background:#ffffff;border-radius:16px;height:272px;">
+            <table class="event-card event-card-row-1" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
             <tr>
-              <td class="event-card-content event-card-content-row-1" height="234" valign="top" style="height:234px;padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="100%" style="width:100%;height:100%;">
+              <td class="event-card-content event-card-content-row-1" valign="top" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%;">
                   <tr>
                     <td valign="top" style="font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                 <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Какие мы:<br>портрет яндексоида</p>
@@ -499,12 +457,12 @@
       </mj-section>
 
       <mj-section padding="0">
-        <mj-column width="50%" vertical-align="top" padding="0 8px 0 0" css-class="event-card-left">
+        <mj-column width="50%" vertical-align="top" padding="0 0 16px 0" css-class="event-card-left">
           <mj-text padding="0">
-            <table class="event-card event-card-row-2" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="240" style="background:#ffffff;border-radius:16px;height:240px;">
+            <table class="event-card event-card-row-2" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td class="event-card-content event-card-content-row-2" height="202" valign="top" style="height:202px;padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="100%" style="width:100%;height:100%;">
+                <td class="event-card-content event-card-content-row-2" valign="top" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%;">
                   <tr>
                     <td valign="top" style="font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Teamlead Community Day в&nbsp;Питере</p>
@@ -522,12 +480,12 @@
             </table>
           </mj-text>
         </mj-column>
-        <mj-column width="50%" vertical-align="top" padding="0 0 0 8px" css-class="event-card-right">
+        <mj-column width="50%" vertical-align="top" padding="0 0 16px 0" css-class="event-card-right">
           <mj-text padding="0">
-            <table class="event-card event-card-row-2" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="240" style="background:#ffffff;border-radius:16px;height:240px;">
+            <table class="event-card event-card-row-2" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background:#ffffff;border-radius:16px;">
               <tr>
-                <td class="event-card-content event-card-content-row-2" height="202" valign="top" style="height:202px;padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
-                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" height="100%" style="width:100%;height:100%;">
+                <td class="event-card-content event-card-content-row-2" valign="top" style="padding:20px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
+                <table class="event-card-inner" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%;">
                   <tr>
                     <td valign="top" style="font-family:Arial,Helvetica,sans-serif;color:rgba(0,0,0,0.8);">
                   <p style="margin:0 0 9px 0;font-size:16px;font-weight:bold;line-height:1.2;">Дискуссионный клуб руководителей Яндекса</p>
@@ -552,7 +510,7 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== USEFUL LINKS ============== -->
-    <mj-section css-class="mobile-section-pad" background-color="#f0e9ff" border-radius="20px" padding="30px 30px 28px 30px">
+    <mj-section css-class="mobile-section-pad" background-color="#f0e9ff" border-radius="20px" padding="30px 20px 28px 20px">
       <mj-column>
         <mj-text font-size="36px" font-weight="bold" line-height="1" color="#1f2426" padding="0 0 25px 0">
           Полезные ссылки
@@ -623,17 +581,15 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== FEEDBACK ============== -->
-    <mj-section css-class="mobile-section-pad-tight" background-color="#9261ff" border-radius="20px" padding="19px 30px 14px">
-      <mj-column width="62%" vertical-align="middle">
-        <mj-text font-size="24px" font-weight="bold" line-height="1.2" color="#ffffff" padding="0">
-          Как&nbsp;вам рассылка?
-        </mj-text>
-      </mj-column>
-      <mj-column width="38%" vertical-align="middle">
-        <mj-table css-class="feedback-actions" cellpadding="0" cellspacing="0" padding="0" align="right">
+    <mj-section css-class="mobile-section-pad-tight" background-color="#9261ff" border-radius="20px" padding="19px 18px 14px">
+      <mj-column>
+        <mj-table cellpadding="0" cellspacing="0" padding="0">
           <tr>
-            <td align="right">
-              <table cellpadding="0" cellspacing="0" role="presentation" align="right">
+            <td valign="middle" style="font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:bold;line-height:1.2;color:#ffffff;padding:0;">
+              Как&nbsp;вам рассылка?
+            </td>
+            <td width="90" valign="middle" align="right" style="width:90px;padding:0;text-align:right;">
+              <table cellpadding="0" cellspacing="0" role="presentation" align="right" style="margin-left:auto;margin-right:0;">
                 <tr>
                   <td style="padding:0 6px 0 0;">
                     <a href="https://forms.yandex-team.ru/ext/surveys/13828617" style="display:inline-block;background:#ffffff;border-radius:42px;padding:10px 8px 6px;line-height:0;"><img src="https://storage.yandexcloud.net/team-hh-email/thumbs-down.png" alt="Не&nbsp;понравилось" width="26" height="26" style="display:block;" /></a>
@@ -652,9 +608,9 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== COMMUNITY / FOOTER ============== -->
-    <mj-section css-class="mobile-section-pad" background-color="#f0e9ff" border-radius="24px" padding="35px 32px 28px">
+    <mj-section css-class="mobile-section-pad" background-color="#f0e9ff" border-radius="24px" padding="35px 20px 28px">
       <mj-column>
-        <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 22px 0">
+        <mj-text css-class="mobile-subtitle" font-size="22px" font-weight="bold" line-height="1.15" color="#1f2426" padding="0 0 22px 0">
           Участвуйте в&nbsp;жизни сообщества «Сфера»
         </mj-text>
         <mj-text font-size="16px" line-height="1.2" color="rgba(0,0,0,0.8)" padding="0 2px 23px 2px">
@@ -665,7 +621,7 @@
           <a class="mobile-link-card" href="https://forms.yandex-team.ru/ext/surveys/13717108" style="display:block;background:#ffffff;border-radius:64px;color:#9261ff;text-decoration:none;">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:16px 8px 12px 26px;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;line-height:1.3;color:#9261ff;">
+                <td style="padding:12px 8px 12px 26px;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;line-height:1.3;color:#9261ff;">
                   <span style="color:#9261ff;text-decoration:none;">Выбрать формат участия</span>
                 </td>
                 <td width="48" align="right" valign="middle" style="padding:8px;">
