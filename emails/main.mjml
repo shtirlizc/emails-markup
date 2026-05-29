@@ -27,11 +27,14 @@
         .mobile-section-pad > table > tbody > tr > td { padding-left: 20px !important; padding-right: 20px !important; }
         .mobile-section-pad-tight > table > tbody > tr > td { padding-left: 18px !important; padding-right: 18px !important; }
         .mobile-title div { font-size: 32px !important; line-height: 1.05 !important; }
-        .mobile-subtitle div { font-size: 22px !important; line-height: 1.15 !important; }
+        .mobile-subtitle, .mobile-subtitle div { font-size: 22px !important; line-height: 1.15 !important; }
         .desktop-break { display: none !important; }
         .chip-wrap { width: auto !important; max-width: 100% !important; }
         .chip { max-width: 100% !important; box-sizing: border-box !important; }
         .expert-decor { display: none !important; }
+        .expert-illustration-cell { width: 119px !important; max-width: 119px !important; height: 154px !important; padding: 0 !important; }
+        .expert-illustration-cell img { width: 119px !important; height: 154px !important; }
+        .expert-heading-cell { width: 100% !important; }
         .expert-photo-cell { width: 96px !important; }
         .expert-photo { width: 88px !important; height: auto !important; }
         .expert-info-cell { padding-top: 16px !important; padding-left: 0 !important; }
@@ -137,7 +140,7 @@
     <mj-section padding="9px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
     <!-- ============== PRO OTPUSK BIG CARD ============== -->
-    <mj-wrapper background-color="#ffffff" border-radius="20px" padding="24px 22px 24px 22px" css-class="pro-otpusk">
+    <mj-wrapper background-color="#ffffff" border-radius="20px" padding="24px 0 24px 22px" css-class="pro-otpusk">
 
       <mj-section padding="0 4px 36px 4px" css-class="pro-title">
         <mj-column>
@@ -149,68 +152,106 @@
 
       <!-- Expert 1 — Olga -->
       <mj-section padding="0 0 0 4px" css-class="expert-section">
-        <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
-          <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
-            Не&nbsp;замыкать процессы на&nbsp;себе
-          </mj-text>
-          <mj-text padding="0 0 16px 0">
-            <div style="position:relative;">
-            <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-              <tr>
-                <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                  <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
-                </td>
-                <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
-                  <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
-                  <div class="chip-wrap" style="width: 165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и&nbsp;оптимизации проектов</span></div>
-                </td>
-              </tr>
-            </table>
-            <!--[if !mso]><!-->
-            <img class="expert-decor" src="https://emails-markup.vercel.app/assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-62px;bottom:-10px;display:block;border:0;outline:none;text-decoration:none;" />
-            <!--<![endif]-->
-            </div>
-          </mj-text>
-          <mj-text font-size="16px" line-height="1.2" color="#000000" padding="4px 0 0 0">
-            Во&nbsp;время отпуска становилось ясно: где команда умела жить без&nbsp;ручного управления, а&nbsp;где всё держалось на&nbsp;моём незримом присутствии в&nbsp;каждом решении.
-          </mj-text>
-          <mj-text font-size="16px" line-height="1.2" color="#000000" padding="10px 0 18px 0">
-            Сложные и&nbsp;нестандартные вопросы ждали моего возвращения — и&nbsp;не&nbsp;от&nbsp;недостатка компетенций у&nbsp;сотрудников, а&nbsp;потому что&nbsp;система была настроена на&nbsp;мой финальный «кивок». Так&nbsp;я&nbsp;поняла, что&nbsp;мне нужно выстроить процессы, чтобы команда могла сама принимать решения.
-          </mj-text>
-
+        <mj-column css-class="expert-card" border-radius="20px" padding="0">
           <mj-text padding="0">
-            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:20px 16px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:19px;">
-                  <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А&nbsp;проверить, как&nbsp;с&nbsp;этим дела сейчас, мне помогают вопросы:</p>
-                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                <td style="padding:0 22px 0 0;">
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-radius:20px 20px 0 0;border-collapse:separate;border-spacing:0;overflow:hidden;">
                     <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в&nbsp;неделю команда принимает без&nbsp;меня?</td>
-                    </tr>
-                    <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я&nbsp;не&nbsp;отвечаю день?</td>
-                    </tr>
-                    <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и&nbsp;ответственность зафиксированы, а&nbsp;где держатся на&nbsp;личных договорённостях?</td>
-                    </tr>
-                    <tr>
-                      <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
-                      <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и&nbsp;встреч идут только потому, что&nbsp;я&nbsp;в&nbsp;них участвую?</td>
+                      <td height="22" style="height:22px;line-height:22px;font-size:22px;border-radius:20px 20px 0 0;">&nbsp;</td>
                     </tr>
                   </table>
                 </td>
               </tr>
             </table>
           </mj-text>
-
-          <mj-text padding="20px 0 0 0" css-class="link-white">
-            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#9261ff;border-radius:20px;">
+          <mj-text padding="0">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:21px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1.2;color:#ffffff;">
-                  Что&nbsp;делать, если процессы стопорятся на&nbsp;вас, читайте в&nbsp;<a href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1778840966040010" style="color:#ffffff;text-decoration:underline;">«Сфере» в&nbsp;Мессенджере</a>.
+                <td style="padding:0;">
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-collapse:separate;border-spacing:0;">
+                    <tr>
+                      <td style="padding:0 0 0 20px;">
+                        <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                          <tr>
+                            <td class="expert-heading-cell" valign="top" style="padding:0;">
+                              <div class="mobile-subtitle" style="font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:bold;line-height:1.2;color:#1f2426;margin:0 0 2px 0;">
+                                Не&nbsp;замыкать процессы на&nbsp;себе
+                              </div>
+                              <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                                <tr>
+                                  <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
+                                    <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
+                                  </td>
+                                  <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
+                                    <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Ольга Кирюточкина</span></div>
+                                    <div class="chip-wrap" style="width:165px;"><span class="chip" style="margin:0 0 0 0;">Руководитель группы развития и&nbsp;оптимизации проектов</span></div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                            <td class="expert-illustration-cell" valign="top" width="119" height="154" style="width:119px;height:154px;padding:0;text-align:right;line-height:0;font-size:0;">
+                              <img src="../assets/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+          <mj-text padding="0">
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+              <tr>
+                <td style="padding:0 22px 0 0;">
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-radius:0 0 20px 20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
+                    <tr>
+                      <td style="padding:20px 20px 20px 20px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:0 0 20px 20px;">
+                        <p style="margin:0;font-size:16px;line-height:1.2;">Во&nbsp;время отпуска становилось ясно: где команда умела жить без&nbsp;ручного управления, а&nbsp;где всё держалось на&nbsp;моём незримом присутствии в&nbsp;каждом решении.</p>
+                        <p style="margin:10px 0 18px 0;font-size:16px;line-height:1.2;">Сложные и&nbsp;нестандартные вопросы ждали моего возвращения — и&nbsp;не&nbsp;от&nbsp;недостатка компетенций у&nbsp;сотрудников, а&nbsp;потому что&nbsp;система была настроена на&nbsp;мой финальный «кивок». Так&nbsp;я&nbsp;поняла, что&nbsp;мне нужно выстроить процессы, чтобы команда могла сама принимать решения.</p>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#ffffff;border:1px solid #cfcddd;border-radius:20px;border-collapse:separate;border-spacing:0;overflow:hidden;">
+                          <tr>
+                            <td style="padding:20px 16px 16px;font-family:Arial,Helvetica,sans-serif;color:#000000;border-radius:19px;">
+                              <p style="margin:0 0 5px 0;font-size:16px;font-weight:bold;line-height:1.2;">А&nbsp;проверить, как&nbsp;с&nbsp;этим дела сейчас, мне помогают вопросы:</p>
+                              <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                                <tr>
+                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 14px;">Сколько решений в&nbsp;неделю команда принимает без&nbsp;меня?</td>
+                                </tr>
+                                <tr>
+                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 12px;">Какие задачи останавливаются, если я&nbsp;не&nbsp;отвечаю день?</td>
+                                </tr>
+                                <tr>
+                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0 6px;">Где роли и&nbsp;ответственность зафиксированы, а&nbsp;где держатся на&nbsp;личных договорённостях?</td>
+                                </tr>
+                                <tr>
+                                  <td width="30" valign="top" style="width:30px;padding:4px 0;"><img src="https://emails-markup.vercel.app/assets/check-shell.png" alt="" width="24" height="24" style="display:block;" /></td>
+                                  <td valign="top" style="font-size:14px;line-height:1.2;color:#000000;padding:4px 0;">Сколько чатов и&nbsp;встреч идут только потому, что&nbsp;я&nbsp;в&nbsp;них участвую?</td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+                          <tr>
+                            <td height="20" style="height:20px;line-height:20px;font-size:20px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#9261ff;border-radius:20px;border-collapse:separate;border-spacing:0;">
+                          <tr>
+                            <td style="padding:21px 20px 18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:1.2;color:#ffffff;">
+                              Что&nbsp;делать, если процессы стопорятся на&nbsp;вас, читайте в&nbsp;<a href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1778840966040010" style="color:#ffffff;text-decoration:underline;">«Сфере» в&nbsp;Мессенджере</a>.
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
             </table>
