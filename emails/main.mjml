@@ -38,6 +38,7 @@
         .expert-photo-cell { width: 96px !important; }
         .expert-photo { width: 88px !important; height: auto !important; }
         .expert-info-cell { padding-top: 16px !important; padding-left: 0 !important; }
+        .expert-person-table { padding-right: 20px !important; }
         .events > table > tbody > tr > td { padding: 12px 18px 20px 18px !important; }
         .events-copy-column { width: 68% !important; max-width: 68% !important; display: inline-block !important; vertical-align: top !important; }
         .events-illu-column { width: 32% !important; max-width: 32% !important; display: inline-block !important; vertical-align: middle !important; margin-bottom: 0 !important; }
@@ -51,6 +52,29 @@
         .mobile-link-card td:first-child { padding-left: 18px !important; font-size: 15px !important; }
         .feedback-actions table { margin-left: 0 !important; margin-right: auto !important; }
         .feedback-actions td { text-align: left !important; }
+      }
+      @media only screen and (max-width:539px) {
+        .expert-middle-wrap {
+          padding: 0 22px 0 0 !important;
+        }
+        .expert-illustration-cell {
+          display: none !important;
+          width: 0 !important;
+          max-width: 0 !important;
+          height: 0 !important;
+          max-height: 0 !important;
+          padding: 0 !important;
+          overflow: hidden !important;
+          line-height: 0 !important;
+          font-size: 0 !important;
+        }
+        .expert-illustration-cell img {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          max-height: 0 !important;
+          overflow: hidden !important;
+        }
       }
       @media only screen and (max-width:511px) {
         .event-card-left, .event-card-right { width: 100% !important; max-width: 100% !important; display: block !important; padding-left: 0 !important; padding-right: 0 !important; padding-bottom: 16px !important; }
@@ -169,7 +193,7 @@
           <mj-text padding="0">
             <table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
-                <td style="padding:0;">
+                <td class="expert-middle-wrap" style="padding:0;">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background:#e1c9fd;border-collapse:separate;border-spacing:0;">
                     <tr>
                       <td style="padding:0 0 0 20px;">
@@ -179,7 +203,7 @@
                               <div class="mobile-subtitle" style="font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:bold;line-height:1.2;color:#1f2426;margin:0 0 2px 0;">
                                 Не&nbsp;замыкать процессы на&nbsp;себе
                               </div>
-                              <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                              <table class="expert-person-table" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                                 <tr>
                                   <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
                                     <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-1.png" alt="Ольга Кирюточкина" width="107" height="106" style="display:block;border:0;" />
@@ -192,7 +216,7 @@
                               </table>
                             </td>
                             <td class="expert-illustration-cell" valign="top" width="119" height="154" style="width:119px;height:154px;padding:0;text-align:right;line-height:0;font-size:0;">
-                              <img src="../assets/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
+                              <img src="https://emails-markup.vercel.app/assets/expert-bg-1.jpg" alt="" width="119" height="154" style="display:block;width:119px;height:154px;border:0;outline:none;text-decoration:none;" />
                             </td>
                           </tr>
                         </table>
@@ -262,28 +286,29 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 2 — Sergey -->
-      <mj-section padding="0 0 0 4px" css-class="expert-section">
+      <mj-section padding="0 22px 0 4px" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 20px 20px">
           <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 1px 0">
             Делегировать, закрывать долги и&nbsp;оставлять первый день без&nbsp;встреч
           </mj-text>
           <mj-text padding="0 0 20px 0">
-            <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                  <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
-                </td>
-                <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
-                  <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
-                  <div class="chip-wrap" style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и&nbsp;региональной архитектуры</span></div>
+                <td valign="top" style="padding:0;">
+                  <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                      <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
+                        <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-2.png" alt="Сергей Гринченко" width="107" height="106" style="display:block;border:0;" />
+                      </td>
+                      <td class="expert-info-cell" valign="top" style="padding:25px 0 0 0;">
+                        <div style="margin:0 0 2px 0;"><span style="margin:0 0 0 0;" class="chip">Сергей Гринченко</span></div>
+                        <div class="chip-wrap" style="width: 216px;"><span style="margin:0 0 0 0;" class="chip">Архитектор решений Яндекс 360, руководитель группы партнёрской и&nbsp;региональной архитектуры</span></div>
+                      </td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
             </table>
-            <!--[if !mso]><!-->
-            <img class="expert-decor" src="https://emails-markup.vercel.app/assets/star-1.png" alt="" width="166" height="161" style="position:absolute;right:-64px;bottom:-22px;display:block;border:0;outline:none;text-decoration:none;" />
-            <!--<![endif]-->
-            </div>
           </mj-text>
 
           <mj-text padding="0">
@@ -327,28 +352,29 @@
       <mj-section padding="36px 0 0 0"><mj-column><mj-spacer height="1px" /></mj-column></mj-section>
 
       <!-- Expert 3 — Vesta -->
-      <mj-section padding="0 0 0 4px" css-class="expert-section">
+      <mj-section padding="0 22px 0 4px" css-class="expert-section">
         <mj-column css-class="expert-card" background-color="#e1c9fd" border-radius="20px" padding="22px 20px 18px 20px">
           <mj-text css-class="mobile-subtitle" font-size="24px" font-weight="bold" line-height="1.2" color="#1f2426" padding="0 0 2px 0">
             Вести таблицу с&nbsp;задачами<span class="desktop-break"><br /></span>и&nbsp;не&nbsp;отвлекать в&nbsp;отпуске
           </mj-text>
           <mj-text padding="0 0 19px 0">
-            <div style="position:relative;">
             <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
               <tr>
-                <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
-                  <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
-                </td>
-                <td class="expert-info-cell" valign="bottom" style="padding:25px 0 3px 6px;">
-                  <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
-                  <div style="margin:0;"><span style="margin:0;" class="chip">Лид команды Сигма</span></div>
+                <td valign="top" style="padding:0;">
+                  <table cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                      <td class="expert-photo-cell" valign="top" width="112" style="padding:0 0 0 0;">
+                        <img class="expert-photo" src="https://emails-markup.vercel.app/assets/expert-3.png" alt="Веста Нестерова" width="107" height="106" style="display:block;border:0;" />
+                      </td>
+                      <td class="expert-info-cell" valign="bottom" style="padding:25px 0 3px 6px;">
+                        <div style="margin:0 0 2px 0;"><span style="margin:0;" class="chip">Веста Нестерова</span></div>
+                        <div style="margin:0;"><span style="margin:0;" class="chip">Лид команды Сигма</span></div>
+                      </td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
             </table>
-            <!--[if !mso]><!-->
-            <img class="expert-decor" src="https://emails-markup.vercel.app/assets/star-2.png" alt="" width="166" height="161" style="position:absolute;right:-62px;bottom:42px;display:block;border:0;outline:none;text-decoration:none;" />
-            <!--<![endif]-->
-            </div>
           </mj-text>
 
           <mj-text padding="0">
