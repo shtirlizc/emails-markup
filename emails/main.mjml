@@ -150,13 +150,6 @@
               </td>
             </tr>
           </mj-table>
-          <mj-raw>
-            <!--[if !mso]><!-->
-            <div style="position:relative;height:0;line-height:0;font-size:0;">
-              <img class="expert-decor" src="https://emails-markup.vercel.app/assets/star-1.png" alt="" width="166" height="161" style="position:absolute;right:-71px;bottom:-33px;display:block;border:0;outline:none;text-decoration:none;" />
-            </div>
-            <!--<![endif]-->
-          </mj-raw>
         </mj-column>
       </mj-section>
     </mj-wrapper>
