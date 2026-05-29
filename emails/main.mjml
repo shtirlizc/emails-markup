@@ -20,9 +20,8 @@
       @media only screen and (max-width:480px) {
         .hero-copy > table > tbody > tr > td { padding: 24px 20px 16px 20px !important; }
         .hero-digest > table > tbody > tr > td { padding: 0 20px 24px 20px !important; }
-        .pro-otpusk > table > tbody > tr > td { padding: 20px 16px 20px 16px !important; }
+        .pro-otpusk > table > tbody > tr > td { padding: 20px 0 20px 16px !important; }
         .pro-title > table > tbody > tr > td { padding: 0 0 28px 0 !important; }
-        .expert-card > table > tbody > tr > td { padding-left: 16px !important; padding-right: 16px !important; }
         .expert-section > table > tbody > tr > td { padding-left: 0 !important; }
         .mobile-section-pad > table > tbody > tr > td { padding-left: 20px !important; padding-right: 20px !important; }
         .mobile-section-pad-tight > table > tbody > tr > td { padding-left: 18px !important; padding-right: 18px !important; }
@@ -37,7 +36,7 @@
         .expert-heading-cell { width: 100% !important; }
         .expert-photo-cell { width: 96px !important; }
         .expert-photo { width: 88px !important; height: auto !important; }
-        .expert-info-cell { padding-top: 16px !important; padding-left: 0 !important; }
+        .expert-info-cell { padding-top: 16px !important; padding-left: 0 !important; padding-right: 20px !important; }
         .expert-person-table { padding-right: 20px !important; }
         .events > table > tbody > tr > td { padding: 12px 18px 20px 18px !important; }
         .events-copy-column { width: 68% !important; max-width: 68% !important; display: inline-block !important; vertical-align: top !important; }
