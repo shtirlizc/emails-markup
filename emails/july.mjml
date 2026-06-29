@@ -10,22 +10,6 @@
       <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
       <mj-section padding="0" />
     </mj-attributes>
-    <mj-style>
-      @media only screen and (min-width: 480px) {
-        .hero-title div,
-        [class*="hero-title"] div {
-          font-size: 42px !important;
-          line-height: 1.05 !important;
-        }
-      }
-      @media only screen and (min-device-width: 480px) {
-        .hero-title div,
-        [class*="hero-title"] div {
-          font-size: 42px !important;
-          line-height: 1.05 !important;
-        }
-      }
-    </mj-style>
   </mj-head>
   <mj-body background-color="#e1c9fd" width="600px">
     <mj-section padding="0 0 24px 0"
@@ -474,114 +458,62 @@
           border-radius="20px"
           padding="22px 0 20px 20px"
         >
-          <mj-table cellpadding="0" cellspacing="0" padding="0 0 20px 0">
-            <tr>
-              <td
-                valign="middle"
-                style="padding: 0 20px 0 0; vertical-align: middle"
-              >
-                <table
-                  cellpadding="0"
-                  cellspacing="0"
-                  role="presentation"
+          <mj-text font-size="0" line-height="0" padding="0 0 20px 0">
+            <table
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+              width="100%"
+              style="
+                width: 100%;
+                max-width: 100%;
+                table-layout: fixed;
+                border-collapse: collapse;
+                border-spacing: 0;
+              "
+            >
+              <tr>
+                <td
                   style="
                     width: 100%;
-                    border-collapse: separate;
-                    border-spacing: 0;
+                    max-width: 100%;
+                    min-width: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    line-height: 0;
                   "
                 >
-                  <tr>
-                    <td
-                      valign="bottom"
-                      width="96"
-                      style="width: 96px; padding: 0; vertical-align: bottom"
-                    >
-                      <img
-                        src="https://storage.yandexcloud.net/team-hh-email/july/author-1.png"
-                        alt="Александр Хмелевский"
-                        width="108"
-                        height="124"
-                        style="
-                          display: block;
-                          border: 0;
-                          width: 108px;
-                          height: auto;
-                        "
-                      />
-                    </td>
-                    <td
-                      valign="bottom"
-                      style="padding: 16px 0 0 0; vertical-align: bottom"
-                    >
-                      <div
-                        style="
-                          margin: 0 0 2px 0;
-                          width: auto;
-                          background-color: #ebe9f5;
-                          padding: 5px 10px;
-                          border-radius: 17px;
-                          max-width: 160px;
-                        "
-                      >
-                        <span
-                          style="
-                            margin: 0;
-                            font-family: Arial, Helvetica, sans-serif;
-                            font-weight: 400;
-                            font-size: 12px;
-                            line-height: 120%;
-                            letter-spacing: 0;
-                            color: #222a3a;
-                            display: inline-block;
-                          "
-                          >Александр Хмелевский</span
-                        >
-                      </div>
-                      <div
-                        style="
-                          width: auto;
-                          background-color: #ebe9f5;
-                          padding: 5px 10px;
-                          border-radius: 17px;
-                          max-width: 160px;
-                        "
-                      >
-                        <span
-                          style="
-                            margin: 0;
-                            font-family: Arial, Helvetica, sans-serif;
-                            font-weight: 400;
-                            font-size: 12px;
-                            line-height: 120%;
-                            letter-spacing: 0;
-                            color: #222a3a;
-                            display: inline-block;
-                          "
-                        >
-                          руководитель <br />IT Infrastructure Backend
-                          Development
-                        </span>
-                      </div>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td
-                align="right"
-                valign="middle"
-                width="206"
-                style="width: 206px; padding: 0; vertical-align: middle"
-              >
-                <img
-                  src="https://storage.yandexcloud.net/team-hh-email/july/cloud-check.png"
-                  alt=""
-                  width="206"
-                  height="146"
-                  style="display: block; border: 0; width: 206px; height: auto"
-                />
-              </td>
-            </tr>
-          </mj-table>
+                  <div
+                    style="
+                      display: block;
+                      width: 100%;
+                      max-width: 100%;
+                      min-width: 0;
+                      overflow: hidden;
+                      line-height: 0;
+                    "
+                  >
+                    <img
+                      src="https://storage.yandexcloud.net/team-hh-email/july/expert-1.png"
+                      alt="Александр Хмелевский"
+                      width="517"
+                      style="
+                        display: block;
+                        border: 0;
+                        outline: none;
+                        text-decoration: none;
+                        width: 517px;
+                        max-width: none;
+                        min-width: 517px;
+                        height: auto;
+                        font-size: 13px;
+                      "
+                    />
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
 
           <mj-table cellpadding="0" cellspacing="0" padding="0 32px 0 0">
             <tr>
@@ -825,114 +757,62 @@
           border-radius="20px"
           padding="22px 0 20px 20px"
         >
-          <mj-table cellpadding="0" cellspacing="0" padding="0 0 20px 0">
-            <tr>
-              <td
-                valign="middle"
-                style="padding: 0 20px 0 0; vertical-align: middle"
-              >
-                <table
-                  cellpadding="0"
-                  cellspacing="0"
-                  role="presentation"
+          <mj-text font-size="0" line-height="0" padding="0 0 20px 0">
+            <table
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+              width="100%"
+              style="
+                width: 100%;
+                max-width: 100%;
+                table-layout: fixed;
+                border-collapse: collapse;
+                border-spacing: 0;
+              "
+            >
+              <tr>
+                <td
                   style="
                     width: 100%;
-                    border-collapse: separate;
-                    border-spacing: 0;
+                    max-width: 100%;
+                    min-width: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    line-height: 0;
                   "
                 >
-                  <tr>
-                    <td
-                      valign="bottom"
-                      width="96"
-                      style="width: 96px; padding: 0; vertical-align: bottom"
-                    >
-                      <img
-                        src="https://storage.yandexcloud.net/team-hh-email/july/author-2.png"
-                        alt="Андрей Латышев"
-                        width="108"
-                        height="124"
-                        style="
-                          display: block;
-                          border: 0;
-                          width: 108px;
-                          height: auto;
-                        "
-                      />
-                    </td>
-                    <td
-                      valign="bottom"
-                      style="padding: 16px 0 0 0; vertical-align: bottom"
-                    >
-                      <div
-                        style="
-                          margin: 0 0 2px 0;
-                          width: auto;
-                          background-color: #ebe9f5;
-                          padding: 5px 10px;
-                          border-radius: 17px;
-                          max-width: 160px;
-                        "
-                      >
-                        <span
-                          style="
-                            margin: 0;
-                            font-family: Arial, Helvetica, sans-serif;
-                            font-weight: 400;
-                            font-size: 12px;
-                            line-height: 120%;
-                            letter-spacing: 0;
-                            color: #222a3a;
-                            display: inline-block;
-                          "
-                          >Андрей Латышев</span
-                        >
-                      </div>
-                      <div
-                        style="
-                          width: auto;
-                          background-color: #ebe9f5;
-                          padding: 5px 10px;
-                          border-radius: 17px;
-                          max-width: 160px;
-                        "
-                      >
-                        <span
-                          style="
-                            margin: 0;
-                            font-family: Arial, Helvetica, sans-serif;
-                            font-weight: 400;
-                            font-size: 12px;
-                            line-height: 120%;
-                            letter-spacing: 0;
-                            color: #222a3a;
-                            display: inline-block;
-                          "
-                        >
-                          руководитель QA Логистики, Бизнес-группа<br />Городских
-                          сервисов
-                        </span>
-                      </div>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td
-                align="right"
-                valign="middle"
-                width="206"
-                style="width: 206px; padding: 0; vertical-align: middle"
-              >
-                <img
-                  src="https://storage.yandexcloud.net/team-hh-email/july/cloud-cancel.png"
-                  alt=""
-                  width="198"
-                  height="126"
-                  style="display: block; border: 0; width: 206px; height: auto"
-                />
-              </td>
-            </tr>
-          </mj-table>
+                  <div
+                    style="
+                      display: block;
+                      width: 100%;
+                      max-width: 100%;
+                      min-width: 0;
+                      overflow: hidden;
+                      line-height: 0;
+                    "
+                  >
+                    <img
+                      src="https://storage.yandexcloud.net/team-hh-email/july/expert-2.png"
+                      alt="Андрей Латышев"
+                      width="517"
+                      style="
+                        display: block;
+                        border: 0;
+                        outline: none;
+                        text-decoration: none;
+                        width: 517px;
+                        max-width: none;
+                        min-width: 517px;
+                        height: auto;
+                        font-size: 13px;
+                      "
+                    />
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
 
           <mj-table cellpadding="0" cellspacing="0" padding="0 32px 0 0">
             <tr>
@@ -1186,36 +1066,11 @@
       padding="0 0 0 0"
     >
       <mj-section padding="32px 32px 0 32px">
-        <mj-column width="65%" vertical-align="middle">
-          <mj-text
-            font-size="36px"
-            font-weight="bold"
-            line-height="1.05"
-            color="#ffffff"
-            padding="0"
-          >
-            События
-            <br />
-            Сферы
-          </mj-text>
-          <mj-text
-            font-size="16px"
-            font-weight="400"
-            line-height="1.2"
-            color="#ffffff"
-            padding="12px 0 0 0"
-          >
-            В июле нас ждёт сразу несколько интересных  событий, которые можно
-            добавить в свой календарь
-          </mj-text>
-        </mj-column>
-        <mj-column width="35%" vertical-align="middle">
+        <mj-column>
           <mj-image
-            src="https://storage.yandexcloud.net/team-hh-email/july/calendar.png"
-            width="165px"
-            height="166px"
-            alt=""
-            align="right"
+            src="https://storage.yandexcloud.net/team-hh-email/july/events.png"
+            alt="События Сферы"
+            width="536px"
             padding="0"
           />
         </mj-column>

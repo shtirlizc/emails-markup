@@ -5,6 +5,7 @@ When working on email templates:
 - Compile MJML into final HTML.
 - Do not implement emails as normal web pages.
 - Avoid CSS Grid, JavaScript, complex Flexbox, absolute positioning, external CSS files.
+- Do not use `<mj-style>` or raw `<style>` blocks; keep required styles inline in MJML/HTML.
 - Prefer standard MJML components.
 - If the Figma design contains unsafe email patterns, simplify them and explain the tradeoff.
 - Final HTML must be generated and checked before completion.
@@ -26,6 +27,7 @@ Before finishing:
 - HTML was generated from MJML without errors.
 - No JavaScript.
 - No CSS Grid.
+- No `<mj-style>` or raw `<style>` blocks.
 - No external CSS files.
 - No complex Flexbox for layout.
 - Images have alt attributes.
