@@ -10,6 +10,113 @@
       <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
       <mj-section padding="0" />
     </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        .hero-button table {
+          margin-left: 0 !important;
+          margin-right: auto !important;
+        }
+      }
+    </mj-style>
   </mj-head>
-  <mj-body background-color="#e1c9fd" width="600px"> </mj-body>
+  <mj-body background-color="#e1c9fd" width="600px">
+    <mj-section padding="0 0 24px 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
+    <!-- ============== HERO CARD ============== -->
+    <mj-wrapper
+      background-color="#ffffff"
+      background-url="https://storage.yandexcloud.net/team-hh-email/june/bg.png"
+      background-repeat="no-repeat"
+      background-position="top center"
+      background-size="100% auto"
+      border-radius="24px"
+      padding="0 0 0 0"
+    >
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/june/hero.png"
+            alt="Сфера"
+            align="right"
+            width="600px"
+            padding="0"
+            fluid-on-mobile="true"
+          />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 24px 24px 24px">
+        <mj-column width="62%" vertical-align="bottom">
+          <mj-text
+            font-size="42px"
+            font-weight="bold"
+            line-height="1.05"
+            color="#222A3A"
+            padding="0"
+          >
+            Мы все разные,<br />
+            но сфера одна
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="38%" vertical-align="bottom">
+          <mj-button
+            background-color="#9261ff"
+            color="#ffffff"
+            font-weight="bold"
+            font-size="16px"
+            border-radius="40px"
+            inner-padding="13px 24px 14px"
+            padding="12px 0 0 0"
+            align="right"
+            href="https://forms.yandex-team.ru/ext/surveys/13844554/"
+          >
+            Подписаться
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 20px 16px 20px" css-class="hero-copy">
+        <mj-column>
+          <mj-text
+            font-size="18px"
+            line-height="1.25"
+            color="#000000"
+            padding="0"
+          >
+            В этом дайджесте поделимся советами по калибровкам, подборкой свежих
+            постов из «Сферы» и анонсами  событий в июле.
+          </mj-text>
+          <mj-text
+            font-size="18px"
+            line-height="1.25"
+            color="#000000"
+            padding="12px 0 0 0"
+          >
+            <a
+              target="_blank"
+              href="https://forms.yandex-team.ru/ext/surveys/13844554"
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: 700;
+                font-size: 18px;
+                line-height: 120%;
+                letter-spacing: 0;
+                text-decoration: underline;
+                text-decoration-style: solid;
+                text-decoration-skip-ink: auto;
+                color: #6f00ff;
+              "
+              >«Сфера»</a
+            >
+            — это сообщество руководителей Яндекса, где мы общаемся, встречаемся
+            и делимся друг с другом опытом, подходам и идеями. Присоединяйтесь,
+            если ещё не с нами.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
 </mjml>
