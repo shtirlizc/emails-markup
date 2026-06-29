@@ -458,12 +458,12 @@
                       <img
                         src="https://storage.yandexcloud.net/team-hh-email/july/author-1.png"
                         alt="Александр Хмелевский"
-                        width="88"
-                        height="87"
+                        width="108"
+                        height="124"
                         style="
                           display: block;
                           border: 0;
-                          width: 88px;
+                          width: 108px;
                           height: auto;
                         "
                       />
@@ -542,7 +542,7 @@
             </tr>
           </mj-table>
 
-          <mj-table cellpadding="0" cellspacing="0" padding="0">
+          <mj-table cellpadding="0" cellspacing="0" padding="0 32px 0 0">
             <tr>
               <td style="padding: 0">
                 <table cellpadding="0" cellspacing="0" role="presentation">
@@ -770,6 +770,362 @@
                   Если не уверены, стоит ли ставить сотруднику повышенную
                   оценку, лучше обсудить это с руководителем до калибровок,
                   чтобы расхождения во мнениях не мешали защите.
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <!-- Author — Andrew -->
+      <mj-section padding="0 32px 32px 32px">
+        <mj-column
+          background-color="#ffffff"
+          border-radius="20px"
+          padding="22px 0 20px 20px"
+        >
+          <mj-table cellpadding="0" cellspacing="0" padding="0 0 20px 0">
+            <tr>
+              <td
+                valign="middle"
+                style="padding: 0 20px 0 0; vertical-align: middle"
+              >
+                <table
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  style="
+                    width: 100%;
+                    border-collapse: separate;
+                    border-spacing: 0;
+                  "
+                >
+                  <tr>
+                    <td
+                      valign="bottom"
+                      width="96"
+                      style="width: 96px; padding: 0; vertical-align: bottom"
+                    >
+                      <img
+                        src="https://storage.yandexcloud.net/team-hh-email/july/author-2.png"
+                        alt="Андрей Латышев"
+                        width="108"
+                        height="124"
+                        style="
+                          display: block;
+                          border: 0;
+                          width: 108px;
+                          height: auto;
+                        "
+                      />
+                    </td>
+                    <td
+                      valign="bottom"
+                      style="padding: 16px 0 0 0; vertical-align: bottom"
+                    >
+                      <div
+                        style="
+                          margin: 0 0 2px 0;
+                          width: auto;
+                          background-color: #ebe9f5;
+                          padding: 5px 10px;
+                          border-radius: 17px;
+                          max-width: 160px;
+                        "
+                      >
+                        <span
+                          style="
+                            margin: 0;
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-weight: 400;
+                            font-size: 12px;
+                            line-height: 120%;
+                            letter-spacing: 0;
+                            color: #222a3a;
+                            display: inline-block;
+                          "
+                          >Андрей Латышев</span
+                        >
+                      </div>
+                      <div
+                        style="
+                          width: auto;
+                          background-color: #ebe9f5;
+                          padding: 5px 10px;
+                          border-radius: 17px;
+                          max-width: 160px;
+                        "
+                      >
+                        <span
+                          style="
+                            margin: 0;
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-weight: 400;
+                            font-size: 12px;
+                            line-height: 120%;
+                            letter-spacing: 0;
+                            color: #222a3a;
+                            display: inline-block;
+                          "
+                        >
+                          руководитель QA Логистики, Бизнес-группа<br />Городских
+                          сервисов
+                        </span>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                align="right"
+                valign="middle"
+                width="206"
+                style="width: 206px; padding: 0; vertical-align: middle"
+              >
+                <img
+                  src="https://storage.yandexcloud.net/team-hh-email/july/cloud-cancel.png"
+                  alt=""
+                  width="198"
+                  height="126"
+                  style="display: block; border: 0; width: 206px; height: auto"
+                />
+              </td>
+            </tr>
+          </mj-table>
+
+          <mj-table cellpadding="0" cellspacing="0" padding="0 32px 0 0">
+            <tr>
+              <td style="padding: 0">
+                <table cellpadding="0" cellspacing="0" role="presentation">
+                  <tr>
+                    <td
+                      style="
+                        background-color: #e1c9fd;
+                        border-radius: 14px;
+                        padding: 9px 15px;
+                      "
+                    >
+                      <table
+                        cellpadding="0"
+                        cellspacing="0"
+                        role="presentation"
+                      >
+                        <tr>
+                          <td
+                            valign="middle"
+                            width="17"
+                            style="width: 17px; padding: 0 4px 0 0"
+                          >
+                            <img
+                              src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
+                              width="13"
+                              height="13"
+                              alt=""
+                              style="
+                                display: block;
+                                border: 0;
+                                width: 13px;
+                                height: 13px;
+                              "
+                            />
+                          </td>
+                          <td
+                            valign="middle"
+                            style="
+                              font-family: Arial, Helvetica, sans-serif;
+                              font-weight: 700;
+                              font-size: 13px;
+                              line-height: 120%;
+                              letter-spacing: 0;
+                              color: #222a3a;
+                              padding: 0;
+                            "
+                          >
+                            Готовиться только в период ревью
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    color: #222a3a;
+                    padding-top: 10px;
+                  "
+                >
+                  Уже при постановке целей постарайтесь подумать, через какие
+                  кейсы будете защищать оценку сотрудника в конце периода.
+                  Это поможет понять, что он успеет сделать и где потребуется
+                  помощь, какие задачи станут развитием, а какие —  регулярной
+                  рутиной.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="15"
+                style="height: 15px; line-height: 15px; font-size: 15px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 0">
+                <table cellpadding="0" cellspacing="0" role="presentation">
+                  <tr>
+                    <td
+                      style="
+                        background-color: #e1c9fd;
+                        border-radius: 14px;
+                        padding: 9px 15px;
+                      "
+                    >
+                      <table
+                        cellpadding="0"
+                        cellspacing="0"
+                        role="presentation"
+                      >
+                        <tr>
+                          <td
+                            valign="middle"
+                            width="17"
+                            style="width: 17px; padding: 0 4px 0 0"
+                          >
+                            <img
+                              src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
+                              width="13"
+                              height="13"
+                              alt=""
+                              style="
+                                display: block;
+                                border: 0;
+                                width: 13px;
+                                height: 13px;
+                              "
+                            />
+                          </td>
+                          <td
+                            valign="middle"
+                            style="
+                              font-family: Arial, Helvetica, sans-serif;
+                              font-weight: 700;
+                              font-size: 13px;
+                              line-height: 120%;
+                              letter-spacing: 0;
+                              color: #222a3a;
+                              padding: 0;
+                            "
+                          >
+                            Презентовать процесс, а не результат
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    color: #222a3a;
+                    padding-top: 10px;
+                  "
+                >
+                  На калибровках важен не объём работы, а итоговый результат
+                  для бизнеса: сколько компания заработает или сэкономит,
+                  что улучшит. Метрики и сравнения до и после очень упростят
+                  защиту оценки.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="15"
+                style="height: 15px; line-height: 15px; font-size: 15px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 0">
+                <table cellpadding="0" cellspacing="0" role="presentation">
+                  <tr>
+                    <td
+                      style="
+                        background-color: #e1c9fd;
+                        border-radius: 14px;
+                        padding: 9px 15px;
+                      "
+                    >
+                      <table
+                        cellpadding="0"
+                        cellspacing="0"
+                        role="presentation"
+                      >
+                        <tr>
+                          <td
+                            valign="middle"
+                            width="17"
+                            style="width: 17px; padding: 0 4px 0 0"
+                          >
+                            <img
+                              src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
+                              width="13"
+                              height="13"
+                              alt=""
+                              style="
+                                display: block;
+                                border: 0;
+                                width: 13px;
+                                height: 13px;
+                              "
+                            />
+                          </td>
+                          <td
+                            valign="middle"
+                            style="
+                              font-family: Arial, Helvetica, sans-serif;
+                              font-weight: 700;
+                              font-size: 13px;
+                              line-height: 120%;
+                              letter-spacing: 0;
+                              color: #222a3a;
+                              padding: 0;
+                            "
+                          >
+                            Игнорировать результаты мидревью и корректирующий
+                            фидбек
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    color: #222a3a;
+                    padding-top: 10px;
+                  "
+                >
+                  Мидревью — ключевой чек-пойнт. Если уже тогда вы замечаете,
+                  что сотрудник не дотягивает до ожиданий целевой оценки,  дайте
+                  ему развёрнутую обратную связь, чтобы было время
+                  всё исправить. Это поможет не упустить‎ цель, избежать
+                  демотивации и выгорания.
                 </div>
               </td>
             </tr>
