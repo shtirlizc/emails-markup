@@ -11,8 +11,8 @@ When working on email templates:
 
 ## File structure
 
-- Source MJML: emails/main.mjml
-- Compiled HTML: emails/dist/main.html
+- Source MJML: emails/*.mjml
+- Compiled HTML: emails/dist/*.html
 - Assets: emails/assets
 
 ## Build commands
