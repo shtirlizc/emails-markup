@@ -54,53 +54,32 @@
       </mj-section>
 
       <mj-section padding="24px 24px 24px 24px">
-        <mj-column>
-          <mj-table cellpadding="0" cellspacing="0" padding="0">
-            <tr>
-              <td width="100%" valign="bottom" style="width: 100%; padding: 0">
-                <img
-                  src="https://storage.yandexcloud.net/team-hh-email/july/title.png"
-                  alt="Мы все разные, но сфера одна"
-                  width="380"
-                  style="
-                    display: block;
-                    border: 0;
-                    outline: none;
-                    text-decoration: none;
-                    width: 100%;
-                    max-width: 100%;
-                    height: auto;
-                    font-size: 13px;
-                  "
-                />
-              </td>
-              <td
-                valign="bottom"
-                align="right"
-                style="width: 1%; padding: 12px 0 0 16px; white-space: nowrap"
-              >
-                <a
-                  href="https://forms.yandex-team.ru/ext/surveys/13844554/"
-                  target="_blank"
-                  style="
-                    display: inline-block;
-                    background: #9261ff;
-                    border-radius: 40px;
-                    color: #ffffff;
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 16px;
-                    font-weight: 700;
-                    line-height: 120%;
-                    padding: 13px 24px 14px;
-                    text-align: center;
-                    text-decoration: none;
-                    white-space: nowrap;
-                  "
-                  >Подписаться</a
-                >
-              </td>
-            </tr>
-          </mj-table>
+        <mj-column width="65%" vertical-align="bottom" padding="0">
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/july/title.png"
+            alt="Мы все разные, но сфера одна"
+            width="380px"
+            align="left"
+            padding="0"
+          />
+        </mj-column>
+        <mj-column width="35%" vertical-align="bottom" padding="12px 0 0 16px">
+          <mj-button
+            href="https://forms.yandex-team.ru/ext/surveys/13844554/"
+            target="_blank"
+            align="right"
+            background-color="#9261ff"
+            border-radius="40px"
+            color="#ffffff"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="16px"
+            font-weight="700"
+            line-height="120%"
+            inner-padding="13px 24px 14px"
+            padding="0"
+          >
+            <span style="white-space: nowrap">Подписаться</span>
+          </mj-button>
         </mj-column>
       </mj-section>
 
