@@ -1,0 +1,15 @@
+<mjml>
+  <mj-head>
+    <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
+    <mj-preview>
+      В этом дайджесте поделимся советами по калибровкам, подборкой свежих
+      постов из «Сферы» и анонсами событий в июле.
+    </mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#e1c9fd" width="600px"> </mj-body>
+</mjml>
