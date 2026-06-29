@@ -1046,38 +1046,64 @@
       border-radius="24px"
       padding="0 0 0 0"
     >
-      <mj-section padding="11px 24px 0 24px">
+      <mj-section padding="11px 0 0 24px">
         <mj-column>
-          <mj-table padding="0">
-            <tr>
-              <td align="center" style="padding: 0; overflow: hidden">
-                <div
+          <mj-text font-size="0" line-height="0" padding="0">
+            <table
+              cellpadding="0"
+              cellspacing="0"
+              role="presentation"
+              width="100%"
+              style="
+                width: 100%;
+                max-width: 100%;
+                table-layout: fixed;
+                border-collapse: collapse;
+                border-spacing: 0;
+              "
+            >
+              <tr>
+                <td
                   style="
                     width: 100%;
-                    max-width: 536px;
-                    margin: 0 auto;
+                    max-width: 100%;
+                    min-width: 0;
+                    padding: 0;
                     overflow: hidden;
+                    line-height: 0;
                   "
                 >
-                  <img
-                    src="https://storage.yandexcloud.net/team-hh-email/july/events.png"
-                    alt="События Сферы"
-                    width="536"
+                  <div
                     style="
                       display: block;
                       width: 100%;
-                      max-width: 536px;
-                      min-width: 400px;
-                      height: auto;
-                      border: 0;
-                      outline: none;
-                      text-decoration: none;
+                      max-width: 100%;
+                      min-width: 0;
+                      overflow: hidden;
+                      line-height: 0;
                     "
-                  />
-                </div>
-              </td>
-            </tr>
-          </mj-table>
+                  >
+                    <img
+                      src="https://storage.yandexcloud.net/team-hh-email/july/events.png"
+                      alt="События Сферы"
+                      width="536"
+                      style="
+                        display: block;
+                        border: 0;
+                        outline: none;
+                        text-decoration: none;
+                        width: 100%;
+                        max-width: 536px;
+                        min-width: 400px;
+                        height: auto;
+                        font-size: 13px;
+                      "
+                    />
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
         </mj-column>
       </mj-section>
 
@@ -1162,7 +1188,7 @@
             font-size="12px"
             line-height="1.2"
             color="#222a3a"
-            padding="0 0 2px 0"
+            padding="0 0 20px 0"
           >
             В Яндексе пройдёт неделя карьеры и развития, а 29 июля будет
             отдельный образовательный трек для руководителей. Всеми деталями
@@ -1243,7 +1269,11 @@
     ></mj-section>
 
     <!-- ============== USEFUL LINKS ============== -->
-    <mj-section background-color="#f0e9ff" border-radius="20px" padding="32px 24px">
+    <mj-section
+      background-color="#f0e9ff"
+      border-radius="20px"
+      padding="32px 24px"
+    >
       <mj-column>
         <mj-text
           font-size="36px"
