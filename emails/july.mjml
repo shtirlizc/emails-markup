@@ -1,9 +1,9 @@
 <mjml>
   <mj-head>
-    <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
+    <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
     <mj-preview>
-      В этом дайджесте поделимся советами по калибровкам, подборкой свежих
-      постов из «Сферы» и анонсами событий в июле.
+      В этом дайджесте поделимся советами по калибровкам, подборкой свежих
+      постов из «Сферы» и анонсами событий в июле.
     </mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
@@ -12,7 +12,15 @@
     </mj-attributes>
     <mj-style>
       @media only screen and (min-width: 480px) {
-        .hero-title div {
+        .hero-title div,
+        [class*="hero-title"] div {
+          font-size: 42px !important;
+          line-height: 1.05 !important;
+        }
+      }
+      @media only screen and (min-device-width: 480px) {
+        .hero-title div,
+        [class*="hero-title"] div {
           font-size: 42px !important;
           line-height: 1.05 !important;
         }
@@ -62,34 +70,53 @@
       </mj-section>
 
       <mj-section padding="24px 24px 24px 24px">
-        <mj-column width="62%" vertical-align="bottom">
-          <mj-text
-            css-class="hero-title"
-            font-size="24px"
-            font-weight="bold"
-            line-height="1.05"
-            color="#222A3A"
-            padding="0"
-          >
-            Мы все разные,<br />
-            но сфера одна
-          </mj-text>
-        </mj-column>
-
-        <mj-column width="38%" vertical-align="bottom">
-          <mj-button
-            background-color="#9261ff"
-            color="#ffffff"
-            font-weight="bold"
-            font-size="16px"
-            border-radius="40px"
-            inner-padding="13px 24px 14px"
-            padding="12px 0 0 0"
-            align="right"
-            href="https://forms.yandex-team.ru/ext/surveys/13844554/"
-          >
-            Подписаться
-          </mj-button>
+        <mj-column>
+          <mj-table cellpadding="0" cellspacing="0" padding="0">
+            <tr>
+              <td width="100%" valign="bottom" style="width: 100%; padding: 0">
+                <img
+                  src="https://storage.yandexcloud.net/team-hh-email/july/title.png"
+                  alt="Мы все разные, но сфера одна"
+                  width="380"
+                  style="
+                    display: block;
+                    border: 0;
+                    outline: none;
+                    text-decoration: none;
+                    width: 100%;
+                    max-width: 100%;
+                    height: auto;
+                    font-size: 13px;
+                  "
+                />
+              </td>
+              <td
+                valign="bottom"
+                align="right"
+                style="width: 1%; padding: 12px 0 0 16px; white-space: nowrap"
+              >
+                <a
+                  href="https://forms.yandex-team.ru/ext/surveys/13844554/"
+                  target="_blank"
+                  style="
+                    display: inline-block;
+                    background: #9261ff;
+                    border-radius: 40px;
+                    color: #ffffff;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 120%;
+                    padding: 13px 24px 14px;
+                    text-align: center;
+                    text-decoration: none;
+                    white-space: nowrap;
+                  "
+                  >Подписаться</a
+                >
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
 
@@ -138,6 +165,7 @@
     ></mj-section>
 
     <!-- ============== PREV MONTH CARD ============== -->
+
     <mj-wrapper
       background-color="#ffffff"
       border-radius="24px"
@@ -152,8 +180,7 @@
             color="#222A3A"
             padding="0"
           >
-            Что читали в «Сфере»<br />
-            в июне
+            Что читали в «Сфере» в июне
           </mj-text>
         </mj-column>
       </mj-section>
@@ -183,7 +210,7 @@
                     text-decoration-skip-ink: auto;
                     color: #9261ff;
                   "
-                  >Зачем говорить с командой о развитии</a
+                  >Зачем говорить с командой о развитии</a
                 >
                 <div
                   style="
@@ -325,7 +352,7 @@
                     text-decoration-skip-ink: auto;
                     color: #9261ff;
                   "
-                  >Команда сделала всё, а я что?</a
+                  >Команда сделала всё, а я что?</a
                 >
                 <div
                   style="
@@ -372,7 +399,7 @@
                     text-decoration-skip-ink: auto;
                     color: #9261ff;
                   "
-                  >Новый сигнал у техноруководителей AI-agents adoption </a
+                  >Новый сигнал у техноруководителей AI-agents adoption </a
                 >
                 <div
                   style="
@@ -425,7 +452,7 @@
             color="#222A3A"
             padding="0"
           >
-            «Да» и «Нет» в калибровках
+            «Да» и «Нет» в калибровках
           </mj-text>
           <mj-text
             font-size="16px"
@@ -604,7 +631,7 @@
                               padding: 0;
                             "
                           >
-                            Быть структурным и кратким
+                            Быть структурным и кратким
                           </td>
                         </tr>
                       </table>
@@ -955,7 +982,7 @@
                               padding: 0;
                             "
                           >
-                            Готовиться только в период ревью
+                            Готовиться только в период ревью
                           </td>
                         </tr>
                       </table>
@@ -1036,7 +1063,7 @@
                               padding: 0;
                             "
                           >
-                            Презентовать процесс, а не результат
+                            Презентовать процесс, а не результат
                           </td>
                         </tr>
                       </table>
@@ -1116,7 +1143,7 @@
                               padding: 0;
                             "
                           >
-                            Игнорировать результаты мидревью и корректирующий
+                            Игнорировать результаты мидревью и корректирующий
                             фидбек
                           </td>
                         </tr>
@@ -1178,8 +1205,8 @@
             color="#ffffff"
             padding="12px 0 0 0"
           >
-            В июле нас ждёт сразу несколько интересных  событий, которые можно
-            добавить в свой календарь
+            В июле нас ждёт сразу несколько интересных  событий, которые можно
+            добавить в свой календарь
           </mj-text>
         </mj-column>
         <mj-column width="35%" vertical-align="middle">
@@ -1207,8 +1234,8 @@
             color="#222a3a"
             padding="0 0 9px 0"
           >
-            Планирование без иллюзий:<br />как управлять командой на данных из
-            Трекера
+            Планирование без иллюзий:<br />как управлять командой на данных
+            из Трекера
           </mj-text>
           <mj-text
             font-size="12px"
@@ -1260,7 +1287,7 @@
             color="#222a3a"
             padding="0 0 9px 0"
           >
-            Неделя карьеры и развития
+            Неделя карьеры и развития
           </mj-text>
           <mj-text
             font-size="12px"
@@ -1552,7 +1579,7 @@
                   "
                 >
                   <span style="color: #000000; text-decoration: underline"
-                    >Вики про калибровки и утверждение оценок</span
+                    >Вики про калибровки и утверждение оценок</span
                   >
                 </td>
                 <td
