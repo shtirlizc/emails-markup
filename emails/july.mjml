@@ -53,7 +53,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0 32px 24px 32px">
+      <mj-section padding="0 24px 24px 24px">
         <mj-column width="65%" vertical-align="bottom" padding="0">
           <mj-image
             src="https://storage.yandexcloud.net/team-hh-email/july/title.png"
@@ -83,7 +83,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="42px 32px 31px 32px">
+      <mj-section padding="42px 24px 31px 24px">
         <mj-column>
           <mj-text
             font-size="18px"
@@ -134,7 +134,7 @@
       border-radius="24px"
       padding="0 0 0 0"
     >
-      <mj-section padding="32px 32px 24px 32px">
+      <mj-section padding="32px 24px 24px 24px">
         <mj-column>
           <mj-text
             font-size="36px"
@@ -148,7 +148,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0 32px 32px 32px">
+      <mj-section padding="0 24px 32px 24px">
         <mj-column>
           <mj-table cellpadding="0" cellspacing="0" padding="0">
             <tr>
@@ -406,7 +406,7 @@
       border-radius="24px"
       padding="0 0 0 0"
     >
-      <mj-section padding="32px 32px 0 32px">
+      <mj-section padding="32px 24px 0 24px">
         <mj-column>
           <mj-text
             font-size="36px"
@@ -431,7 +431,7 @@
       </mj-section>
 
       <!-- Author — Alexandr -->
-      <mj-section padding="23px 32px 24px 32px">
+      <mj-section padding="23px 24px 24px 24px">
         <mj-column
           background-color="#ffffff"
           border-radius="20px"
@@ -731,7 +731,7 @@
       </mj-section>
 
       <!-- Author — Andrew -->
-      <mj-section padding="0 32px 32px 32px">
+      <mj-section padding="0 24px 32px 24px">
         <mj-column
           background-color="#ffffff"
           border-radius="20px"
@@ -1046,7 +1046,7 @@
       border-radius="24px"
       padding="0 0 0 0"
     >
-      <mj-section padding="11px 32px 0 32px">
+      <mj-section padding="11px 24px 0 24px">
         <mj-column>
           <mj-table padding="0">
             <tr>
@@ -1081,7 +1081,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="10px 32px 0 32px">
+      <mj-section padding="10px 24px 0 24px">
         <mj-column
           background-color="#ffffff"
           border-radius="16px"
@@ -1133,7 +1133,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="16px 32px 32px 32px">
+      <mj-section padding="16px 24px 32px 24px">
         <mj-column
           width="48.5%"
           background-color="#ffffff"
@@ -1243,7 +1243,7 @@
     ></mj-section>
 
     <!-- ============== USEFUL LINKS ============== -->
-    <mj-section background-color="#f0e9ff" border-radius="20px" padding="32px">
+    <mj-section background-color="#f0e9ff" border-radius="20px" padding="32px 24px">
       <mj-column>
         <mj-text
           font-size="36px"
@@ -1467,7 +1467,7 @@
     <mj-section
       background-color="#9261ff"
       border-radius="20px"
-      padding="18px 32px 15px 32px"
+      padding="18px 24px 15px 24px"
     >
       <mj-column>
         <mj-table cellpadding="0" cellspacing="0" padding="0">
@@ -1551,7 +1551,7 @@
     <mj-section
       background-color="#f0e9ff"
       border-radius="24px"
-      padding="35px 32px 28px 32px"
+      padding="35px 24px 28px 24px"
     >
       <mj-column>
         <mj-text
