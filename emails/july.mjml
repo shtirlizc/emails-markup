@@ -10,14 +10,6 @@
       <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
       <mj-section padding="0" />
     </mj-attributes>
-    <mj-style>
-      @media only screen and (max-width: 480px) {
-        .hero-button table {
-          margin-left: 0 !important;
-          margin-right: auto !important;
-        }
-      }
-    </mj-style>
   </mj-head>
   <mj-body background-color="#e1c9fd" width="600px">
     <mj-section padding="0 0 24px 0"
@@ -36,15 +28,28 @@
     >
       <mj-section padding="0">
         <mj-column>
-          <mj-image
-            src="https://storage.yandexcloud.net/team-hh-email/july/hero.png"
-            alt="Сфера"
-            align="right"
-            width="600px"
-            height="276px"
-            padding="0"
-            fluid-on-mobile="true"
-          />
+          <mj-table cellpadding="0" cellspacing="0" padding="0">
+            <tr>
+              <td style="width: 600px; padding: 0">
+                <img
+                  src="https://storage.yandexcloud.net/team-hh-email/july/hero.png"
+                  alt="Сфера"
+                  width="600"
+                  height="276"
+                  style="
+                    display: block;
+                    border: 0;
+                    outline: none;
+                    text-decoration: none;
+                    width: 100%;
+                    max-width: 600px;
+                    height: auto;
+                    font-size: 13px;
+                  "
+                />
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
 
