@@ -126,10 +126,6 @@
     <!-- ============== PREV MONTH CARD ============== -->
     <mj-wrapper
       background-color="#ffffff"
-      background-url="https://storage.yandexcloud.net/team-hh-email/june/bg.png"
-      background-repeat="no-repeat"
-      background-position="top center"
-      background-size="100% auto"
       border-radius="24px"
       padding="0 0 0 0"
     >
@@ -399,5 +395,36 @@
     <mj-section padding="12px 0 0 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
+
+    <!-- ============== EXPERTS CARD ============== -->
+    <mj-wrapper
+      background-color="#F0E9FF"
+      border-radius="24px"
+      padding="0 0 0 0"
+    >
+      <mj-section padding="24px 20px 16px 20px">
+        <mj-column>
+          <mj-text
+            font-size="36px"
+            font-weight="bold"
+            line-height="1.05"
+            color="#222A3A"
+            padding="0"
+          >
+            «Да» и «Нет» в калибровках
+          </mj-text>
+          <mj-text
+            font-size="16px"
+            font-weight="400"
+            line-height="1.2"
+            color="#222A3A"
+            padding="12px 0 0 0"
+          >
+            Спросили руководителей, что помогает им в период калибровок,  а что,
+            наоборот, может только усложнить процесс.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
   </mj-body>
 </mjml>
