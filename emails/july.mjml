@@ -482,7 +482,7 @@
                         border: 0;
                         outline: none;
                         text-decoration: none;
-                        width: 517px;
+                        width: 100%;
                         max-width: none;
                         min-width: 517px;
                         height: 146px;
@@ -782,7 +782,7 @@
                         border: 0;
                         outline: none;
                         text-decoration: none;
-                        width: 517px;
+                        width: 100%;
                         max-width: none;
                         min-width: 517px;
                         height: 138px;
