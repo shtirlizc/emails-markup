@@ -79,7 +79,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="24px 20px 16px 20px" css-class="hero-copy">
+      <mj-section padding="24px 20px 16px 20px">
         <mj-column>
           <mj-text
             font-size="18px"
@@ -97,7 +97,6 @@
             padding="12px 0 0 0"
           >
             <a
-              target="_blank"
               href="https://forms.yandex-team.ru/ext/surveys/13844554"
               style="
                 font-family: Arial, Helvetica, sans-serif;
@@ -119,5 +118,286 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
+    <!-- ============== PREV MONTH CARD ============== -->
+    <mj-wrapper
+      background-color="#ffffff"
+      background-url="https://storage.yandexcloud.net/team-hh-email/june/bg.png"
+      background-repeat="no-repeat"
+      background-position="top center"
+      background-size="100% auto"
+      border-radius="24px"
+      padding="0 0 0 0"
+    >
+      <mj-section padding="24px 20px 16px 20px">
+        <mj-column>
+          <mj-text
+            font-size="36px"
+            font-weight="bold"
+            line-height="1.05"
+            color="#222A3A"
+            padding="0"
+          >
+            Что читали в «Сфере»<br />
+            в июне
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 20px 24px 20px">
+        <mj-column>
+          <mj-table cellpadding="0" cellspacing="0" padding="0">
+            <tr>
+              <td
+                style="
+                  background-color: #f0e9ff;
+                  border-radius: 16px;
+                  border-collapse: separate;
+                  padding: 18px;
+                "
+              >
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781856452211070"
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    text-decoration: underline;
+                    text-decoration-style: solid;
+                    text-decoration-skip-ink: auto;
+                    color: #9261ff;
+                  "
+                  >Зачем говорить с командой о развитии</a
+                >
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 120%;
+                    color: #333333;
+                    padding-top: 8px;
+                  "
+                >
+                  Лиды Яндекса поделились, почему важно обсуждать развитие
+                  в период ревью и как это делать.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="16"
+                style="height: 16px; line-height: 16px; font-size: 16px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  background-color: #f0e9ff;
+                  border-radius: 16px;
+                  border-collapse: separate;
+                  padding: 18px;
+                "
+              >
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781856452211070"
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    text-decoration: underline;
+                    text-decoration-style: solid;
+                    text-decoration-skip-ink: auto;
+                    color: #9261ff;
+                  "
+                  >Пробовать, даже когда ставки высоки…</a
+                >
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 120%;
+                    color: #333333;
+                    padding-top: 8px;
+                  "
+                >
+                  Участники Поговорим Про х Сфера рассказали о рисках, ошибках
+                  и шишках,  которые они набили на собственном опыте.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="16"
+                style="height: 16px; line-height: 16px; font-size: 16px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  background-color: #f0e9ff;
+                  border-radius: 16px;
+                  border-collapse: separate;
+                  padding: 18px;
+                "
+              >
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781005665086016"
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    text-decoration: underline;
+                    text-decoration-style: solid;
+                    text-decoration-skip-ink: auto;
+                    color: #9261ff;
+                  "
+                  >Какие мы: портрет яндексоида</a
+                >
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 120%;
+                    color: #333333;
+                    padding-top: 8px;
+                  "
+                >
+                  Проанализировали данные наших сотрудников и нашли, чем мы
+                  похожи и отличаемся. Например, мы смелые, редко конфликтуем
+                  открыто и склонны залипать на проблемах.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="16"
+                style="height: 16px; line-height: 16px; font-size: 16px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  background-color: #f0e9ff;
+                  border-radius: 16px;
+                  border-collapse: separate;
+                  padding: 18px;
+                "
+              >
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781616434587070"
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    text-decoration: underline;
+                    text-decoration-style: solid;
+                    text-decoration-skip-ink: auto;
+                    color: #9261ff;
+                  "
+                  >Команда сделала всё, а я что?</a
+                >
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 120%;
+                    color: #333333;
+                    padding-top: 8px;
+                  "
+                >
+                  О том, как руководителю писать селф-ревью, если все конкретные
+                  результаты  сделала команда.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td
+                height="16"
+                style="height: 16px; line-height: 16px; font-size: 16px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  background-color: #f0e9ff;
+                  border-radius: 16px;
+                  border-collapse: separate;
+                  padding: 18px;
+                "
+              >
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1780659612018081"
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 120%;
+                    letter-spacing: 0;
+                    text-decoration: underline;
+                    text-decoration-style: solid;
+                    text-decoration-skip-ink: auto;
+                    color: #9261ff;
+                  "
+                  >Новый сигнал у техноруководителей AI-agents adoption </a
+                >
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: 400;
+                    font-size: 12px;
+                    line-height: 120%;
+                    color: #333333;
+                    padding-top: 8px;
+                  "
+                >
+                  О том, как команда использует ИИ-агентов в ежедневной работе.
+                   Если хотите поработать над сигналом, оставьте
+                  <a
+                    href="https://forms.yandex-team.ru/ext/surveys/13867958"
+                    style="
+                      font-family: Arial, Helvetica, sans-serif;
+                      letter-spacing: 0;
+                      text-decoration: underline;
+                      text-decoration-style: solid;
+                      text-decoration-skip-ink: auto;
+                      color: #6f00ff;
+                    "
+                    >заявку.</a
+                  >
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
   </mj-body>
 </mjml>
