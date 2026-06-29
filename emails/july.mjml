@@ -27,7 +27,7 @@
     <!-- ============== HERO CARD ============== -->
     <mj-wrapper
       background-color="#ffffff"
-      background-url="https://storage.yandexcloud.net/team-hh-email/june/bg.png"
+      background-url="https://storage.yandexcloud.net/team-hh-email/july/bg.png"
       background-repeat="no-repeat"
       background-position="top center"
       background-size="100% auto"
@@ -37,10 +37,11 @@
       <mj-section padding="0">
         <mj-column>
           <mj-image
-            src="https://storage.yandexcloud.net/team-hh-email/june/hero.png"
+            src="https://storage.yandexcloud.net/team-hh-email/july/hero.png"
             alt="Сфера"
             align="right"
             width="600px"
+            height="276px"
             padding="0"
             fluid-on-mobile="true"
           />
