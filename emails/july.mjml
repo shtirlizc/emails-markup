@@ -1133,5 +1133,56 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
+
+    <mj-section padding="12px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
+    <!-- ============== SCHEDULE CARD ============== -->
+    <mj-wrapper
+      background-color="#9261FF"
+      border-radius="24px"
+      padding="0 0 0 0"
+    >
+      <mj-section padding="32px 32px 0 32px">
+        <mj-column width="65%" vertical-align="middle">
+          <mj-text
+            font-size="36px"
+            font-weight="bold"
+            line-height="1.05"
+            color="#ffffff"
+            padding="0"
+          >
+            События
+            <br />
+            Сферы
+          </mj-text>
+          <mj-text
+            font-size="16px"
+            font-weight="400"
+            line-height="1.2"
+            color="#ffffff"
+            padding="12px 0 0 0"
+          >
+            В июле нас ждёт сразу несколько интересных  событий, которые можно
+            добавить в свой календарь
+          </mj-text>
+        </mj-column>
+        <mj-column width="35%" vertical-align="middle">
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/july/calendar.png"
+            width="165px"
+            height="166px"
+            alt=""
+            align="right"
+            padding="0"
+          />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="24px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
   </mj-body>
 </mjml>
