@@ -10,6 +10,14 @@
       <mj-text font-size="16px" line-height="1.4" color="#1f2426" />
       <mj-section padding="0" />
     </mj-attributes>
+    <mj-style>
+      @media only screen and (min-width: 480px) {
+        .hero-title div {
+          font-size: 42px !important;
+          line-height: 1.05 !important;
+        }
+      }
+    </mj-style>
   </mj-head>
   <mj-body background-color="#e1c9fd" width="600px">
     <mj-section padding="0 0 24px 0"
@@ -56,7 +64,8 @@
       <mj-section padding="24px 24px 24px 24px">
         <mj-column width="62%" vertical-align="bottom">
           <mj-text
-            font-size="42px"
+            css-class="hero-title"
+            font-size="24px"
             font-weight="bold"
             line-height="1.05"
             color="#222A3A"
