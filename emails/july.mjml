@@ -148,7 +148,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0 20px 24px 20px">
+      <mj-section padding="0 32px 32px 32px">
         <mj-column>
           <mj-table cellpadding="0" cellspacing="0" padding="0">
             <tr>
@@ -396,7 +396,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="12px 0 0 0"
+    <mj-section padding="29px 0 0 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
@@ -422,7 +422,7 @@
             font-weight="400"
             line-height="1.2"
             color="#222A3A"
-            padding="12px 0 0 0"
+            padding="23px 8px 0 0"
           >
             Спросили руководителей, что помогает им в период калибровок, а что,
             наоборот, может только усложнить процесс.
@@ -431,13 +431,13 @@
       </mj-section>
 
       <!-- Author — Alexandr -->
-      <mj-section padding="32px">
+      <mj-section padding="23px 32px 24px 32px">
         <mj-column
           background-color="#ffffff"
           border-radius="20px"
-          padding="22px 0 20px 20px"
+          padding="11px 0 25px 20px"
         >
-          <mj-text font-size="0" line-height="0" padding="0 0 20px 0">
+          <mj-text font-size="0" line-height="0" padding="0">
             <table
               cellpadding="0"
               cellspacing="0"
@@ -504,7 +504,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -516,7 +516,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/check.png"
@@ -583,7 +583,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -595,7 +595,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/check.png"
@@ -663,7 +663,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -675,7 +675,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/check.png"
@@ -735,9 +735,9 @@
         <mj-column
           background-color="#ffffff"
           border-radius="20px"
-          padding="22px 0 20px 20px"
+          padding="11px 0 24px 20px"
         >
-          <mj-text font-size="0" line-height="0" padding="0 0 20px 0">
+          <mj-text font-size="0" line-height="0" padding="0 0 7px 0">
             <table
               cellpadding="0"
               cellspacing="0"
@@ -804,7 +804,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -816,7 +816,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
@@ -885,7 +885,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -897,7 +897,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
@@ -965,7 +965,7 @@
                       style="
                         background-color: #e1c9fd;
                         border-radius: 14px;
-                        padding: 9px 15px;
+                        padding: 5px 15px 5px 15px;
                       "
                     >
                       <table
@@ -977,7 +977,7 @@
                           <td
                             valign="middle"
                             width="17"
-                            style="width: 17px; padding: 0 4px 0 0"
+                            style="width: 17px; padding: 0"
                           >
                             <img
                               src="https://storage.yandexcloud.net/team-hh-email/july/cancel.png"
@@ -1036,7 +1036,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="12px 0 0 0"
+    <mj-section padding="29px 0 0 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
@@ -1046,7 +1046,7 @@
       border-radius="24px"
       padding="0 0 0 0"
     >
-      <mj-section padding="32px 32px 0 32px">
+      <mj-section padding="11px 32px 0 32px">
         <mj-column>
           <mj-table padding="0">
             <tr>
@@ -1081,7 +1081,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="24px 32px 0 32px">
+      <mj-section padding="10px 32px 0 32px">
         <mj-column
           background-color="#ffffff"
           border-radius="16px"
