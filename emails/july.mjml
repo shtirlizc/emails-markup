@@ -497,6 +497,7 @@
                       src="https://storage.yandexcloud.net/team-hh-email/july/expert-1.png"
                       alt="Александр Хмелевский"
                       width="517"
+                      height="146"
                       style="
                         display: block;
                         border: 0;
@@ -505,7 +506,7 @@
                         width: 517px;
                         max-width: none;
                         min-width: 517px;
-                        height: auto;
+                        height: 146px;
                         font-size: 13px;
                       "
                     />
@@ -796,6 +797,7 @@
                       src="https://storage.yandexcloud.net/team-hh-email/july/expert-2.png"
                       alt="Андрей Латышев"
                       width="517"
+                      height="138"
                       style="
                         display: block;
                         border: 0;
@@ -804,7 +806,7 @@
                         width: 517px;
                         max-width: none;
                         min-width: 517px;
-                        height: auto;
+                        height: 138px;
                         font-size: 13px;
                       "
                     />
@@ -1067,12 +1069,36 @@
     >
       <mj-section padding="32px 32px 0 32px">
         <mj-column>
-          <mj-image
-            src="https://storage.yandexcloud.net/team-hh-email/july/events.png"
-            alt="События Сферы"
-            width="536px"
-            padding="0"
-          />
+          <mj-table padding="0">
+            <tr>
+              <td align="center" style="padding: 0; overflow: hidden">
+                <div
+                  style="
+                    width: 100%;
+                    max-width: 536px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                  "
+                >
+                  <img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/events.png"
+                    alt="События Сферы"
+                    width="536"
+                    style="
+                      display: block;
+                      width: 100%;
+                      max-width: 536px;
+                      min-width: 400px;
+                      height: auto;
+                      border: 0;
+                      outline: none;
+                      text-decoration: none;
+                    "
+                  />
+                </div>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
 
