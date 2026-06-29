@@ -1179,6 +1179,162 @@
           />
         </mj-column>
       </mj-section>
+
+      <mj-section padding="24px 32px 0 32px">
+        <mj-column
+          background-color="#ffffff"
+          border-radius="16px"
+          padding="20px 20px 18px 20px"
+        >
+          <mj-text
+            font-size="16px"
+            font-weight="bold"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 9px 0"
+          >
+            Планирование без иллюзий:<br />как управлять командой на данных из
+            Трекера
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            font-weight="700"
+            line-height="1.2"
+            color="#9261FF"
+            padding="0 0 12px 0"
+          >
+            9 июля 16:30–18:00
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 30px 0"
+          >
+            Разберём, как точнее планировать, оценивать загрузку команды
+            и автоматически готовить отчётность с помощью аналитики задач
+            в Трекере.
+          </mj-text>
+          <mj-button
+            href="#"
+            background-color="#222a3a"
+            color="#ffffff"
+            font-size="16px"
+            font-weight="bold"
+            border-radius="40px"
+            inner-padding="15px 24px"
+            line-height="1"
+            align="left"
+            padding="12px 0 0 0"
+          >
+            Записаться
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="16px 32px 32px 32px">
+        <mj-column
+          width="48.5%"
+          background-color="#ffffff"
+          border-radius="16px"
+          padding="20px 20px 18px 20px"
+        >
+          <mj-text
+            font-size="16px"
+            font-weight="bold"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 9px 0"
+          >
+            Неделя карьеры и развития
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            font-weight="700"
+            line-height="1.2"
+            color="#9261FF"
+            padding="0 0 12px 0"
+          >
+            27–31 июля
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 30px 0"
+          >
+            В Яндексе пройдёт неделя карьеры и развития, а 29 июля будет
+             отдельный образовательный трек для руководителей. Всеми деталями
+            поделимся позже в «Сфере».
+          </mj-text>
+          <mj-button
+            href="#"
+            background-color="#222a3a"
+            color="#ffffff"
+            font-size="16px"
+            font-weight="bold"
+            border-radius="40px"
+            inner-padding="15px 24px"
+            line-height="1"
+            align="left"
+            padding="12px 0 0 0"
+          >
+            Записаться
+          </mj-button>
+        </mj-column>
+        <mj-column width="3%" padding="0">
+          <mj-spacer height="16px" />
+        </mj-column>
+        <mj-column
+          width="48.5%"
+          background-color="#ffffff"
+          border-radius="16px"
+          padding="20px 20px 18px 20px"
+        >
+          <mj-text
+            font-size="16px"
+            font-weight="bold"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 9px 0"
+          >
+            Дискуссионный клуб руководителей Яндекса
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            font-weight="700"
+            line-height="1.2"
+            color="#9261FF"
+            padding="0 0 12px 0"
+          >
+            31 июля 16:30–18:00
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0 0 30px 0"
+          >
+            Традиционная встреча участников «Сферы», на которой можно задать
+            любой вопрос или просто послушать, с чем сейчас сталкиваются коллеги
+            из разных команд Яндекса.
+          </mj-text>
+          <mj-button
+            href="#"
+            background-color="#222a3a"
+            color="#ffffff"
+            font-size="16px"
+            font-weight="bold"
+            border-radius="40px"
+            inner-padding="15px 24px"
+            line-height="1"
+            align="left"
+            padding="12px 0 0 0"
+          >
+            Записаться
+          </mj-button>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
 
     <mj-section padding="24px 0 0 0"
