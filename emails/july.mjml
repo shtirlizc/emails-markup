@@ -156,12 +156,12 @@
                 align="right"
                 valign="bottom"
                 style="
-                  width: 124px;
+                  width: 128px;
                   min-height: 96px;
                   background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-1.png&quot;);
-                  background-position: right bottom;
+                  background-position: 2px bottom;
                   background-repeat: no-repeat;
-                  background-size: 124px 96px;
+                  background-size: 128px 96px;
                 "
               >
                 &nbsp;
@@ -181,7 +181,7 @@
                   background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-2.png&quot;);
                   background-position: top right;
                   background-repeat: no-repeat;
-                  background-size: 124px 25px;
+                  background-size: 128px 25px;
                   border-radius: 16px;
                   border-collapse: separate;
                   padding: 18px;
@@ -1174,7 +1174,7 @@
             в Трекере.
           </mj-text>
           <mj-button
-            href="#"
+            href="https://events.yandex-team.ru/?city=1&startDateTime=2026-07-09T00%3A00%3A00.000Z&eventId=6f6d828c-b14d-4946-8493-3554c5351c4d"
             background-color="#222a3a"
             color="#ffffff"
             font-size="16px"
@@ -1280,7 +1280,7 @@
             из разных команд Яндекса.
           </mj-text>
           <mj-button
-            href="#"
+            href="https://events.yandex-team.ru/?city=1&startDateTime=2026-07-31T00%3A00%3A00.000Z&eventId=de9c2f84-b3c5-4bfa-bff7-79df944fa04d"
             background-color="#222a3a"
             color="#ffffff"
             font-size="16px"
@@ -1679,9 +1679,7 @@
           color="#1f2426"
           padding="0 0 25px 0"
         >
-          <span style="letter-spacing: 1.2px">
-            Участвуйте в&nbsp;жизни сообщества «Сфера»
-          </span>
+          Участвуйте в&nbsp;жизни сообщества «Сфера»
         </mj-text>
         <mj-text
           font-size="16px"
