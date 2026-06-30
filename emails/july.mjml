@@ -210,7 +210,6 @@
                   min-height: 96px;
                   background: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-1.png&quot;)
                     #ffffff bottom / 128px 96px no-repeat;
-                  background-position-x: 2px;
                 "
               >
                 &nbsp;
@@ -227,10 +226,10 @@
               <td
                 style="
                   background-color: #f0e9ff;
-                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-2.png&quot;);
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/test-star.png&quot;);
                   background-position: top right;
                   background-repeat: no-repeat;
-                  background-size: 128px 25px;
+                  background-size: 130px 25px;
                   border-radius: 16px;
                   border-collapse: separate;
                   padding: 18px;
