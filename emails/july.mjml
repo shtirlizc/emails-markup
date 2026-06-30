@@ -194,7 +194,7 @@
                 "
               >
                 <a
-                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781856452211070"
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1781776611206081"
                   style="
                     font-family: Arial, Helvetica, sans-serif;
                     font-weight: 700;
@@ -1219,7 +1219,7 @@
             color="#9261FF"
             padding="0 0 10px 0"
           >
-            27–31 июля
+            29 июля
           </mj-text>
           <mj-text
             font-size="12px"
@@ -1227,24 +1227,26 @@
             color="#222a3a"
             padding="0 0 20px 0"
           >
-            В Яндексе пройдёт неделя карьеры и развития, а 29 июля будет
-            отдельный образовательный трек для руководителей. Всеми деталями
-            поделимся позже в «Сфере».
+            В Яндексе пройдёт неделя карьеры и развития, а 29 июля будет
+            отдельный образовательный трек для руководителей. Не забудьте
+            забронировать под него слот в календаре.
           </mj-text>
-          <mj-button
-            href="#"
-            background-color="#222a3a"
-            color="#ffffff"
-            font-size="16px"
-            font-weight="bold"
-            border-radius="40px"
-            inner-padding="15px 24px"
-            line-height="1"
-            align="left"
-            padding="12px 0 0 0"
-          >
-            Записаться
-          </mj-button>
+          <mj-text padding="0">
+            <p
+              style="
+                margin: 0 0 14px 0;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 13px;
+                font-weight: 700;
+                line-height: 1.2;
+                color: #222a3a;
+              "
+            >
+              <strong style="font-weight: 700"
+                >Всеми деталями поделимся позже в «Сфере».</strong
+              >
+            </p>
+          </mj-text>
         </mj-column>
         <mj-column width="3%" padding="0">
           <mj-spacer height="16px" />
@@ -1693,7 +1695,7 @@
           color="#000000"
           padding="0 2px 23px 2px"
         >
-          Станьте спикером, автором сообщества или&nbsp;экспертом
+          Станьте спикером, автором сообщества или&nbsp;экспертом&nbsp;
           Toolbox,&nbsp;участвуйте в&nbsp;разборе кейсов или&nbsp;делитесь
           идеями того,&nbsp;как&nbsp;нам сделать «Сферу» полезнее для&nbsp;вас —
           в&nbsp;общем,&nbsp;выбирайте свой формат.
