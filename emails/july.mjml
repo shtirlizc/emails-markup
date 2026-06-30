@@ -54,32 +54,75 @@
       </mj-section>
 
       <mj-section padding="0 24px 24px 24px">
-        <mj-column width="65%" vertical-align="bottom" padding="0">
+        <mj-column width="60%" vertical-align="bottom" padding="0">
           <mj-image
             src="https://storage.yandexcloud.net/team-hh-email/july/title.png"
-            alt="Мы все разные, но сфера одна"
-            width="380px"
+            alt="Мы все разные, но сфера одна"
+            width="327px"
             align="left"
             padding="0"
           />
         </mj-column>
-        <mj-column width="35%" vertical-align="bottom" padding="12px 0 0 16px">
-          <mj-button
-            href="https://forms.yandex-team.ru/ext/surveys/13844554/"
-            target="_blank"
-            align="right"
-            background-color="#9261ff"
-            border-radius="40px"
-            color="#ffffff"
-            font-family="Arial, Helvetica, sans-serif"
-            font-size="16px"
-            font-weight="700"
-            line-height="120%"
-            inner-padding="13px 24px 14px"
-            padding="0"
-          >
-            <span style="white-space: nowrap">Подписаться</span>
-          </mj-button>
+        <mj-column width="40%" vertical-align="bottom" padding="12px 0 0 0">
+          <mj-table cellpadding="0" cellspacing="0" padding="0">
+            <tr>
+              <td
+                align="right"
+                valign="bottom"
+                style="
+                  padding-left: 68px;
+                  padding-top: 32px;
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/hero-arrow.png&quot;);
+                  background-position: 8px 0;
+                  background-repeat: no-repeat;
+                  background-size: 78px 30px;
+                "
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  align="right"
+                  style="border-collapse: separate; line-height: 100%"
+                >
+                  <tr>
+                    <td
+                      align="center"
+                      bgcolor="#9261ff"
+                      style="
+                        border: none;
+                        border-radius: 40px;
+                        background: #9261ff;
+                      "
+                      valign="middle"
+                    >
+                      <a
+                        href="https://forms.yandex-team.ru/ext/surveys/13844554/"
+                        target="_blank"
+                        style="
+                          display: inline-block;
+                          background: #9261ff;
+                          color: #ffffff;
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          font-weight: 700;
+                          line-height: 120%;
+                          margin: 0;
+                          text-decoration: none;
+                          text-transform: none;
+                          padding: 13px 24px 14px;
+                          border-radius: 40px;
+                        "
+                      >
+                        <span style="white-space: nowrap">Подписаться</span>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
 
