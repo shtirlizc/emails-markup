@@ -131,6 +131,10 @@
 
     <mj-wrapper
       background-color="#ffffff"
+      background-url="https://storage.yandexcloud.net/team-hh-email/july/star-1.png"
+      background-repeat="no-repeat"
+      background-position="95.4% 32px"
+      background-size="124px 96px"
       border-radius="24px"
       padding="0 0 0 0"
     >
@@ -143,7 +147,7 @@
             color="#222A3A"
             padding="0"
           >
-            Что читали в «Сфере» в июне
+            Что читали в «Сфере»<br />в июне
           </mj-text>
         </mj-column>
       </mj-section>
@@ -155,6 +159,10 @@
               <td
                 style="
                   background-color: #f0e9ff;
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-2.png&quot;);
+                  background-position: top right;
+                  background-repeat: no-repeat;
+                  background-size: 124px 25px;
                   border-radius: 16px;
                   border-collapse: separate;
                   padding: 18px;
@@ -1290,205 +1298,260 @@
         </mj-text>
 
         <mj-text padding="0 0 19px 0">
-          <a
-            href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
             style="
-              display: block;
+              width: 100%;
+              border-collapse: separate;
               background: #ffffff;
               border-radius: 64px;
-              color: #000000;
-              text-decoration: none;
             "
           >
-            <table
-              cellpadding="0"
-              cellspacing="0"
-              width="100%"
-              role="presentation"
-            >
-              <tr>
-                <td
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
                   style="
+                    display: block;
                     padding: 14px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
                     color: #000000;
+                    text-decoration: underline;
                   "
+                  >Вики Toolbox — база знаний, подходов и&nbsp;инструментов</a
                 >
-                  <span style="color: #000000; text-decoration: underline"
-                    >Вики Toolbox — база знаний, подходов
-                    и&nbsp;инструментов</span
-                  >
-                </td>
-                <td
-                  width="48"
-                  align="right"
-                  valign="middle"
-                  style="padding: 8px"
-                >
-                  <img
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
+                  style="display: block; line-height: 0"
+                  ><img
                     src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
                     alt=""
                     width="32"
                     height="32"
                     style="display: block; border: 0"
-                  />
-                </td>
-              </tr>
-            </table>
-          </a>
+                /></a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
         <mj-text padding="0 0 19px 0">
-          <a
-            href="https://lead.yandex-team.ru/"
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
             style="
-              display: block;
+              width: 100%;
+              border-collapse: separate;
               background: #ffffff;
               border-radius: 64px;
-              color: #000000;
-              text-decoration: none;
             "
           >
-            <table
-              cellpadding="0"
-              cellspacing="0"
-              width="100%"
-              role="presentation"
-            >
-              <tr>
-                <td
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://lead.yandex-team.ru/"
                   style="
+                    display: block;
                     padding: 14px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
                     color: #000000;
+                    text-decoration: underline;
                   "
+                  >Toolbox AI&nbsp;— нейроассистент по&nbsp;управленческим
+                  практикам</a
                 >
-                  <span style="color: #000000; text-decoration: underline"
-                    >Toolbox AI — нейроассистент по управленческим
-                    практикам</span
-                  >
-                </td>
-                <td
-                  width="48"
-                  align="right"
-                  valign="middle"
-                  style="padding: 8px"
-                >
-                  <img
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://lead.yandex-team.ru/"
+                  style="display: block; line-height: 0"
+                  ><img
                     src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
                     alt=""
                     width="32"
                     height="32"
                     style="display: block; border: 0"
-                  />
-                </td>
-              </tr>
-            </table>
-          </a>
+                /></a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
         <mj-text padding="0 0 19px 0">
-          <a
-            href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
             style="
-              display: block;
+              width: 100%;
+              border-collapse: separate;
               background: #ffffff;
               border-radius: 64px;
-              color: #000000;
-              text-decoration: none;
             "
           >
-            <table
-              cellpadding="0"
-              cellspacing="0"
-              width="100%"
-              role="presentation"
-            >
-              <tr>
-                <td
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
                   style="
+                    display: block;
                     padding: 14px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
                     color: #000000;
+                    text-decoration: underline;
                   "
+                  >Среда развития руководителей</a
                 >
-                  <span style="color: #000000; text-decoration: underline"
-                    >Среда развития руководителей</span
-                  >
-                </td>
-                <td
-                  width="48"
-                  align="right"
-                  valign="middle"
-                  style="padding: 8px"
-                >
-                  <img
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
+                  style="display: block; line-height: 0"
+                  ><img
                     src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
                     alt=""
                     width="32"
                     height="32"
                     style="display: block; border: 0"
-                  />
-                </td>
-              </tr>
-            </table>
-          </a>
+                /></a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
         <mj-text padding="0">
-          <a
-            href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
             style="
-              display: block;
+              width: 100%;
+              border-collapse: separate;
               background: #ffffff;
               border-radius: 64px;
-              color: #000000;
-              text-decoration: none;
             "
           >
-            <table
-              cellpadding="0"
-              cellspacing="0"
-              width="100%"
-              role="presentation"
-            >
-              <tr>
-                <td
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
                   style="
+                    display: block;
                     padding: 14px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
                     color: #000000;
+                    text-decoration: underline;
                   "
+                  >Вики про&nbsp;калибровки и&nbsp;утверждение оценок</a
                 >
-                  <span style="color: #000000; text-decoration: underline"
-                    >Вики про калибровки и утверждение оценок</span
-                  >
-                </td>
-                <td
-                  width="48"
-                  align="right"
-                  valign="middle"
-                  style="padding: 8px"
-                >
-                  <img
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
+                  style="display: block; line-height: 0"
+                  ><img
                     src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
                     alt=""
                     width="32"
                     height="32"
                     style="display: block; border: 0"
-                  />
-                </td>
-              </tr>
-            </table>
-          </a>
+                /></a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -1612,54 +1675,69 @@
         </mj-text>
 
         <mj-text padding="0 0 25px 0">
-          <a
-            href="https://forms.yandex-team.ru/ext/surveys/13717108"
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
             style="
-              display: block;
+              width: 100%;
+              border-collapse: separate;
               background: #ffffff;
               border-radius: 64px;
-              color: #9261ff;
-              text-decoration: none;
             "
           >
-            <table
-              cellpadding="0"
-              cellspacing="0"
-              width="100%"
-              role="presentation"
-            >
-              <tr>
-                <td
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 15px;
+                  font-weight: bold;
+                  line-height: 1.3;
+                  color: #9261ff;
+                "
+              >
+                <a
+                  href="https://forms.yandex-team.ru/ext/surveys/13717108"
                   style="
+                    display: block;
                     padding: 12px 8px 12px 26px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 15px;
                     font-weight: bold;
                     line-height: 1.3;
                     color: #9261ff;
+                    text-decoration: none;
                   "
+                  >Выбрать формат участия</a
                 >
-                  <span style="color: #9261ff; text-decoration: none"
-                    >Выбрать формат участия</span
-                  >
-                </td>
-                <td
-                  width="48"
-                  align="right"
-                  valign="middle"
-                  style="padding: 8px"
-                >
-                  <img
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://forms.yandex-team.ru/ext/surveys/13717108"
+                  style="display: block; line-height: 0"
+                  ><img
                     src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
                     alt=""
                     width="32"
                     height="32"
                     style="display: block; border: 0"
-                  />
-                </td>
-              </tr>
-            </table>
-          </a>
+                /></a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
         <mj-text font-size="15px" line-height="1.3" color="#5d6c72" padding="0">
