@@ -155,22 +155,16 @@
                 width="124"
                 align="right"
                 valign="bottom"
-                style="width: 124px"
+                style="
+                  width: 124px;
+                  min-height: 96px;
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-1.png&quot;);
+                  background-position: right bottom;
+                  background-repeat: no-repeat;
+                  background-size: 124px 96px;
+                "
               >
-                <img
-                  src="https://storage.yandexcloud.net/team-hh-email/july/star-1.png"
-                  alt=""
-                  width="124"
-                  height="96"
-                  style="
-                    display: block;
-                    border: 0;
-                    outline: none;
-                    text-decoration: none;
-                    width: 124px;
-                    height: 96px;
-                  "
-                />
+                &nbsp;
               </td>
             </tr>
           </mj-table>
