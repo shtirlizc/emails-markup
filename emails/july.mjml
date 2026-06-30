@@ -208,10 +208,9 @@
                 style="
                   width: 128px;
                   min-height: 96px;
-                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-1.png&quot;);
-                  background-position: 2px bottom;
-                  background-repeat: no-repeat;
-                  background-size: 128px 96px;
+                  background: url(&quot;https://storage.yandexcloud.net/team-hh-email/july/star-1.png&quot;)
+                    #ffffff bottom / 128px 96px no-repeat;
+                  background-position-x: 2px;
                 "
               >
                 &nbsp;
