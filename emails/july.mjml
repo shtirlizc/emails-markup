@@ -486,6 +486,8 @@
                         max-width: none;
                         min-width: 517px;
                         height: 146px;
+                        max-height: 146px;
+                        min-height: 146px;
                         font-size: 13px;
                       "
                     />
@@ -786,6 +788,8 @@
                         max-width: none;
                         min-width: 517px;
                         height: 138px;
+                        max-height: 138px;
+                        min-height: 138px;
                         font-size: 13px;
                       "
                     />
