@@ -407,7 +407,7 @@
           >
             Так что <strong>27 августа</strong> соберёмся на
             <a
-              href="#"
+              href="https://events.yandex-team.ru/?city=1&eventId=03eec10d-7e2b-4525-abc0-91145e86a977&utm_source=mail&utm_medium=any&utm_campaign=leadconf0726"
               style="
                 font-weight: 700;
                 color: #222a3a;
@@ -913,7 +913,7 @@
                 style="width: 40px; padding: 8px"
               >
                 <a
-                  href="https://lead.yandex-team.ru/"
+                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
                   style="display: block; line-height: 0"
                   ><img
                     src="https://storage.yandexcloud.net/team-hh-email/august/arrow.png"
@@ -1183,7 +1183,7 @@
               >
                 соавторами сообщества, читайте
                 <a
-                  href="#"
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1783601008667010"
                   style="
                     color: #f0e9ff;
                     font-weight: 700;
@@ -1206,8 +1206,9 @@
           <a
             href="https://forms.yandex-team.ru/ext/surveys/13828618"
             style="color: #5d6c72; text-decoration: underline"
-            >Отписаться от&nbsp;рассылки</a
           >
+            Отписаться от&nbsp;рассылки
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
