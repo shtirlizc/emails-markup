@@ -565,19 +565,19 @@
     <!-- ============== EVENTS ============== -->
     <mj-wrapper
       background-color="#d7d5E9"
-      padding="32px"
+      padding="32px 32px 16px"
       background-url="https://storage.yandexcloud.net/team-hh-email/august/events-bg.png"
       background-repeat="no-repeat"
       background-position="top right"
     >
-      <mj-section padding="40px 40px 24px">
+      <mj-section padding="0">
         <mj-column padding="0">
           <mj-text
             font-size="36px"
             font-weight="700"
             line-height="1"
             color="#222a3a"
-            padding="0 0 16px"
+            padding="0 0 24px"
           >
             События «Сферы»
           </mj-text>
@@ -585,10 +585,11 @@
             font-size="16px"
             line-height="1.2"
             color="#222a3a"
-            padding="0"
+            padding="0 0 23px"
           >
-            В июле нас ждёт сразу несколько интересных событий, которые можно
-            добавить в свой календарь.
+            В июле нас ждёт сразу несколько интересных
+            <br />
+            событий, которые можно добавить в свой календарь.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -597,15 +598,15 @@
         background-repeat="no-repeat"
         background-position="center"
         background-size="100% 100%"
-        padding="0 40px 16px"
+        padding="0"
       >
-        <mj-column padding="18px">
+        <mj-column padding="18px 18px 14px">
           <mj-text
             color="rgba(0, 0, 0, 0.8)"
             font-size="16px"
             font-weight="700"
             line-height="1.2"
-            padding="0 0 12px"
+            padding="0 0 13px"
           >
             Строим автономную команду
           </mj-text>
@@ -616,11 +617,7 @@
             padding="0 0 12px"
           >
             <span
-              style="
-                background-color: #f8604a;
-                color: #222a3a;
-                padding: 4px 6px;
-              "
+              style="background-color: #f8604a; color: #222a3a; padding: 2px"
             >
               12 августа
             </span>
@@ -628,7 +625,8 @@
               style="
                 background-color: #222a3a;
                 color: #ffffff;
-                padding: 4px 6px;
+                padding: 2px 4px;
+                border-radius: 10px;
               "
             >
               16:00–17:30
@@ -638,7 +636,7 @@
             color="rgba(0, 0, 0, 0.8)"
             font-size="14px"
             line-height="1.2"
-            padding="0 0 16px"
+            padding="0 0 13px"
           >
             Как перестроить команду и сэкономить почти 1 млн рублей в год —
             Анастасия Шарикова разберёт личный кейс и поделится конкретными
@@ -654,13 +652,13 @@
                 background-position: center;
                 background-size: 100% 100%;
                 line-height: 0;
-                padding: 9px 24px;
+                padding: 13px 18px 14px;
               "
               ><img
                 src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
                 alt="Записаться"
-                height="17"
-                style="display: block; border: 0; height: 17px"
+                height="12"
+                style="display: block; border: 0; height: 12px"
             /></a>
           </mj-text>
         </mj-column>
@@ -668,7 +666,7 @@
     </mj-wrapper>
 
     <mj-wrapper background-color="#d7d5E9" padding="0">
-      <mj-section padding="0 40px 40px">
+      <mj-section padding="0 32px 32px">
         <mj-column width="50%" padding="0 8px 0 0">
           <mj-table padding="0">
             <tr>
@@ -679,7 +677,7 @@
                   background-repeat: no-repeat;
                   background-position: center;
                   background-size: 100% 100%;
-                  padding: 18px;
+                  padding: 18px 18px 14px;
                 "
               >
                 <div
@@ -689,7 +687,7 @@
                     font-size: 16px;
                     font-weight: 700;
                     line-height: 1.2;
-                    padding-bottom: 12px;
+                    padding-bottom: 13px;
                   "
                 >
                   Большой синк руководителей Lead Conf
@@ -707,7 +705,7 @@
                     style="
                       background-color: #f8604a;
                       color: #222a3a;
-                      padding: 4px 6px;
+                      padding: 2px;
                     "
                   >
                     27 августа
@@ -716,7 +714,8 @@
                     style="
                       background-color: #222a3a;
                       color: #ffffff;
-                      padding: 4px 6px;
+                      padding: 2px 4px;
+                      border-radius: 10px;
                     "
                   >
                     11:00–22:00
@@ -728,7 +727,7 @@
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 14px;
                     line-height: 1.2;
-                    padding-bottom: 16px;
+                    padding-bottom: 13px;
                   "
                 >
                   Первый общий слёт всех руководителей Яндекса: на внешней
@@ -746,13 +745,13 @@
                     background-position: center;
                     background-size: 100% 100%;
                     line-height: 0;
-                    padding: 9px 24px;
+                    padding: 13px 18px 14px;
                   "
                   ><img
                     src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
                     alt="Записаться"
-                    height="17"
-                    style="display: block; border: 0; height: 17px"
+                    height="12"
+                    style="display: block; border: 0; height: 12px"
                 /></a>
               </td>
             </tr>
@@ -769,7 +768,7 @@
                   background-repeat: no-repeat;
                   background-position: center;
                   background-size: 100% 100%;
-                  padding: 18px;
+                  padding: 18px 18px 14px;
                 "
               >
                 <div
@@ -779,7 +778,7 @@
                     font-size: 16px;
                     font-weight: 700;
                     line-height: 1.2;
-                    padding-bottom: 12px;
+                    padding-bottom: 13px;
                   "
                 >
                   Дискуссионный клуб руководителей Яндекса
@@ -797,7 +796,7 @@
                     style="
                       background-color: #f8604a;
                       color: #222a3a;
-                      padding: 4px 6px;
+                      padding: 2px;
                     "
                   >
                     28 августа
@@ -806,7 +805,8 @@
                     style="
                       background-color: #222a3a;
                       color: #ffffff;
-                      padding: 4px 6px;
+                      padding: 2px 4px;
+                      border-radius: 10px;
                     "
                   >
                     16:30–18:00
@@ -818,7 +818,7 @@
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 14px;
                     line-height: 1.2;
-                    padding-bottom: 16px;
+                    padding-bottom: 13px;
                   "
                 >
                   Традиционная встреча участников «Сферы», на которой можно
@@ -834,13 +834,13 @@
                     background-position: center;
                     background-size: 100% 100%;
                     line-height: 0;
-                    padding: 9px 24px;
+                    padding: 13px 18px 14px;
                   "
                   ><img
                     src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
                     alt="Записаться"
-                    height="17"
-                    style="display: block; border: 0; height: 17px"
+                    height="12"
+                    style="display: block; border: 0; height: 12px"
                 /></a>
               </td>
             </tr>
