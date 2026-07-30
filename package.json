@@ -6,7 +6,7 @@
   "scripts": {
     "email:build": "mkdir -p emails/dist && mjml emails/*.mjml -o emails/dist --config.minify true",
     "email:watch": "mkdir -p emails/dist && mjml --watch emails/*.mjml -o emails/dist",
-    "email:serve": "vite emails --host 127.0.0.1",
+    "email:serve": "vite",
     "email:dev": "npm run email:build && concurrently -k -n mjml,server -c magenta,cyan \"npm:email:watch\" \"npm:email:serve\""
   },
   "devDependencies": {
