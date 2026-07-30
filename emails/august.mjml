@@ -382,20 +382,20 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="0 0 24px 0"
+    <mj-section padding="0 0 29px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
     <!-- ============== SPEAKERS ============== -->
     <mj-wrapper background-color="#d7d5E9" padding="0">
-      <mj-section padding="40px 40px 24px">
+      <mj-section padding="32px 32px 0">
         <mj-column padding="0">
           <mj-text
             font-size="36px"
             font-weight="700"
             line-height="1"
             color="#222a3a"
-            padding="0 0 16px"
+            padding="0 0 24px"
           >
             Человеку нужен человек,<br />а лиду — лид
           </mj-text>
@@ -413,9 +413,11 @@
                 color: #222a3a;
                 text-decoration: underline;
                 background-color: #f4fe3a;
+                padding: 2px 0;
               "
-              >Lead Conf</a
             >
+              Lead Conf
+            </a>
             — первом большом синке руководителей Яндекса. Спросили у команды
             события, зачем в&nbsp;эпоху нейросетей, которые отвечают на любые
             вопросы, идти на&nbsp;конференцию для руководителей.
@@ -424,13 +426,13 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-wrapper background-color="#d7d5E9" padding="32px">
+    <mj-wrapper background-color="#d7d5E9" padding="23px 32px 32px">
       <mj-section
         background-url="https://storage.yandexcloud.net/team-hh-email/august/speakers-bg.png"
         background-repeat="no-repeat"
         background-position="center"
         background-size="100% 100%"
-        padding="18px 40px"
+        padding="26px 20px 24px"
       >
         <mj-column padding="0">
           <mj-text
@@ -438,7 +440,7 @@
             font-size="25px"
             font-weight="700"
             line-height="1"
-            padding="0 0 12px"
+            padding="0 0 17px"
           >
             Найти тех, с кем разговор не&nbsp;закончится после конференции
           </mj-text>
@@ -453,7 +455,7 @@
             color="rgba(0, 0, 0, 0.8)"
             font-size="16px"
             line-height="1.2"
-            padding="0 0 24px"
+            padding="9px 0 30px"
           >
             Главная сила Яндекса всегда была в людях. Компания строилась вокруг
             сильных лидеров — не по должности, а по способности брать на себя
@@ -484,7 +486,7 @@
             color="rgba(0, 0, 0, 0.8)"
             font-size="16px"
             line-height="1.2"
-            padding="0 0 24px"
+            padding="8px 0 31px"
           >
             Самое ценное знание в нашей профессии — неявное. Его нет в статьях,
             и в обучающие выборки ИИ оно не попадает. Оно живёт в голове
@@ -499,7 +501,7 @@
             font-size="25px"
             font-weight="700"
             line-height="1"
-            padding="0 0 12px"
+            padding="0 0 11px"
           >
             Посмотреть на свои задачи под другим углом и перенять опыт
           </mj-text>
@@ -514,7 +516,7 @@
             color="rgba(0, 0, 0, 0.8)"
             font-size="16px"
             line-height="1.2"
-            padding="0 0 24px"
+            padding="14px 0 48px"
           >
             Для меня такие встречи — это немного приключение: никогда не знаешь,
             с какой мыслью, историей или новым знакомством вернёшься. От нас всё
@@ -528,7 +530,7 @@
             font-size="25px"
             font-weight="700"
             line-height="1"
-            padding="0 0 12px"
+            padding="0"
           >
             Познакомиться и пообщаться с другими руководителями
           </mj-text>
@@ -543,7 +545,7 @@
             color="rgba(0, 0, 0, 0.8)"
             font-size="16px"
             line-height="1.2"
-            padding="0"
+            padding="9px 0 0"
           >
             Яндекс — горизонтальная компания, поэтому особенно важно уметь
             выстраивать отношения между командами и направлениями. Часто проекты
@@ -556,7 +558,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="0 0 24px 0"
+    <mj-section padding="0 0 29px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
@@ -1157,7 +1159,7 @@
               width="90"
               valign="middle"
               align="right"
-              style="width: 90px; padding: 0; text-align: right"
+              style="width: 90px; padding: 0"
             >
               <table
                 cellpadding="0"
