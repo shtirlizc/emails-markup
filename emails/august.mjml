@@ -1,10 +1,7 @@
 <mjml>
   <mj-head>
     <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
-    <mj-preview>
-      В этом дайджесте поделимся советами по калибровкам, подборкой свежих
-      постов из «Сферы» и анонсами событий в июле.
-    </mj-preview>
+    <mj-preview>LEAD CONF. Что делать, когда ты за старшего. </mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-text font-size="16px" line-height="1.2" color="#000000" />
@@ -333,7 +330,6 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
     </mj-wrapper>
 
     <mj-wrapper background-color="#d7d5E9" padding="22px 40px 40px">
@@ -360,8 +356,8 @@
             padding="0"
             color="#222a3a"
           >
-            Если хотите поблагодарить команду за результаты ревью, сделайте
-            свой мерч. Подробнее — на
+            Если хотите поблагодарить команду за результаты ревью, сделайте свой
+            мерч. Подробнее — на
             <a
               href="https://wiki.yandex-team.ru/brand/merchme/"
               style="font-weight: 700; color: #222a3a"
@@ -377,11 +373,189 @@
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
+    <!-- ============== SPEAKERS ============== -->
+    <mj-wrapper background-color="#d7d5E9" padding="0">
+      <mj-section padding="40px 40px 24px">
+        <mj-column padding="0">
+          <mj-text
+            font-size="36px"
+            font-weight="700"
+            line-height="1"
+            color="#222a3a"
+            padding="0 0 16px"
+          >
+            Человеку нужен человек,<br />а лиду — лид
+          </mj-text>
+          <mj-text
+            font-size="16px"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0"
+          >
+            Так что <strong>27 августа</strong> соберёмся на
+            <a
+              href="#"
+              style="
+                font-weight: 700;
+                color: #222a3a;
+                text-decoration: underline;
+                background-color: #f4fe3a;
+              "
+              >Lead Conf</a
+            >
+            — первом большом синке руководителей Яндекса. Спросили у команды
+            события, зачем в&nbsp;эпоху нейросетей, которые отвечают на любые
+            вопросы, идти на&nbsp;конференцию для руководителей.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper background-color="#d7d5E9" padding="32px">
+      <mj-section
+        background-url="https://storage.yandexcloud.net/team-hh-email/august/speakers-bg.png"
+        background-repeat="no-repeat"
+        background-position="center"
+        background-size="100% 100%"
+        padding="18px 40px"
+      >
+        <mj-column padding="0">
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="25px"
+            font-weight="700"
+            line-height="1"
+            padding="0 0 12px"
+          >
+            Найти тех, с кем разговор не&nbsp;закончится после конференции
+          </mj-text>
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-1.png"
+            alt="Илья Грабовский - руководитель корпоративного PR и PR-департамента B2B Tech"
+            width="600px"
+            padding="0"
+            fluid-on-mobile="true"
+          />
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="16px"
+            line-height="1.2"
+            padding="0 0 24px"
+          >
+            Главная сила Яндекса всегда была в людях. Компания строилась вокруг
+            сильных лидеров — не по должности, а по способности брать на себя
+            ответственность, вести за собой команды и формировать культуру. Но
+            даже самому сильному лидеру нужен другой лидер, чтобы посмотреть на
+            свои решения под новым углом.
+          </mj-text>
+
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="25px"
+            font-weight="700"
+            line-height="1"
+            padding="0 0 12px"
+          >
+            Найти ответы на вопросы,
+            <br />
+            о которых вы и не догадывались
+          </mj-text>
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-2.png"
+            alt="Рома Акинфеев - руководитель бэкенд-разработки в Яндекс 360"
+            width="600px"
+            padding="0"
+            fluid-on-mobile="true"
+          />
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="16px"
+            line-height="1.2"
+            padding="0 0 24px"
+          >
+            Самое ценное знание в нашей профессии — неявное. Его нет в статьях,
+            и в обучающие выборки ИИ оно не попадает. Оно живёт в голове
+            человека, который три раза наступил на грабли, о которых вы только
+            собираетесь подумать. И если AI ответит на вопрос, который вы
+            задали, то конференция — на тот, который вы задать не догадались.
+            Самый ценный опыт передаётся только в живом разговоре.
+          </mj-text>
+
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="25px"
+            font-weight="700"
+            line-height="1"
+            padding="0 0 12px"
+          >
+            Посмотреть на свои задачи под другим углом и перенять опыт
+          </mj-text>
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-3.png"
+            alt="Никита Лашков - руководитель управления интеллектуальной собственностью в Юридическом департаменте HQ"
+            width="600px"
+            padding="0"
+            fluid-on-mobile="true"
+          />
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="16px"
+            line-height="1.2"
+            padding="0 0 24px"
+          >
+            Для меня такие встречи — это немного приключение: никогда не знаешь,
+            с какой мыслью, историей или новым знакомством вернёшься. От нас всё
+            чаще ждут не только точного ответа, но и ответа быстрее, чем раньше.
+            Хочется свериться с другими руководителями: что они уже перестроили,
+            что сработало, а какие приключения ещё продолжаются. 
+          </mj-text>
+
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="25px"
+            font-weight="700"
+            line-height="1"
+            padding="0 0 12px"
+          >
+            Познакомиться и пообщаться с другими руководителями
+          </mj-text>
+          <mj-image
+            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-4.png"
+            alt="Саша Зверев - директор по развитию Вертикалей"
+            width="600px"
+            padding="0"
+            fluid-on-mobile="true"
+          />
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="16px"
+            line-height="1.2"
+            padding="0"
+          >
+            Яндекс — горизонтальная компания, поэтому особенно важно уметь
+            выстраивать отношения между командами и направлениями. Часто проекты
+            двигают не отдельные функции, а люди из разных частей Стаффа,
+            которые умеют находить общий язык и собираться вокруг общей задачи.
+            Софт скиллы — теперь новые харды. Так что приходите на конференцию
+            в первую очередь за знакомствами и общением.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="0 0 24px 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
     <!-- ==============  ============== -->
     <mj-wrapper background-color="#d7d5E9" padding="0">
       <mj-section padding="0">
         <mj-column padding="0"><mj-text>lorem</mj-text></mj-column>
       </mj-section>
     </mj-wrapper>
+
+    <mj-section padding="0 0 24px 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
   </mj-body>
 </mjml>
