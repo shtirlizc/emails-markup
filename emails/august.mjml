@@ -17,7 +17,7 @@
     <!-- ============== HERO CARD ============== -->
     <mj-wrapper background-color="#d7d5E9" padding="0">
       <mj-section padding="0">
-        <mj-column padding="40px">
+        <mj-column padding="40px 40px 0">
           <mj-image
             src="https://storage.yandexcloud.net/team-hh-email/august/hero-head.png"
             alt="LEAD CONF. Что делать, когда ты за старшего. Разберёмся 27 августа"
@@ -27,45 +27,53 @@
           />
         </mj-column>
       </mj-section>
-      <mj-section
-        padding="100px 0"
-        background-url="https://storage.yandexcloud.net/team-hh-email/august/hero-bg.png"
-        background-repeat="no-repeat"
-        background-position="center"
-        background-size="100% 100%"
-      >
+    </mj-wrapper>
+
+    <mj-wrapper
+      background-color="#d7d5E9"
+      padding="0"
+      background-url="https://storage.yandexcloud.net/team-hh-email/august/hero-bg.png"
+      background-repeat="no-repeat"
+      background-position="top center"
+      background-size="100% auto"
+    >
+      <mj-section padding="104px 0">
         <mj-column padding="0">
           <mj-text align="center" padding="0" line-height="1">
             <a
               href="#"
               style="
                 display: inline-block;
-                padding: 0;
+                padding: 0 24px;
                 height: 60px;
                 border-radius: 30px;
                 background-color: transparent;
-                background-image:
-                  url(&quot;https://storage.yandexcloud.net/team-hh-email/august/sign-up-btn-bg.png&quot;),
-                  url(&quot;https://storage.yandexcloud.net/team-hh-email/august/sign-up-text.png&quot;);
+                background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/sign-up-btn-bg.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
-                background-size:
-                  100% 100%,
-                  268px;
-                color: transparent;
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 28px;
-                font-weight: 500;
-                line-height: 28px;
+                background-size: 100% 100%;
+                line-height: 60px;
                 text-decoration: none;
               "
             >
-              Зарегистрироваться
+              <img
+                src="https://storage.yandexcloud.net/team-hh-email/august/sign-up-text.png"
+                height="22"
+                alt="Зарегистрироваться"
+                style="
+                  display: inline-block;
+                  height: 26px;
+                  vertical-align: middle;
+                  border: 0;
+                  outline: none;
+                  text-decoration: none;
+                "
+              />
             </a>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="40px">
+      <mj-section padding="0 40px 44px">
         <mj-column padding="0">
           <mj-text
             color="rgba(0, 0, 0, 0.8)"
@@ -74,7 +82,7 @@
             line-height="1"
             padding="0 0 20px"
           >
-            Привет
+            Привет!
           </mj-text>
 
           <mj-text padding="0 0 25px">
@@ -98,6 +106,7 @@
                 text-decoration: underline;
                 font-weight: bold;
                 background-color: #f4fe3a;
+                padding: 2px 0;
               "
             >
               «Сфера»
@@ -119,7 +128,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="0 0 24px 0"
+    <mj-section padding="0 0 29px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
@@ -131,35 +140,36 @@
       background-repeat="no-repeat"
       background-position="top right"
     >
-      <mj-section padding="40px 40px 22px">
+      <mj-section padding="32px 32px 20px">
         <mj-column padding="0">
           <mj-text
-            font-size="28px"
+            font-size="36px"
             font-weight="700"
-            line-height="1.1"
+            line-height="1"
             padding="0"
           >
-            Что читали в «Сфере» в июне
+            Что читали<br />
+            в «Сфере» в июне
           </mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
         <mj-column padding="0">
-          <mj-text padding="32px 32px 8px">
+          <mj-text padding="4px 32px 8px">
             <div
               style="
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 100% 100%;
-                padding: 18px;
+                padding: 22px 18px 18px;
               "
             >
               <a
                 href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1783433266353016"
                 style="
-                  padding: 4px 0 2px;
+                  padding: 3px 0 2px;
                   background-color: #9668fe;
                   color: #ffffff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -169,8 +179,9 @@
                   text-decoration: underline;
                 "
               >
-                Почему руководителю вечно не хватает времени —  и что помогает
-                его вернуть
+                &nbsp;Почему руководителю вечно не хватает времени —&nbsp;
+                <br />
+                &nbsp;и что помогает его вернуть&nbsp;
               </a>
               <div
                 style="
@@ -179,7 +190,7 @@
                   font-size: 14px;
                   font-weight: 400;
                   line-height: 1.2;
-                  padding-top: 12px;
+                  padding-top: 16px;
                 "
               >
                 Руководитель продукта Доски Яндекс 360 Артём Зараменских
@@ -200,13 +211,13 @@
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 100% 100%;
-                padding: 18px;
+                padding: 22px 18px 18px;
               "
             >
               <a
                 href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784274870998016"
                 style="
-                  padding: 4px 0 2px;
+                  padding: 3px 0 2px;
                   background-color: #9668fe;
                   color: #ffffff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -216,7 +227,7 @@
                   text-decoration: underline;
                 "
               >
-                Больно, но не стыдно
+                &nbsp;Больно, но не стыдно&nbsp;
               </a>
               <div
                 style="
@@ -225,7 +236,7 @@
                   font-size: 14px;
                   font-weight: 400;
                   line-height: 1.2;
-                  padding-top: 12px;
+                  padding-top: 16px;
                 "
               >
                 Как давать обратную связь так, чтобы после неё человек мог
@@ -247,13 +258,13 @@
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 100% 100%;
-                padding: 18px;
+                padding: 22px 18px 18px;
               "
             >
               <a
                 href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1785141169790051"
                 style="
-                  padding: 4px 0 2px;
+                  padding: 3px 0 2px;
                   background-color: #9668fe;
                   color: #ffffff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -263,8 +274,8 @@
                   text-decoration: underline;
                 "
               >
-                Headcount, FTE, capacity —  удобные слова, за которыми живые
-                люди
+                &nbsp;Headcount, FTE, capacity —&nbsp;<br />
+                &nbsp;удобные слова, за которыми живые люди&nbsp;
               </a>
               <div
                 style="
@@ -273,7 +284,7 @@
                   font-size: 14px;
                   font-weight: 400;
                   line-height: 1.2;
-                  padding-top: 12px;
+                  padding-top: 16px;
                 "
               >
                 Как удержать баланс, когда люди превращаются в числа из отчёта?
@@ -287,20 +298,20 @@
 
       <mj-section padding="0">
         <mj-column padding="0">
-          <mj-text padding="8px 32px 32px">
+          <mj-text padding="8px 32px 8px">
             <div
               style="
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 100% 100%;
-                padding: 18px;
+                padding: 22px 18px 18px;
               "
             >
               <a
                 href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784641341181040"
                 style="
-                  padding: 4px 0 2px;
+                  padding: 3px 0 2px;
                   background-color: #9668fe;
                   color: #ffffff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -310,8 +321,9 @@
                   text-decoration: underline;
                 "
               >
-                Объявление результатов — одна из самых эмоциональных частей
-                ревью
+                &nbsp;Объявление результатов — одна из самых эмоциональных
+                <br />
+                &nbsp;частей ревью&nbsp;
               </a>
               <div
                 style="
@@ -320,7 +332,7 @@
                   font-size: 14px;
                   font-weight: 400;
                   line-height: 1.2;
-                  padding-top: 12px;
+                  padding-top: 16px;
                 "
               >
                 Личный алгоритм того, как объявлять результаты ревью, от
@@ -332,9 +344,9 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-wrapper background-color="#d7d5E9" padding="22px 40px 40px">
+    <mj-wrapper background-color="#d7d5E9" padding="0 80px 17px 8px">
       <mj-section
-        padding="22px 40px 40px"
+        padding="25px 33px 21px"
         background-url="https://storage.yandexcloud.net/team-hh-email/august/read-bg-2.png"
         background-repeat="no-repeat"
         background-position="center"
@@ -346,7 +358,7 @@
             font-weight="700"
             line-height="1"
             color="#222a3a"
-            padding="0 0 12px"
+            padding="0 0 8px"
           >
             Промо
           </mj-text>
@@ -356,8 +368,9 @@
             padding="0"
             color="#222a3a"
           >
-            Если хотите поблагодарить команду за результаты ревью, сделайте свой
-            мерч. Подробнее — на
+            Если хотите поблагодарить команду за результаты ревью,
+            <br />
+            сделайте свой мерч. Подробнее — на
             <a
               href="https://wiki.yandex-team.ru/brand/merchme/"
               style="font-weight: 700; color: #222a3a"
@@ -838,12 +851,473 @@
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
-    <!-- ==============  ============== -->
-    <mj-wrapper background-color="#d7d5E9" padding="0">
-      <mj-section padding="0">
-        <mj-column padding="0"><mj-text>lorem</mj-text></mj-column>
-      </mj-section>
-    </mj-wrapper>
+    <!-- ============== USEFUL LINKS ============== -->
+    <mj-section
+      background-color="#f0e9ff"
+      border-radius="20px"
+      padding="32px 24px"
+    >
+      <mj-column>
+        <mj-text
+          font-size="36px"
+          font-weight="bold"
+          line-height="1"
+          color="#1f2426"
+          padding="0 0 25px 0"
+        >
+          Полезные ссылки
+        </mj-text>
+
+        <mj-text padding="0 0 19px 0">
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              width: 100%;
+              border-collapse: separate;
+              background: #ffffff;
+              border-radius: 64px;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
+                  style="
+                    display: block;
+                    padding: 14px 8px 14px 24px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    line-height: 1.2;
+                    color: #000000;
+                    text-decoration: underline;
+                  "
+                  >Вики Toolbox — база знаний, подходов и&nbsp;инструментов</a
+                >
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
+                  style="display: block; line-height: 0"
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    alt=""
+                    width="32"
+                    height="32"
+                    style="display: block; border: 0"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 19px 0">
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              width: 100%;
+              border-collapse: separate;
+              background: #ffffff;
+              border-radius: 64px;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://lead.yandex-team.ru/"
+                  style="
+                    display: block;
+                    padding: 14px 8px 14px 24px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    line-height: 1.2;
+                    color: #000000;
+                    text-decoration: underline;
+                  "
+                  >Toolbox AI&nbsp;— нейроассистент по&nbsp;управленческим
+                  практикам</a
+                >
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://lead.yandex-team.ru/"
+                  style="display: block; line-height: 0"
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    alt=""
+                    width="32"
+                    height="32"
+                    style="display: block; border: 0"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 19px 0">
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              width: 100%;
+              border-collapse: separate;
+              background: #ffffff;
+              border-radius: 64px;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
+                  style="
+                    display: block;
+                    padding: 14px 8px 14px 24px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    line-height: 1.2;
+                    color: #000000;
+                    text-decoration: underline;
+                  "
+                  >Среда развития руководителей</a
+                >
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
+                  style="display: block; line-height: 0"
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    alt=""
+                    width="32"
+                    height="32"
+                    style="display: block; border: 0"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0">
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              width: 100%;
+              border-collapse: separate;
+              background: #ffffff;
+              border-radius: 64px;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  line-height: 1.2;
+                  color: #000000;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
+                  style="
+                    display: block;
+                    padding: 14px 8px 14px 24px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    line-height: 1.2;
+                    color: #000000;
+                    text-decoration: underline;
+                  "
+                  >Вики про&nbsp;калибровки и&nbsp;утверждение оценок</a
+                >
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
+                  style="display: block; line-height: 0"
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    alt=""
+                    width="32"
+                    height="32"
+                    style="display: block; border: 0"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="29px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
+    <!-- ============== FEEDBACK ============== -->
+    <mj-section
+      background-color="#9261ff"
+      border-radius="20px"
+      padding="18px 24px 15px 24px"
+    >
+      <mj-column>
+        <mj-table cellpadding="0" cellspacing="0" padding="0">
+          <tr>
+            <td
+              valign="middle"
+              style="
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 24px;
+                font-weight: bold;
+                line-height: 1.2;
+                color: #ffffff;
+                padding: 0;
+              "
+            >
+              Как&nbsp;вам рассылка?
+            </td>
+            <td
+              width="90"
+              valign="middle"
+              align="right"
+              style="width: 90px; padding: 0; text-align: right"
+            >
+              <table
+                cellpadding="0"
+                cellspacing="0"
+                role="presentation"
+                align="right"
+                style="margin-left: auto; margin-right: 0"
+              >
+                <tr>
+                  <td style="padding: 0 6px 0 0">
+                    <a
+                      href="https://forms.yandex-team.ru/ext/surveys/13828617"
+                      style="
+                        display: inline-block;
+                        background: #ffffff;
+                        border-radius: 42px;
+                        padding: 10px 8px 6px;
+                        line-height: 0;
+                      "
+                      ><img
+                        src="https://storage.yandexcloud.net/team-hh-email/july/thumbs-down.png"
+                        alt="Не&nbsp;понравилось"
+                        width="26"
+                        height="26"
+                        style="display: block"
+                    /></a>
+                  </td>
+                  <td>
+                    <a
+                      href="https://forms.yandex-team.ru/ext/surveys/13828614"
+                      style="
+                        display: inline-block;
+                        background: #ffffff;
+                        border-radius: 42px;
+                        padding: 8px;
+                        line-height: 0;
+                      "
+                      ><img
+                        src="https://storage.yandexcloud.net/team-hh-email/july/thumbs-up.png"
+                        alt="Понравилось"
+                        width="26"
+                        height="26"
+                        style="display: block"
+                    /></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="29px 0 0 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
+    <!-- ============== COMMUNITY / FOOTER ============== -->
+    <mj-section
+      background-color="#f0e9ff"
+      border-radius="24px"
+      padding="35px 24px 28px 24px"
+    >
+      <mj-column>
+        <mj-text
+          font-size="22px"
+          font-weight="bold"
+          line-height="1.15"
+          color="#1f2426"
+          padding="0 0 25px 0"
+        >
+          Участвуйте в&nbsp;жизни сообщества «Сфера»
+        </mj-text>
+        <mj-text
+          font-size="16px"
+          line-height="1.2"
+          color="#000000"
+          padding="0 2px 23px 2px"
+        >
+          Станьте спикером, автором сообщества или&nbsp;экспертом&nbsp;
+          Toolbox,&nbsp;участвуйте в&nbsp;разборе кейсов или&nbsp;делитесь
+          идеями того,&nbsp;как&nbsp;нам сделать «Сферу» полезнее для&nbsp;вас —
+          в&nbsp;общем,&nbsp;выбирайте свой формат.
+        </mj-text>
+
+        <mj-text padding="0 0 25px 0">
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              width: 100%;
+              border-collapse: separate;
+              background: #ffffff;
+              border-radius: 64px;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  background: #ffffff;
+                  border-radius: 64px 0 0 64px;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 15px;
+                  font-weight: bold;
+                  line-height: 1.3;
+                  color: #9261ff;
+                "
+              >
+                <a
+                  href="https://forms.yandex-team.ru/ext/surveys/13717108"
+                  style="
+                    display: block;
+                    padding: 12px 8px 12px 26px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 15px;
+                    font-weight: bold;
+                    line-height: 1.3;
+                    color: #9261ff;
+                    text-decoration: none;
+                  "
+                  >Выбрать формат участия</a
+                >
+              </td>
+              <td
+                width="48"
+                align="right"
+                valign="middle"
+                style="
+                  width: 48px;
+                  padding: 8px;
+                  background: #ffffff;
+                  border-radius: 0 64px 64px 0;
+                "
+              >
+                <a
+                  href="https://forms.yandex-team.ru/ext/surveys/13717108"
+                  style="display: block; line-height: 0"
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    alt=""
+                    width="32"
+                    height="32"
+                    style="display: block; border: 0"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text font-size="15px" line-height="1.3" color="#5d6c72" padding="0">
+          <a
+            href="https://forms.yandex-team.ru/ext/surveys/13828618"
+            style="color: #5d6c72; text-decoration: underline"
+            >Отписаться от&nbsp;рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <mj-section padding="0 0 24px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
