@@ -849,60 +849,58 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="0 0 24px 0"
+    <mj-section padding="0 0 29px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
     <!-- ============== USEFUL LINKS ============== -->
     <mj-section
-      background-color="#f0e9ff"
-      border-radius="20px"
-      padding="32px 24px"
+      border-radius="55px"
+      padding="32px"
+      background-url="https://storage.yandexcloud.net/team-hh-email/august/links-bg.png"
+      background-repeat="no-repeat"
+      background-position="center"
+      background-size="100% 100%"
     >
       <mj-column>
         <mj-text
           font-size="36px"
           font-weight="bold"
           line-height="1"
-          color="#1f2426"
-          padding="0 0 25px 0"
+          color="#222A3A"
+          padding="0 0 23px 0"
         >
           Полезные ссылки
         </mj-text>
 
-        <mj-text padding="0 0 19px 0">
+        <mj-text padding="0 0 20px 0">
           <table
             cellpadding="0"
             cellspacing="0"
             width="100%"
             role="presentation"
-            style="
-              width: 100%;
-              border-collapse: separate;
-              background: #ffffff;
-              border-radius: 64px;
-            "
+            style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
                 style="
-                  background: #ffffff;
-                  border-radius: 64px 0 0 64px;
+                  background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   line-height: 1.2;
-                  color: #000000;
+                  color: #ffffff;
                 "
               >
                 <a
                   href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
                   style="
                     display: block;
-                    padding: 14px 8px 14px 24px;
+                    padding: 15px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
-                    color: #000000;
+                    font-weight: 700;
+                    color: #ffffff;
                     text-decoration: underline;
                   "
                   >Вики Toolbox — база знаний, подходов и&nbsp;инструментов</a
@@ -912,18 +910,13 @@
                 width="48"
                 align="right"
                 valign="middle"
-                style="
-                  width: 48px;
-                  padding: 8px;
-                  background: #ffffff;
-                  border-radius: 0 64px 64px 0;
-                "
+                style="width: 40px; padding: 8px"
               >
                 <a
-                  href="https://wiki.yandex-team.ru/hr/toolbox/wiki-with-tools/"
+                  href="https://lead.yandex-team.ru/"
                   style="display: block; line-height: 0"
                   ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    src="https://storage.yandexcloud.net/team-hh-email/august/arrow.png"
                     alt=""
                     width="32"
                     height="32"
@@ -934,104 +927,34 @@
           </table>
         </mj-text>
 
-        <mj-text padding="0 0 19px 0">
+        <mj-text padding="0 0 20px 0">
           <table
             cellpadding="0"
             cellspacing="0"
             width="100%"
             role="presentation"
-            style="
-              width: 100%;
-              border-collapse: separate;
-              background: #ffffff;
-              border-radius: 64px;
-            "
+            style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
                 style="
-                  background: #ffffff;
-                  border-radius: 64px 0 0 64px;
+                  background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   line-height: 1.2;
-                  color: #000000;
-                "
-              >
-                <a
-                  href="https://lead.yandex-team.ru/"
-                  style="
-                    display: block;
-                    padding: 14px 8px 14px 24px;
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 16px;
-                    line-height: 1.2;
-                    color: #000000;
-                    text-decoration: underline;
-                  "
-                  >Toolbox AI&nbsp;— нейроассистент по&nbsp;управленческим
-                  практикам</a
-                >
-              </td>
-              <td
-                width="48"
-                align="right"
-                valign="middle"
-                style="
-                  width: 48px;
-                  padding: 8px;
-                  background: #ffffff;
-                  border-radius: 0 64px 64px 0;
-                "
-              >
-                <a
-                  href="https://lead.yandex-team.ru/"
-                  style="display: block; line-height: 0"
-                  ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
-                    alt=""
-                    width="32"
-                    height="32"
-                    style="display: block; border: 0"
-                /></a>
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 19px 0">
-          <table
-            cellpadding="0"
-            cellspacing="0"
-            width="100%"
-            role="presentation"
-            style="
-              width: 100%;
-              border-collapse: separate;
-              background: #ffffff;
-              border-radius: 64px;
-            "
-          >
-            <tr>
-              <td
-                style="
-                  background: #ffffff;
-                  border-radius: 64px 0 0 64px;
-                  font-family: Arial, Helvetica, sans-serif;
-                  font-size: 16px;
-                  line-height: 1.2;
-                  color: #000000;
+                  color: #ffffff;
                 "
               >
                 <a
                   href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
                   style="
                     display: block;
-                    padding: 14px 8px 14px 24px;
+                    padding: 15px 8px 14px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
-                    color: #000000;
+                    font-weight: 700;
+                    color: #ffffff;
                     text-decoration: underline;
                   "
                   >Среда развития руководителей</a
@@ -1041,18 +964,13 @@
                 width="48"
                 align="right"
                 valign="middle"
-                style="
-                  width: 48px;
-                  padding: 8px;
-                  background: #ffffff;
-                  border-radius: 0 64px 64px 0;
-                "
+                style="width: 40px; padding: 8px"
               >
                 <a
                   href="https://wiki.yandex-team.ru/hr/gor/obshhaja-informacija/obuchenie-rukovoditelejj/"
                   style="display: block; line-height: 0"
                   ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    src="https://storage.yandexcloud.net/team-hh-email/august/arrow.png"
                     alt=""
                     width="32"
                     height="32"
@@ -1069,33 +987,28 @@
             cellspacing="0"
             width="100%"
             role="presentation"
-            style="
-              width: 100%;
-              border-collapse: separate;
-              background: #ffffff;
-              border-radius: 64px;
-            "
+            style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
                 style="
-                  background: #ffffff;
-                  border-radius: 64px 0 0 64px;
+                  background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   line-height: 1.2;
-                  color: #000000;
+                  color: #ffffff;
                 "
               >
                 <a
                   href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
                   style="
-                    display: block;
-                    padding: 14px 8px 14px 24px;
+       5            display: block;
+                    padding: 15px 8px 15px 24px;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
                     line-height: 1.2;
-                    color: #000000;
+                    font-weight: 700;
+                    color: #ffffff;
                     text-decoration: underline;
                   "
                   >Вики про&nbsp;калибровки и&nbsp;утверждение оценок</a
@@ -1105,18 +1018,13 @@
                 width="48"
                 align="right"
                 valign="middle"
-                style="
-                  width: 48px;
-                  padding: 8px;
-                  background: #ffffff;
-                  border-radius: 0 64px 64px 0;
-                "
+                style="width: 40px; padding: 8px"
               >
                 <a
                   href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
                   style="display: block; line-height: 0"
                   ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/july/arrow.png"
+                    src="https://storage.yandexcloud.net/team-hh-email/august/arrow.png"
                     alt=""
                     width="32"
                     height="32"
