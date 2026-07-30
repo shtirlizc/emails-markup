@@ -2,6 +2,7 @@
   <mj-head>
     <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
     <mj-preview>LEAD CONF. Что делать, когда ты за старшего. </mj-preview>
+    <mj-breakpoint width="560px" />
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-text font-size="16px" line-height="1.2" color="#000000" />
@@ -644,7 +645,7 @@
           </mj-text>
           <mj-text padding="0">
             <a
-              href="#"
+              href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-12T00%3A00%3A00.000Z&eventId=0c8b3fea-e96f-4572-b963-0961302963f0 (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-12T00%253A00%253A00.000Z%26eventId%3D0c8b3fea-e96f-4572-b963-0961302963f0&sa=D&source=docs&ust=1785428663050192&usg=AOvVaw3i0uUClpCUEAXSnM-r7gmZ)"
               style="
                 display: inline-block;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
@@ -665,13 +666,17 @@
       </mj-section>
     </mj-wrapper>
 
+    <mj-raw><!--[if !mso]><!--></mj-raw>
     <mj-wrapper background-color="#d7d5E9" padding="0">
       <mj-section padding="0 32px 32px">
-        <mj-column width="50%" padding="0 8px 0 0">
+        <mj-column width="48.5%" padding="0">
           <mj-table padding="0">
             <tr>
               <td
+                height="304"
+                valign="top"
                 style="
+                  height: 304px;
                   background-color: #d7d5e9;
                   background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png&quot;);
                   background-repeat: no-repeat;
@@ -680,89 +685,111 @@
                   padding: 18px 18px 14px;
                 "
               >
-                <div
-                  style="
-                    color: rgba(0, 0, 0, 0.8);
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 16px;
-                    font-weight: 700;
-                    line-height: 1.2;
-                    padding-bottom: 13px;
-                  "
+                <table
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  width="100%"
+                  height="100%"
+                  style="width: 100%; height: 100%"
                 >
-                  Большой синк руководителей Lead Conf
-                </div>
-                <div
-                  style="
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 12px;
-                    font-weight: 700;
-                    line-height: 1.2;
-                    padding-bottom: 12px;
-                  "
-                >
-                  <span
-                    style="
-                      background-color: #f8604a;
-                      color: #222a3a;
-                      padding: 2px;
-                    "
-                  >
-                    27 августа
-                  </span>
-                  <span
-                    style="
-                      background-color: #222a3a;
-                      color: #ffffff;
-                      padding: 2px 4px;
-                      border-radius: 10px;
-                    "
-                  >
-                    11:00–22:00
-                  </span>
-                </div>
-                <div
-                  style="
-                    color: rgba(0, 0, 0, 0.8);
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 14px;
-                    line-height: 1.2;
-                    padding-bottom: 13px;
-                  "
-                >
-                  Первый общий слёт всех руководителей Яндекса: на внешней
-                  площадке и в онлайне обсудим роль руководителя будущего и
-                  поучаствуем в разных активностях: воркшопах, дебатах,
-                  командной интеллектуальной игре, карьерных консультациях
-                  и прочем. А главное, обсудим, что делать когда ты за старшего?
-                </div>
-                <a
-                  href="#"
-                  style="
-                    display: inline-block;
-                    background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
-                    background-repeat: no-repeat;
-                    background-position: center;
-                    background-size: 100% 100%;
-                    line-height: 0;
-                    padding: 13px 18px 14px;
-                  "
-                  ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
-                    alt="Записаться"
-                    height="12"
-                    style="display: block; border: 0; height: 12px"
-                /></a>
+                  <tr>
+                    <td valign="top" style="padding: 0">
+                      <div
+                        style="
+                          color: rgba(0, 0, 0, 0.8);
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          font-weight: 700;
+                          line-height: 1.2;
+                          padding-bottom: 13px;
+                        "
+                      >
+                        Большой синк руководителей Lead Conf
+                      </div>
+                      <div
+                        style="
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 12px;
+                          font-weight: 700;
+                          line-height: 1.2;
+                          padding-bottom: 12px;
+                        "
+                      >
+                        <span
+                          style="
+                            background-color: #f8604a;
+                            color: #222a3a;
+                            padding: 2px;
+                          "
+                          >27 августа</span
+                        >
+                        <span
+                          style="
+                            background-color: #222a3a;
+                            color: #ffffff;
+                            padding: 2px 4px;
+                            border-radius: 10px;
+                          "
+                          >11:00–22:00</span
+                        >
+                      </div>
+                      <div
+                        style="
+                          color: rgba(0, 0, 0, 0.8);
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 14px;
+                          line-height: 1.2;
+                        "
+                      >
+                        Первый общий слёт всех руководителей Яндекса: на внешней
+                        площадке и в онлайне обсудим роль руководителя будущего
+                        и поучаствуем в разных активностях: воркшопах, дебатах,
+                        командной интеллектуальной игре, карьерных консультациях
+                        и&nbsp;прочем. А главное, обсудим, что делать когда ты
+                        за старшего?
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom" style="padding: 13px 0 0">
+                      <a
+                        href="https://events.yandex-team.ru/?city=1&eventId=03eec10d-7e2b-4525-abc0-91145e86a977&utm_source=email&utm_medium=sphere&utm_campaign=leadconf0726"
+                        style="
+                          display: inline-block;
+                          background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
+                          background-repeat: no-repeat;
+                          background-position: center;
+                          background-size: 100% 100%;
+                          line-height: 0;
+                          padding: 13px 18px 14px;
+                        "
+                        ><img
+                          src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+                          alt="Записаться"
+                          height="12"
+                          style="display: block; border: 0; height: 12px"
+                      /></a>
+                    </td>
+                  </tr>
+                </table>
               </td>
             </tr>
           </mj-table>
         </mj-column>
 
-        <mj-column width="50%" padding="0 0 0 8px">
+        <mj-column width="3%" padding="0">
+          <mj-spacer height="16px" />
+        </mj-column>
+
+        <mj-column width="48.5%" padding="0">
           <mj-table padding="0">
             <tr>
               <td
+                height="304"
+                valign="top"
                 style="
+                  height: 304px;
                   background-color: #d7d5e9;
                   background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png&quot;);
                   background-repeat: no-repeat;
@@ -771,83 +798,168 @@
                   padding: 18px 18px 14px;
                 "
               >
-                <div
-                  style="
-                    color: rgba(0, 0, 0, 0.8);
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 16px;
-                    font-weight: 700;
-                    line-height: 1.2;
-                    padding-bottom: 13px;
-                  "
+                <table
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  width="100%"
+                  height="100%"
+                  style="width: 100%; height: 100%"
                 >
-                  Дискуссионный клуб руководителей Яндекса
-                </div>
-                <div
-                  style="
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 12px;
-                    font-weight: 700;
-                    line-height: 1.2;
-                    padding-bottom: 12px;
-                  "
-                >
-                  <span
-                    style="
-                      background-color: #f8604a;
-                      color: #222a3a;
-                      padding: 2px;
-                    "
-                  >
-                    28 августа
-                  </span>
-                  <span
-                    style="
-                      background-color: #222a3a;
-                      color: #ffffff;
-                      padding: 2px 4px;
-                      border-radius: 10px;
-                    "
-                  >
-                    16:30–18:00
-                  </span>
-                </div>
-                <div
-                  style="
-                    color: rgba(0, 0, 0, 0.8);
-                    font-family: Arial, Helvetica, sans-serif;
-                    font-size: 14px;
-                    line-height: 1.2;
-                    padding-bottom: 13px;
-                  "
-                >
-                  Традиционная встреча участников «Сферы», на которой можно
-                  задать любой вопрос или просто послушать, с чем сейчас
-                  сталкиваются коллеги из разных команд Яндекса.
-                </div>
-                <a
-                  href="#"
-                  style="
-                    display: inline-block;
-                    background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
-                    background-repeat: no-repeat;
-                    background-position: center;
-                    background-size: 100% 100%;
-                    line-height: 0;
-                    padding: 13px 18px 14px;
-                  "
-                  ><img
-                    src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
-                    alt="Записаться"
-                    height="12"
-                    style="display: block; border: 0; height: 12px"
-                /></a>
+                  <tr>
+                    <td valign="top" style="padding: 0">
+                      <div
+                        style="
+                          color: rgba(0, 0, 0, 0.8);
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          font-weight: 700;
+                          line-height: 1.2;
+                          padding-bottom: 13px;
+                        "
+                      >
+                        Дискуссионный клуб руководителей Яндекса
+                      </div>
+                      <div
+                        style="
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 12px;
+                          font-weight: 700;
+                          line-height: 1.2;
+                          padding-bottom: 12px;
+                        "
+                      >
+                        <span
+                          style="
+                            background-color: #f8604a;
+                            color: #222a3a;
+                            padding: 2px;
+                          "
+                          >28 августа</span
+                        >
+                        <span
+                          style="
+                            background-color: #222a3a;
+                            color: #ffffff;
+                            padding: 2px 4px;
+                            border-radius: 10px;
+                          "
+                          >16:30–18:00</span
+                        >
+                      </div>
+                      <div
+                        style="
+                          color: rgba(0, 0, 0, 0.8);
+                          font-family: Arial, Helvetica, sans-serif;
+                          font-size: 14px;
+                          line-height: 1.2;
+                        "
+                      >
+                        Традиционная встреча участников «Сферы», на которой
+                        можно задать любой вопрос или просто послушать,
+                        с&nbsp;чем сейчас сталкиваются коллеги из&nbsp;разных
+                        команд Яндекса.
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom" style="padding: 13px 0 0">
+                      <a
+                        href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-28T00%253A00%253A00.000Z%26eventId%3D68dedc86-8785-4405-af48-cd7bcb5b1f0c&sa=D&source=docs&ust=1785428663049619&usg=AOvVaw0cNnkABXaRM6KHZ-oYnrkj)"
+                        style="
+                          display: inline-block;
+                          background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
+                          background-repeat: no-repeat;
+                          background-position: center;
+                          background-size: 100% 100%;
+                          line-height: 0;
+                          padding: 13px 18px 14px;
+                        "
+                        ><img
+                          src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+                          alt="Записаться"
+                          height="12"
+                          style="display: block; border: 0; height: 12px"
+                      /></a>
+                    </td>
+                  </tr>
+                </table>
               </td>
             </tr>
           </mj-table>
         </mj-column>
       </mj-section>
     </mj-wrapper>
+    <mj-raw><!--<![endif]--></mj-raw>
+
+    <mj-raw>
+      <!--[if mso]> <table align="center" border="0" cellpadding="0"
+      cellspacing="0" role="presentation" width="600" style="width: 600px"
+      bgcolor="#d7d5e9"> <tr> <td style="padding: 0 32px 16px"> <table
+      border="0" cellpadding="0" cellspacing="0" role="presentation" width="536"
+      style="width: 536px"> <tr> <td
+      background="https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png"
+      height="304" valign="top" style="height: 304px; background-color: #d7d5e9;
+      background-image:
+      url('https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png');
+      background-repeat: no-repeat; background-position: center;
+      background-size: 100% 100%; padding: 18px 18px 14px"> <table border="0"
+      cellpadding="0" cellspacing="0" role="presentation" width="100%"
+      height="100%" style="width: 100%; height: 100%"> <tr><td valign="top"
+      style="padding: 0; color: rgba(0, 0, 0, 0.8); font-family: Arial,
+      Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
+      style="font-size: 16px; font-weight: 700; padding-bottom: 13px">Большой
+      синк руководителей Lead Conf</div><div style="font-size: 12px;
+      font-weight: 700; padding-bottom: 12px"><span style="background-color:
+      #f8604a; color: #222a3a; padding: 2px">27 августа</span> <span
+      style="background-color: #222a3a; color: #ffffff; padding: 2px 4px;
+      border-radius: 10px">11:00–22:00</span></div>Первый общий слёт всех
+      руководителей Яндекса: на внешней площадке и в онлайне обсудим роль
+      руководителя будущего и поучаствуем в разных активностях: воркшопах,
+      дебатах, командной интеллектуальной игре, карьерных консультациях
+      и&nbsp;прочем. А главное, обсудим, что делать когда ты за
+      старшего?</td></tr> <tr><td valign="bottom" style="padding: 13px 0 0"><a
+      href="https://events.yandex-team.ru/?city=1&eventId=03eec10d-7e2b-4525-abc0-91145e86a977&utm_source=email&utm_medium=sphere&utm_campaign=leadconf0726"
+      style="display: inline-block; background-image:
+      url('https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png');
+      background-repeat: no-repeat; background-position: center;
+      background-size: 100% 100%; line-height: 0; padding: 13px 18px 14px"><img
+      src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+      alt="Записаться" height="12" style="display: block; border: 0; height:
+      12px" /></a></td></tr> </table> </td> </tr> <tr><td height="16"
+      style="height: 16px; line-height: 16px; font-size: 16px">&nbsp;</td></tr>
+      <tr> <td
+      background="https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png"
+      height="304" valign="top" style="height: 304px; background-color: #d7d5e9;
+      background-image:
+      url('https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png');
+      background-repeat: no-repeat; background-position: center;
+      background-size: 100% 100%; padding: 18px 18px 14px"> <table border="0"
+      cellpadding="0" cellspacing="0" role="presentation" width="100%"
+      height="100%" style="width: 100%; height: 100%"> <tr><td valign="top"
+      style="padding: 0; color: rgba(0, 0, 0, 0.8); font-family: Arial,
+      Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
+      style="font-size: 16px; font-weight: 700; padding-bottom:
+      13px">Дискуссионный клуб руководителей Яндекса</div><div style="font-size:
+      12px; font-weight: 700; padding-bottom: 12px"><span
+      style="background-color: #f8604a; color: #222a3a; padding: 2px">28
+      августа</span> <span style="background-color: #222a3a; color: #ffffff;
+      padding: 2px 4px; border-radius:
+      10px">16:30–18:00</span></div>Традиционная встреча участников «Сферы», на
+      которой можно задать любой вопрос или просто послушать, с&nbsp;чем сейчас
+      сталкиваются коллеги из&nbsp;разных команд Яндекса.</td></tr> <tr><td
+      valign="bottom" style="padding: 13px 0 0"><a
+      href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c
+      (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-28T00%253A00%253A00.000Z%26eventId%3D68dedc86-8785-4405-af48-cd7bcb5b1f0c&sa=D&source=docs&ust=1785428663049619&usg=AOvVaw0cNnkABXaRM6KHZ-oYnrkj)"
+      style="display: inline-block; background-image:
+      url('https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png');
+      background-repeat: no-repeat; background-position: center;
+      background-size: 100% 100%; line-height: 0; padding: 13px 18px 14px"><img
+      src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+      alt="Записаться" height="12" style="display: block; border: 0; height:
+      12px" /></a></td></tr> </table> </td> </tr> </table> </td> </tr> </table>
+      <![endif]-->
+    </mj-raw>
 
     <mj-section padding="0 0 29px 0"
       ><mj-column><mj-spacer height="1px" /></mj-column
