@@ -6,13 +6,21 @@
   "scripts": {
     "email:build": "mkdir -p emails/dist && mjml emails/*.mjml -o emails/dist --config.minify true",
     "email:watch": "mkdir -p emails/dist && mjml --watch emails/*.mjml -o emails/dist",
-    "email:serve": "browser-sync start --server emails --directory --startPath /dist/ --files \"emails/dist/*.html, emails/assets/**/*\" --no-open --no-notify --host 127.0.0.1",
+    "email:serve": "vite emails --host 127.0.0.1",
     "email:dev": "npm run email:build && concurrently -k -n mjml,server -c magenta,cyan \"npm:email:watch\" \"npm:email:serve\""
   },
   "devDependencies": {
-    "browser-sync": "^3.0.4",
-    "concurrently": "^10.0.0",
+    "concurrently": "^10.0.4",
     "mjml": "^5.4.0",
-    "prettier": "^3.9.1"
+    "prettier": "^3.9.6",
+    "vite": "^8.2.0"
+  },
+  "overrides": {
+    "postcss": "8.5.25",
+    "svgo": "4.0.2",
+    "js-beautify": {
+      ".": "2.0.3",
+      "nopt": "9.0.0"
+    }
   }
 }
