@@ -547,6 +547,297 @@
       ><mj-column><mj-spacer height="1px" /></mj-column
     ></mj-section>
 
+    <!-- ============== EVENTS ============== -->
+    <mj-wrapper
+      background-color="#d7d5E9"
+      padding="32px"
+      background-url="https://storage.yandexcloud.net/team-hh-email/august/events-bg.png"
+      background-repeat="no-repeat"
+      background-position="top right"
+    >
+      <mj-section padding="40px 40px 24px">
+        <mj-column padding="0">
+          <mj-text
+            font-size="36px"
+            font-weight="700"
+            line-height="1"
+            color="#222a3a"
+            padding="0 0 16px"
+          >
+            События «Сферы»
+          </mj-text>
+          <mj-text
+            font-size="16px"
+            line-height="1.2"
+            color="#222a3a"
+            padding="0"
+          >
+            В июле нас ждёт сразу несколько интересных событий, которые можно
+            добавить в свой календарь.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-url="https://storage.yandexcloud.net/team-hh-email/august/events-bg-1.png"
+        background-repeat="no-repeat"
+        background-position="center"
+        background-size="100% 100%"
+        padding="0 40px 16px"
+      >
+        <mj-column padding="18px">
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="16px"
+            font-weight="700"
+            line-height="1.2"
+            padding="0 0 12px"
+          >
+            Строим автономную команду
+          </mj-text>
+          <mj-text
+            font-size="12px"
+            font-weight="700"
+            line-height="1.2"
+            padding="0 0 12px"
+          >
+            <span
+              style="
+                background-color: #f8604a;
+                color: #222a3a;
+                padding: 4px 6px;
+              "
+            >
+              12 августа
+            </span>
+            <span
+              style="
+                background-color: #222a3a;
+                color: #ffffff;
+                padding: 4px 6px;
+              "
+            >
+              16:00–17:30
+            </span>
+          </mj-text>
+          <mj-text
+            color="rgba(0, 0, 0, 0.8)"
+            font-size="14px"
+            line-height="1.2"
+            padding="0 0 16px"
+          >
+            Как перестроить команду и сэкономить почти 1 млн рублей в год —
+            Анастасия Шарикова разберёт личный кейс и поделится конкретными
+            инструментами из своей практики.
+          </mj-text>
+          <mj-text padding="0">
+            <a
+              href="#"
+              style="
+                display: inline-block;
+                background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 100% 100%;
+                line-height: 0;
+                padding: 9px 24px;
+              "
+              ><img
+                src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+                alt="Записаться"
+                height="17"
+                style="display: block; border: 0; height: 17px"
+            /></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper background-color="#d7d5E9" padding="0">
+      <mj-section padding="0 40px 40px">
+        <mj-column width="50%" padding="0 8px 0 0">
+          <mj-table padding="0">
+            <tr>
+              <td
+                style="
+                  background-color: #d7d5e9;
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png&quot;);
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size: 100% 100%;
+                  padding: 18px;
+                "
+              >
+                <div
+                  style="
+                    color: rgba(0, 0, 0, 0.8);
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    padding-bottom: 12px;
+                  "
+                >
+                  Большой синк руководителей Lead Conf
+                </div>
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 12px;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    padding-bottom: 12px;
+                  "
+                >
+                  <span
+                    style="
+                      background-color: #f8604a;
+                      color: #222a3a;
+                      padding: 4px 6px;
+                    "
+                  >
+                    27 августа
+                  </span>
+                  <span
+                    style="
+                      background-color: #222a3a;
+                      color: #ffffff;
+                      padding: 4px 6px;
+                    "
+                  >
+                    11:00–22:00
+                  </span>
+                </div>
+                <div
+                  style="
+                    color: rgba(0, 0, 0, 0.8);
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                    line-height: 1.2;
+                    padding-bottom: 16px;
+                  "
+                >
+                  Первый общий слёт всех руководителей Яндекса: на внешней
+                  площадке и в онлайне обсудим роль руководителя будущего и
+                  поучаствуем в разных активностях: воркшопах, дебатах,
+                  командной интеллектуальной игре, карьерных консультациях
+                  и прочем. А главное, обсудим, что делать когда ты за старшего?
+                </div>
+                <a
+                  href="#"
+                  style="
+                    display: inline-block;
+                    background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: 100% 100%;
+                    line-height: 0;
+                    padding: 9px 24px;
+                  "
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+                    alt="Записаться"
+                    height="17"
+                    style="display: block; border: 0; height: 17px"
+                /></a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column width="50%" padding="0 0 0 8px">
+          <mj-table padding="0">
+            <tr>
+              <td
+                style="
+                  background-color: #d7d5e9;
+                  background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png&quot;);
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  background-size: 100% 100%;
+                  padding: 18px;
+                "
+              >
+                <div
+                  style="
+                    color: rgba(0, 0, 0, 0.8);
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    padding-bottom: 12px;
+                  "
+                >
+                  Дискуссионный клуб руководителей Яндекса
+                </div>
+                <div
+                  style="
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 12px;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    padding-bottom: 12px;
+                  "
+                >
+                  <span
+                    style="
+                      background-color: #f8604a;
+                      color: #222a3a;
+                      padding: 4px 6px;
+                    "
+                  >
+                    28 августа
+                  </span>
+                  <span
+                    style="
+                      background-color: #222a3a;
+                      color: #ffffff;
+                      padding: 4px 6px;
+                    "
+                  >
+                    16:30–18:00
+                  </span>
+                </div>
+                <div
+                  style="
+                    color: rgba(0, 0, 0, 0.8);
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                    line-height: 1.2;
+                    padding-bottom: 16px;
+                  "
+                >
+                  Традиционная встреча участников «Сферы», на которой можно
+                  задать любой вопрос или просто послушать, с чем сейчас
+                  сталкиваются коллеги из разных команд Яндекса.
+                </div>
+                <a
+                  href="#"
+                  style="
+                    display: inline-block;
+                    background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: 100% 100%;
+                    line-height: 0;
+                    padding: 9px 24px;
+                  "
+                  ><img
+                    src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
+                    alt="Записаться"
+                    height="17"
+                    style="display: block; border: 0; height: 17px"
+                /></a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="0 0 24px 0"
+      ><mj-column><mj-spacer height="1px" /></mj-column
+    ></mj-section>
+
     <!-- ==============  ============== -->
     <mj-wrapper background-color="#d7d5E9" padding="0">
       <mj-section padding="0">
