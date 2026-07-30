@@ -301,7 +301,7 @@
 
       <mj-section padding="0">
         <mj-column padding="0">
-          <mj-text padding="8px 32px 8px">
+          <mj-text padding="8px 32px 0">
             <div
               style="
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
@@ -347,14 +347,15 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-wrapper background-color="#d7d5E9" padding="0 75px 17px 32px">
-      <mj-section
-        padding="25px 33px 21px 18px"
-        background-url="https://storage.yandexcloud.net/team-hh-email/august/read-bg-2.png"
-        background-repeat="no-repeat"
-        background-position="center"
-        background-size="contain"
-      >
+    <mj-wrapper
+      background-color="#d7d5E9"
+      padding="33px 32px 17px 32px"
+      background-url="https://storage.yandexcloud.net/team-hh-email/august/read-list-bg-foot.jpg"
+      background-repeat="no-repeat"
+      background-position="left center"
+      background-size="100% 100%"
+    >
+      <mj-section padding="0 33px 21px 18px">
         <mj-column padding="0">
           <mj-text
             font-size="25px"
@@ -363,11 +364,11 @@
             color="#222a3a"
             padding="0 0 8px"
           >
-            Промо - https://storage.yandexcloud.net/team-hh-email/august/read-list-bg-foot.jpg
+            Промо
           </mj-text>
           <mj-text
             font-size="16px"
-            line-height="1.2"
+            line-height="1.1"
             padding="0"
             color="#222a3a"
           >
