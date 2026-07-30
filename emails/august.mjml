@@ -59,7 +59,7 @@
             >
               <img
                 src="https://storage.yandexcloud.net/team-hh-email/august/sign-up-text.png"
-                height="22"
+                height="26"
                 alt="Зарегистрироваться"
                 style="
                   display: inline-block;
@@ -363,7 +363,7 @@
             color="#222a3a"
             padding="0 0 8px"
           >
-            Промо
+            Промо - https://storage.yandexcloud.net/team-hh-email/august/read-list-bg-foot.jpg
           </mj-text>
           <mj-text
             font-size="16px"
