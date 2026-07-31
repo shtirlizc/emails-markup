@@ -59,19 +59,22 @@
                 background-size: 100% 100%;
                 line-height: 60px;
                 text-decoration: none;
+                max-width: 50%;
               "
             >
               <img
                 src="https://storage.yandexcloud.net/team-hh-email/august/sign-up-text.png"
                 height="26"
+                fluid-on-mobile="true"
                 alt="Зарегистрироваться"
                 style="
                   display: inline-block;
-                  height: 26px;
+                  max-height: 26px;
                   vertical-align: middle;
                   border: 0;
                   outline: none;
                   text-decoration: none;
+                  max-width: 100%;
                 "
               />
             </a>
