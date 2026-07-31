@@ -190,7 +190,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 3px 5px 4px 4px;
+                    padding: 2px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -245,7 +245,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 4px 5px 4px 4px;
+                    padding: 3px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -300,7 +300,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 3px 5px 4px 4px;
+                    padding: 2px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -356,7 +356,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 4px 4px 4px 4px;
+                    padding: 2px 4px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
