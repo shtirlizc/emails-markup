@@ -114,9 +114,8 @@
                 background-color: #f4fe3a;
                 padding: 2px 0;
               "
+              >«Сфера»</a
             >
-              «Сфера»
-            </a>
             — это сообщество руководителей Яндекса, где мы общаемся, встречаемся
             и делимся друг с&nbsp;другом опытом, подходами и идеями.
             <a
@@ -173,23 +172,37 @@
                 padding: 22px 18px 18px;
               "
             >
-              <a
-                href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1783433266353016"
+              <span
                 style="
-                  padding: 3px 0 2px;
-                  background-color: #9668fe;
-                  color: #ffffff;
+                  display: inline-block;
+                  padding: 4px 0 3px 4px;
+                  background-image: linear-gradient(
+                    to right,
+                    #9668fe 0,
+                    #9668fe 4px,
+                    transparent 4px,
+                    transparent
+                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
                   line-height: 1.2;
-                  text-decoration: underline;
                 "
               >
-                &nbsp;Почему руководителю вечно не хватает времени —&nbsp;
-                <br />
-                &nbsp;и что помогает его вернуть&nbsp;
-              </a>
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1783433266353016"
+                  style="
+                    color: #ffffff;
+                    text-decoration: underline;
+                    background-color: #9668fe;
+                    padding: 5px 5px 4px 0;
+                    -webkit-box-decoration-break: clone;
+                    box-decoration-break: clone;
+                  "
+                  >Почему руководителю вечно не хватает времени —&nbsp;<br />и
+                  что помогает его вернуть</a
+                >
+              </span>
               <div
                 style="
                   color: #000000;
@@ -222,21 +235,36 @@
                 padding: 22px 18px 18px;
               "
             >
-              <a
-                href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784274870998016"
+              <span
                 style="
-                  padding: 3px 0 2px;
-                  background-color: #9668fe;
-                  color: #ffffff;
+                  display: inline-block;
+                  padding: 4px 0 3px 4px;
+                  background-image: linear-gradient(
+                    to right,
+                    #9668fe 0,
+                    #9668fe 4px,
+                    transparent 4px,
+                    transparent
+                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
                   line-height: 1.2;
-                  text-decoration: underline;
                 "
               >
-                &nbsp;Больно, но не стыдно&nbsp;
-              </a>
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784274870998016"
+                  style="
+                    color: #ffffff;
+                    text-decoration: underline;
+                    background-color: #9668fe;
+                    padding: 5px 5px 4px 0;
+                    -webkit-box-decoration-break: clone;
+                    box-decoration-break: clone;
+                  "
+                  >Больно, но не стыдно</a
+                >
+              </span>
               <div
                 style="
                   color: #000000;
@@ -270,22 +298,37 @@
                 padding: 22px 18px 18px;
               "
             >
-              <a
-                href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1785141169790051"
+              <span
                 style="
-                  padding: 3px 0 2px;
-                  background-color: #9668fe;
-                  color: #ffffff;
+                  display: inline-block;
+                  padding: 4px 0 3px 4px;
+                  background-image: linear-gradient(
+                    to right,
+                    #9668fe 0,
+                    #9668fe 4px,
+                    transparent 4px,
+                    transparent
+                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
                   line-height: 1.2;
-                  text-decoration: underline;
                 "
               >
-                &nbsp;Headcount, FTE, capacity —&nbsp;<br />
-                &nbsp;удобные слова, за&nbsp;которыми живые люди&nbsp;
-              </a>
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1785141169790051"
+                  style="
+                    color: #ffffff;
+                    text-decoration: underline;
+                    background-color: #9668fe;
+                    padding: 5px 5px 4px 0;
+                    -webkit-box-decoration-break: clone;
+                    box-decoration-break: clone;
+                  "
+                  >Headcount, FTE, capacity —&nbsp;<br />удобные слова, за
+                  которыми живые люди</a
+                >
+              </span>
               <div
                 style="
                   color: #000000;
@@ -319,23 +362,37 @@
                 padding: 22px 18px 18px;
               "
             >
-              <a
-                href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784641341181040"
+              <span
                 style="
-                  padding: 3px 0 2px;
-                  background-color: #9668fe;
-                  color: #ffffff;
+                  display: inline-block;
+                  padding: 4px 0 3px 4px;
+                  background-image: linear-gradient(
+                    to right,
+                    #9668fe 0,
+                    #9668fe 4px,
+                    transparent 4px,
+                    transparent
+                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
                   line-height: 1.2;
-                  text-decoration: underline;
                 "
               >
-                &nbsp;Объявление результатов — одна из&nbsp;самых эмоциональных
-                <br />
-                &nbsp;частей ревью&nbsp;
-              </a>
+                <a
+                  href="https://messenger.360.yandex.ru/#/join/b094309a-3abd-4e70-93d8-3b93e3990ba9/1784641341181040"
+                  style="
+                    color: #ffffff;
+                    text-decoration: underline;
+                    background-color: #9668fe;
+                    padding: 5px 4px 4px 0;
+                    -webkit-box-decoration-break: clone;
+                    box-decoration-break: clone;
+                  "
+                  >Объявление результатов — одна из самых эмоциональных частей
+                  ревью</a
+                >
+              </span>
               <div
                 style="
                   color: #000000;
@@ -427,9 +484,8 @@
                 background-color: #f4fe3a;
                 padding: 2px 0;
               "
+              >Lead Conf</a
             >
-              Lead Conf
-            </a>
             — первом большом синке руководителей Яндекса. Спросили
             у&nbsp;команды события, зачем в&nbsp;эпоху нейросетей, которые
             отвечают на&nbsp;любые вопросы, идти на&nbsp;конференцию
@@ -1142,7 +1198,7 @@
                 "
               >
                 <a
-                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/finalnye-vstrechi/?utm_referrer=https%3A%2F%2Fyandex-team.ru%2F"
                   style="
                     display: block;
                     padding: 15px 8px 15px 24px;
@@ -1153,18 +1209,13 @@
                     color: #ffffff;
                     text-decoration: underline;
                   "
-                  >Вики про&nbsp;калибровки и&nbsp;утверждение оценок</a
+                  >Вики про объявление результатов ревью</a
                 >
               </td>
-              <td
-                width="48"
-                align="right"
-                valign="middle"
-                style="width: 40px; padding: 8px"
-              >
+              <td width="48" align="right" valign="middle" style="width: 48px">
                 <a
-                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/kalibrovka-i-utverzhdenie-ocenok/"
-                  style="display: block; line-height: 0"
+                  href="https://wiki.yandex-team.ru/hr/review-for-teamleaders/finalnye-vstrechi/?utm_referrer=https%3A%2F%2Fyandex-team.ru%2F"
+                  style="display: block; line-height: 0; padding: 8px"
                   ><img
                     src="https://storage.yandexcloud.net/team-hh-email/august/arrow.png"
                     alt=""
