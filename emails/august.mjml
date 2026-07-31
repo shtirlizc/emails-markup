@@ -15,10 +15,6 @@
   </mj-head>
 
   <mj-body background-color="#ffffff" width="600px">
-    <mj-section padding="0 0 24px 0"
-      ><mj-column><mj-spacer height="1px" /></mj-column
-    ></mj-section>
-
     <!-- ============== HERO CARD ============== -->
     <mj-wrapper background-color="#d7d5E9" padding="0">
       <mj-section padding="0">
@@ -1403,9 +1399,5 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
-    <mj-section padding="0 0 24px 0"
-      ><mj-column><mj-spacer height="1px" /></mj-column
-    ></mj-section>
   </mj-body>
 </mjml>
