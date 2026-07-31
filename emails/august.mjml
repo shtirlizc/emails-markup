@@ -2,6 +2,10 @@
   <mj-head>
     <mj-title>Сфера — мы все разные, но сфера одна</mj-title>
     <mj-preview>LEAD CONF. Что делать, когда ты за&nbsp;старшего. </mj-preview>
+    <mj-raw>
+      <meta name="color-scheme" content="light only" /> <meta
+      name="supported-color-schemes" content="light only" />
+    </mj-raw>
     <mj-breakpoint width="560px" />
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
@@ -48,7 +52,7 @@
                 padding: 0 24px;
                 height: 60px;
                 border-radius: 30px;
-                background-color: transparent;
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/sign-up-btn-bg.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
@@ -77,7 +81,7 @@
       <mj-section padding="0 32px 44px">
         <mj-column padding="0">
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="25px"
             font-weight="700"
             line-height="1"
@@ -161,6 +165,7 @@
           <mj-text padding="4px 32px 8px">
             <div
               style="
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
@@ -209,6 +214,7 @@
           <mj-text padding="8px 32px">
             <div
               style="
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
@@ -256,6 +262,7 @@
           <mj-text padding="8px 32px">
             <div
               style="
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
@@ -304,6 +311,7 @@
           <mj-text padding="8px 32px 0">
             <div
               style="
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-bg-3.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
@@ -441,7 +449,7 @@
       >
         <mj-column padding="0">
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="25px"
             font-weight="700"
             line-height="1"
@@ -450,14 +458,15 @@
             Найти тех, с&nbsp;кем разговор не&nbsp;закончится после конференции
           </mj-text>
           <mj-image
-            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-1.png"
+            src="https://storage.yandexcloud.net/team-hh-email/august/speaker-1-test.png"
             alt="Илья Грабовский - руководитель корпоративного PR и PR-департамента B2B Tech"
-            width="600px"
+            width="356px"
+            align="right"
             padding="0"
             fluid-on-mobile="true"
           />
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="16px"
             line-height="1.2"
             padding="9px 0 30px"
@@ -470,7 +479,7 @@
           </mj-text>
 
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="25px"
             font-weight="700"
             line-height="1"
@@ -488,7 +497,7 @@
             fluid-on-mobile="true"
           />
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="16px"
             line-height="1.2"
             padding="8px 0 31px"
@@ -503,7 +512,7 @@
           </mj-text>
 
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="25px"
             font-weight="700"
             line-height="1"
@@ -519,7 +528,7 @@
             fluid-on-mobile="true"
           />
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="16px"
             line-height="1.2"
             padding="14px 0 48px"
@@ -532,7 +541,7 @@
           </mj-text>
 
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="25px"
             font-weight="700"
             line-height="1"
@@ -548,7 +557,7 @@
             fluid-on-mobile="true"
           />
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="16px"
             line-height="1.2"
             padding="9px 0 0"
@@ -609,7 +618,7 @@
       >
         <mj-column padding="18px 14px 14px 18px">
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="16px"
             font-weight="700"
             line-height="1.2"
@@ -640,7 +649,7 @@
             </span>
           </mj-text>
           <mj-text
-            color="rgba(0, 0, 0, 0.8)"
+            color="#333333"
             font-size="14px"
             line-height="1.2"
             padding="0 0 13px"
@@ -651,15 +660,17 @@
           </mj-text>
           <mj-text padding="0">
             <a
-              href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-12T00%3A00%3A00.000Z&eventId=0c8b3fea-e96f-4572-b963-0961302963f0 (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-12T00%253A00%253A00.000Z%26eventId%3D0c8b3fea-e96f-4572-b963-0961302963f0&sa=D&source=docs&ust=1785428663050192&usg=AOvVaw3i0uUClpCUEAXSnM-r7gmZ)"
+              href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-12T00%3A00%3A00.000Z&eventId=0c8b3fea-e96f-4572-b963-0961302963f0"
               style="
                 display: inline-block;
+                background-color: #d7d5e9;
                 background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 100% 100%;
                 line-height: 0;
                 padding: 13px 18px 14px;
+                border-radius: 20px;
               "
               ><img
                 src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
@@ -681,6 +692,7 @@
               <td
                 height="304"
                 valign="top"
+                bgcolor="#d7d5e9"
                 style="
                   height: 304px;
                   background-color: #d7d5e9;
@@ -703,7 +715,7 @@
                     <td valign="top" style="padding: 0">
                       <div
                         style="
-                          color: rgba(0, 0, 0, 0.8);
+                          color: #333333;
                           font-family: Arial, Helvetica, sans-serif;
                           font-size: 16px;
                           font-weight: 700;
@@ -742,7 +754,7 @@
                       </div>
                       <div
                         style="
-                          color: rgba(0, 0, 0, 0.8);
+                          color: #333333;
                           font-family: Arial, Helvetica, sans-serif;
                           font-size: 14px;
                           line-height: 1.2;
@@ -764,12 +776,14 @@
                         href="https://events.yandex-team.ru/?city=1&eventId=03eec10d-7e2b-4525-abc0-91145e86a977&utm_source=email&utm_medium=sphere&utm_campaign=leadconf0726"
                         style="
                           display: inline-block;
+                          background-color: #d7d5e9;
                           background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
                           background-repeat: no-repeat;
                           background-position: center;
                           background-size: 100% 100%;
                           line-height: 0;
                           padding: 13px 18px 14px;
+                          border-radius: 20px;
                         "
                         ><img
                           src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
@@ -795,6 +809,7 @@
               <td
                 height="304"
                 valign="top"
+                bgcolor="#d7d5e9"
                 style="
                   height: 304px;
                   background-color: #d7d5e9;
@@ -817,7 +832,7 @@
                     <td valign="top" style="padding: 0">
                       <div
                         style="
-                          color: rgba(0, 0, 0, 0.8);
+                          color: #333333;
                           font-family: Arial, Helvetica, sans-serif;
                           font-size: 16px;
                           font-weight: 700;
@@ -856,7 +871,7 @@
                       </div>
                       <div
                         style="
-                          color: rgba(0, 0, 0, 0.8);
+                          color: #333333;
                           font-family: Arial, Helvetica, sans-serif;
                           font-size: 14px;
                           line-height: 1.2;
@@ -872,15 +887,17 @@
                   <tr>
                     <td valign="bottom" style="padding: 13px 0 0">
                       <a
-                        href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-28T00%253A00%253A00.000Z%26eventId%3D68dedc86-8785-4405-af48-cd7bcb5b1f0c&sa=D&source=docs&ust=1785428663049619&usg=AOvVaw0cNnkABXaRM6KHZ-oYnrkj)"
+                        href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c"
                         style="
                           display: inline-block;
+                          background-color: #d7d5e9;
                           background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png&quot;);
                           background-repeat: no-repeat;
                           background-position: center;
                           background-size: 100% 100%;
                           line-height: 0;
                           padding: 13px 18px 14px;
+                          border-radius: 20px;
                         "
                         ><img
                           src="https://storage.yandexcloud.net/team-hh-email/august/events-btn-text.png"
@@ -906,15 +923,15 @@
       border="0" cellpadding="0" cellspacing="0" role="presentation" width="536"
       style="width: 536px"> <tr> <td
       background="https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png"
-      height="304" valign="top" style="height: 304px; background-color: #d7d5e9;
-      background-image:
+      height="304" valign="top" bgcolor="#d7d5e9" style="height: 304px;
+      background-color: #d7d5e9; background-image:
       url('https://storage.yandexcloud.net/team-hh-email/august/events-bg-2.png');
       background-repeat: no-repeat; background-position: center;
       background-size: 100% 100%; padding: 18px 14px 14px 18px"> <table
       border="0" cellpadding="0" cellspacing="0" role="presentation"
       width="100%" height="100%" style="width: 100%; height: 100%"> <tr><td
-      valign="top" style="padding: 0; color: rgba(0, 0, 0, 0.8); font-family:
-      Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
+      valign="top" style="padding: 0; color: #333333; font-family: Arial,
+      Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
       style="font-size: 16px; font-weight: 700; padding-bottom: 13px">Большой
       синк руководителей Lead Conf</div><div style="font-size: 12px;
       font-weight: 700; padding-bottom: 12px"><span style="background-color:
@@ -928,7 +945,7 @@
       за&nbsp; старшего?</td></tr> <tr><td valign="bottom" style="padding: 13px
       0 0"><a
       href="https://events.yandex-team.ru/?city=1&eventId=03eec10d-7e2b-4525-abc0-91145e86a977&utm_source=email&utm_medium=sphere&utm_campaign=leadconf0726"
-      style="display: inline-block; background-image:
+      style="display: inline-block; background-color: #d7d5e9; background-image:
       url('https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png');
       background-repeat: no-repeat; background-position: center;
       background-size: 100% 100%; line-height: 0; padding: 13px 18px 14px"><img
@@ -938,15 +955,15 @@
       style="height: 16px; line-height: 16px; font-size: 16px">&nbsp;</td></tr>
       <tr> <td
       background="https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png"
-      height="304" valign="top" style="height: 304px; background-color: #d7d5e9;
-      background-image:
+      height="304" valign="top" bgcolor="#d7d5e9" style="height: 304px;
+      background-color: #d7d5e9; background-image:
       url('https://storage.yandexcloud.net/team-hh-email/august/events-bg-3.png');
       background-repeat: no-repeat; background-position: center;
       background-size: 100% 100%; padding: 18px 14px 14px 18px"> <table
       border="0" cellpadding="0" cellspacing="0" role="presentation"
       width="100%" height="100%" style="width: 100%; height: 100%"> <tr><td
-      valign="top" style="padding: 0; color: rgba(0, 0, 0, 0.8); font-family:
-      Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
+      valign="top" style="padding: 0; color: #333333; font-family: Arial,
+      Helvetica, sans-serif; font-size: 14px; line-height: 1.2"><div
       style="font-size: 16px; font-weight: 700; padding-bottom:
       13px">Дискуссионный клуб руководителей Яндекса</div><div style="font-size:
       12px; font-weight: 700; padding-bottom: 12px"><span
@@ -957,9 +974,8 @@
       которой можно задать любой вопрос или просто послушать, с&nbsp;чем сейчас
       сталкиваются коллеги из&nbsp;разных команд Яндекса.</td></tr> <tr><td
       valign="bottom" style="padding: 13px 0 0"><a
-      href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c
-      (https://www.google.com/url?q=https://events.yandex-team.ru/?city%3D1%26startDateTime%3D2026-08-28T00%253A00%253A00.000Z%26eventId%3D68dedc86-8785-4405-af48-cd7bcb5b1f0c&sa=D&source=docs&ust=1785428663049619&usg=AOvVaw0cNnkABXaRM6KHZ-oYnrkj)"
-      style="display: inline-block; background-image:
+      href="https://events.yandex-team.ru/?city=1&startDateTime=2026-08-28T00%3A00%3A00.000Z&eventId=68dedc86-8785-4405-af48-cd7bcb5b1f0c"
+      style="display: inline-block; background-color: #d7d5e9; background-image:
       url('https://storage.yandexcloud.net/team-hh-email/august/events-btn-bg.png');
       background-repeat: no-repeat; background-position: center;
       background-size: 100% 100%; line-height: 0; padding: 13px 18px 14px"><img
@@ -999,10 +1015,12 @@
             cellspacing="0"
             width="100%"
             role="presentation"
+            bgcolor="#9261ff"
             style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
+                bgcolor="#9261ff"
                 style="
                   background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -1053,10 +1071,12 @@
             cellspacing="0"
             width="100%"
             role="presentation"
+            bgcolor="#9261ff"
             style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
+                bgcolor="#9261ff"
                 style="
                   background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
@@ -1107,10 +1127,12 @@
             cellspacing="0"
             width="100%"
             role="presentation"
+            bgcolor="#9261ff"
             style="width: 100%; border-collapse: separate; background: #9261ff"
           >
             <tr>
               <td
+                bgcolor="#9261ff"
                 style="
                   background: #9261ff;
                   font-family: Arial, Helvetica, sans-serif;
