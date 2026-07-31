@@ -383,7 +383,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-wrapper background-color="#d7d5E9" padding="14px 32px 19px 32px">
+    <mj-wrapper background-color="#d7d5E9" padding="14px 4px 19px 32px">
       <mj-section padding="0">
         <mj-column padding="0">
           <mj-text padding="0">
@@ -414,13 +414,13 @@
                 max-width: 490px;
                 background: #d7d5e9
                   url(&quot;https://storage.yandexcloud.net/team-hh-email/august/read-list-bg-foot.png&quot;)
-                  center / 100% 100% no-repeat;
+                  left top / 100% 100% no-repeat;
               "
             >
               <tr>
                 <td
                   style="
-                    padding: 18px 32px 21px 18px;
+                    padding: 18px 32px 21px 12px;
                     color: #222a3a;
                     font-family: Arial, Helvetica, sans-serif;
                     font-size: 16px;
