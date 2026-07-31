@@ -178,14 +178,6 @@
               <span
                 style="
                   display: inline-block;
-                  padding: 2px 0 3px 4px;
-                  background-image: linear-gradient(
-                    to right,
-                    #9668fe 0,
-                    #9668fe 4px,
-                    transparent 4px,
-                    transparent
-                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
@@ -198,7 +190,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 3px 5px 4px 0;
+                    padding: 3px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -241,14 +233,6 @@
               <span
                 style="
                   display: inline-block;
-                  padding: 3px 0 3px 4px;
-                  background-image: linear-gradient(
-                    to right,
-                    #9668fe 0,
-                    #9668fe 4px,
-                    transparent 4px,
-                    transparent
-                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
@@ -261,7 +245,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 4px 5px 4px 0;
+                    padding: 4px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -304,14 +288,6 @@
               <span
                 style="
                   display: inline-block;
-                  padding: 2px 0 3px 4px;
-                  background-image: linear-gradient(
-                    to right,
-                    #9668fe 0,
-                    #9668fe 4px,
-                    transparent 4px,
-                    transparent
-                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
@@ -324,7 +300,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 3px 5px 4px 0;
+                    padding: 3px 5px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
@@ -368,14 +344,6 @@
               <span
                 style="
                   display: inline-block;
-                  padding: 3px 0 3px 4px;
-                  background-image: linear-gradient(
-                    to right,
-                    #9668fe 0,
-                    #9668fe 4px,
-                    transparent 4px,
-                    transparent
-                  );
                   font-family: Arial, Helvetica, sans-serif;
                   font-size: 16px;
                   font-weight: 700;
@@ -388,7 +356,7 @@
                     color: #ffffff;
                     text-decoration: underline;
                     background-color: #9668fe;
-                    padding: 4px 4px 4px 0;
+                    padding: 4px 4px 4px 4px;
                     -webkit-box-decoration-break: clone;
                     box-decoration-break: clone;
                   "
