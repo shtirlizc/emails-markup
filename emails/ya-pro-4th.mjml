@@ -66,16 +66,16 @@
         >
           <p style="margin: 0 0 21px 0">Привет!</p>
           <p style="margin: 0 0 21px 0">
-            До начала «Я про бэкенд» остался час.
+            До&nbsp;начала «Я про&nbsp;бэкенд» остался час.
             <br />
-            Стартуем в
+            Стартуем в&nbsp;
             <span
               style="color: #ffd471; font-weight: bold; text-decoration: none"
               >12:00
             </span>
-            по московскому времени.
+            по&nbsp;московскому времени.
           </p>
-          <p style="margin: 0 0 12px 0">Ссылки на трансляции:</p>
+          <p style="margin: 0 0 12px 0">Ссылки на&nbsp;трансляции:</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -164,9 +164,10 @@
           padding="0 0 8px"
         >
           <p style="margin: 19px 0 24px 0">
-            Обсуждать доклады и следить за новостями можно в телеграм-канале
+            Обсуждать доклады и&nbsp;следить за&nbsp;новостями можно
+            в&nbsp;телеграм-канале
             <br />
-            До встречи в эфире!
+            До&nbsp;встречи в&nbsp;эфире!
           </p>
         </mj-text>
 
@@ -212,7 +213,7 @@
           >
             <img
               src="img/4/foot.png"
-              alt="До встречи через час"
+              alt="До&nbsp;встречи через&nbsp;час"
               style="
                 display: block;
                 width: 100%;
