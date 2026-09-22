@@ -1,0 +1,203 @@
+<mjml>
+  <mj-head>
+    <mj-title>Неделя до&nbsp;«Я про&nbsp;бэкенд»</mj-title>
+    <mj-preview
+      >До&nbsp;конференции «Я про&nbsp;бэкенд» осталась неделя</mj-preview
+    >
+  </mj-head>
+  <mj-body
+    background-color="#020201"
+    width="600px"
+  >
+    <mj-section
+      background-color="#020201"
+      padding="15px 30px 0"
+    >
+      <mj-column padding="0">
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
+          <div
+            style="
+              background-color: #1a1c1e;
+              background-image: url(img/5/hero-bg.jpg);
+              background-position: center center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              border-radius: 30px;
+              box-sizing: border-box;
+              overflow: hidden;
+              padding: 20px 20px 13px;
+              text-align: center;
+            "
+          >
+            <img
+              src="img/content-top.png"
+              alt="Я про&nbsp;бэкенд"
+              style="
+                display: block;
+                width: 100%;
+                max-width: 330px;
+                height: auto;
+                margin: 0 auto;
+              "
+            />
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="24px 15px 0"
+    >
+      <mj-column
+        width="500px"
+        padding="0"
+      >
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 8px"
+        >
+          <p style="margin: 0 0 21px 0">Привет!</p>
+          <p style="margin: 0 0 21px 0">
+            <span
+              style="color: #ffd471; font-weight: bold; text-decoration: none"
+              >«Я&nbsp;про&nbsp;бэкенд»
+            </span>
+            завершилась, но&nbsp;нам&nbsp;важно узнать, какие впечатления
+            она&nbsp;оставила.
+          </p>
+          <p style="margin: 0 0 24px 0">
+            Пожалуйста, пройдите короткий опрос. Расскажите, какие доклады
+            и&nbsp;форматы вам&nbsp;понравились, а&nbsp;чего не&nbsp;хватило.
+            Ваши ответы помогут нам&nbsp;сделать следующую конференцию
+            ещё&nbsp;полезнее.
+          </p>
+        </mj-text>
+
+        <mj-button
+          href="https://events.yandex.ru/events/yaprobackend/"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="12px 12px"
+          width="328px"
+          align="center"
+          padding="0"
+        >
+          Пройти опрос
+        </mj-button>
+
+        <mj-button
+          href="https://events.yandex.ru/events/yaprobackend/"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="12px 12px"
+          width="328px"
+          align="center"
+          padding="20px 0 0"
+        >
+          Посмотреть программу конференции
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="32px 15px 0"
+    >
+      <mj-column padding="0">
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
+          <div
+            style="
+              background-color: #1a1c1e;
+              background-image: url(img/5/foot-bg.jpg);
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              border-radius: 24px;
+              overflow: hidden;
+              padding: 28px 32px 24px;
+            "
+          >
+            <img
+              src="img/5/foot.png"
+              alt="Спасибо, что&nbsp;были с&nbsp;нами!"
+              style="
+                display: block;
+                width: 100%;
+                max-width: 425px;
+                height: auto;
+              "
+            />
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="11px 15px 0"
+    >
+      <mj-column
+        width="442px"
+        padding="0"
+      >
+        <mj-text
+          align="center"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="12px"
+          line-height="1.2"
+          color="#c7c7c7"
+          padding="0"
+        >
+          Если вы больше не хотите получать новости Яндекс Мероприятий, вы
+          можете
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от&nbsp;анонсов мероприятий</a
+          >
+          или&nbsp;
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от&nbsp;всего</a
+          >.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="45px 15px 24px"
+    >
+      <mj-column padding="0">
+        <mj-image
+          src="img/tg-logo.png"
+          alt="Telegram"
+          width="32px"
+          padding="0"
+          href="https://t.me/yaprobackend"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
