@@ -1,7 +1,9 @@
 <mjml>
   <mj-head>
     <mj-title>Неделя до&nbsp;«Я про&nbsp;бэкенд»</mj-title>
-    <mj-preview>До&nbsp;конференции «Я про&nbsp;бэкенд» осталась неделя</mj-preview>
+    <mj-preview
+      >До&nbsp;конференции «Я про&nbsp;бэкенд» осталась неделя</mj-preview
+    >
   </mj-head>
   <mj-body
     background-color="#020201"
@@ -72,9 +74,9 @@
           </p>
           <p style="margin: 0 0 24px 0">
             Пожалуйста, пройдите короткий опрос и&nbsp;расскажите, что&nbsp;вам
-            понравилось в&nbsp;трансляции, а&nbsp;что&nbsp;можно улучшить. Это займёт
-            всего пару минут, а&nbsp;нам поможет сделать следующий эфир удобнее
-            и&nbsp;полезнее.
+            понравилось в&nbsp;трансляции, а&nbsp;что&nbsp;можно улучшить. Это
+            займёт всего пару минут, а&nbsp;нам поможет сделать следующий эфир
+            удобнее и&nbsp;полезнее.
           </p>
         </mj-text>
 
@@ -95,7 +97,7 @@
         </mj-button>
 
         <mj-button
-          href="https://events.yandex.ru/events/yaprobackend/"
+          href="https://events.yandex.ru/events/yaprobackend"
           background-color="#ffd471"
           color="#000000"
           font-family="Arial, Helvetica, sans-serif"
