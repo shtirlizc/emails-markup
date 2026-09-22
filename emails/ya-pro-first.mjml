@@ -176,10 +176,10 @@
               alt="До встречи на Я про бэкенд"
               style="
                 display: block;
-                width: 48.6%;
+                width: 65%;
                 max-width: 277px;
                 height: auto;
-                margin: 17px 0 0 35px;
+                margin: 17px 0 0 5.5%;
               "
             />
           </div>
