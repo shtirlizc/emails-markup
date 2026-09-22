@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Неделя до «Я про бэкенд»</mj-title>
-    <mj-preview>До конференции «Я про бэкенд» осталась неделя</mj-preview>
+    <mj-title>Неделя до&nbsp;«Я про&nbsp;бэкенд»</mj-title>
+    <mj-preview>До&nbsp;конференции «Я про&nbsp;бэкенд» осталась неделя</mj-preview>
   </mj-head>
   <mj-body
     background-color="#020201"
@@ -33,7 +33,7 @@
           >
             <img
               src="img/content-top.png"
-              alt="Я про бэкенд"
+              alt="Я про&nbsp;бэкенд"
               style="
                 display: block;
                 width: 100%;
@@ -66,14 +66,15 @@
           <p style="margin: 0 0 21px 0">
             <span
               style="color: #ffd471; font-weight: bold; text-decoration: none"
-              >Спасибо, что смотрели
+              >Спасибо, что&nbsp;смотрели
             </span>
-            «Я про бэкенд» онлайн.
+            «Я про&nbsp;бэкенд» онлайн.
           </p>
           <p style="margin: 0 0 24px 0">
-            Пожалуйста, пройдите короткий опрос и расскажите, что вам
-            понравилось в трансляции, а что можно улучшить. Это займёт всего
-            пару минут, а нам поможет сделать следующий эфир удобнее и полезнее.
+            Пожалуйста, пройдите короткий опрос и&nbsp;расскажите, что&nbsp;вам
+            понравилось в&nbsp;трансляции, а&nbsp;что&nbsp;можно улучшить. Это займёт
+            всего пару минут, а&nbsp;нам поможет сделать следующий эфир удобнее
+            и&nbsp;полезнее.
           </p>
         </mj-text>
 
@@ -135,7 +136,7 @@
           >
             <img
               src="img/6/foot.png"
-              alt="Спасибо за обратную связь!"
+              alt="Спасибо за&nbsp;обратную связь!"
               style="
                 display: block;
                 width: 100%;
@@ -169,13 +170,13 @@
           <a
             href="https://Message.TopicUnsubscribeLink"
             style="color: #c7c7c7; text-decoration: underline"
-            >отписаться от анонсов мероприятий</a
+            >отписаться от&nbsp;анонсов мероприятий</a
           >
-          или
+          или&nbsp;
           <a
             href="https://Message.TopicUnsubscribeLink"
             style="color: #c7c7c7; text-decoration: underline"
-            >отписаться от всего</a
+            >отписаться от&nbsp;всего</a
           >.
         </mj-text>
       </mj-column>

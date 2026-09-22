@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Неделя до «Я про бэкенд»</mj-title>
-    <mj-preview>До конференции «Я про бэкенд» осталась неделя</mj-preview>
+    <mj-title>Неделя до&nbsp;«Я про&nbsp;бэкенд»</mj-title>
+    <mj-preview>До&nbsp;конференции «Я про&nbsp;бэкенд» осталась неделя</mj-preview>
   </mj-head>
   <mj-body
     background-color="#020201"
@@ -41,7 +41,7 @@
           >
             <img
               src="img/content-top.png"
-              alt="Я про бэкенд"
+              alt="Я про&nbsp;бэкенд"
               style="
                 display: block;
                 width: 100%;
@@ -72,18 +72,19 @@
         >
           <p style="margin: 0 0 24px 0">Привет!</p>
           <p style="margin: 0 0 24px 0">
-            До конференции
+            До&nbsp;конференции
             <a
               href="https://events.yandex.ru/events/yaprobackend/"
               style="color: #ffd471; font-weight: bold; text-decoration: none"
-              >«Я про бэкенд»</a
+              >«Я про&nbsp;бэкенд»</a
             >
-            осталась неделя. Уже скоро встретимся, чтобы поговорить о
-            высоконагруженных системах, инфраструктуре для AI, обработке данных
-            и других вызовах современной бэкенд-разработки
+            осталась неделя. Уже скоро встретимся, чтобы поговорить
+            о&nbsp;высоконагруженных системах, инфраструктуре для&nbsp;AI,
+            обработке данных и&nbsp;других вызовах современной
+            бэкенд-разработки
           </p>
           <p style="margin: 0 0 24px 0">
-            Знакомьтесь со спикерами и докладами в
+            Знакомьтесь со&nbsp;спикерами и&nbsp;докладами в&nbsp;
             <a
               href="https://events.yandex.ru/events/yaprobackend/"
               style="color: #0591ab; text-decoration: underline"
@@ -91,9 +92,10 @@
             >.
           </p>
           <p style="margin: 0">
-            Пожалуйста, возьмите с собой паспорт или водительское удостоверение
-            и билет из письма с приглашением. Распечатывать билет необязательно
-            — достаточно показать его на телефоне.
+            Пожалуйста, возьмите с&nbsp;собой паспорт или&nbsp;водительское
+            удостоверение и&nbsp;билет из&nbsp;письма с&nbsp;приглашением.
+            Распечатывать билет необязательно — достаточно показать его
+            на&nbsp;телефоне.
           </p>
         </mj-text>
 
@@ -119,7 +121,7 @@
           color="#c7c7c7"
           padding="0 0 32px"
         >
-          Новости и анонсы конференции публикуем в
+          Новости и&nbsp;анонсы конференции публикуем в&nbsp;
           <a
             href="https://t.me/yaprobackend"
             style="color: #0591ab; text-decoration: underline"
@@ -172,7 +174,7 @@
           >
             <img
               src="img/content-bottom.png"
-              alt="До встречи на Я про бэкенд"
+              alt="До&nbsp;встречи на&nbsp;Я про&nbsp;бэкенд"
               style="
                 display: block;
                 width: 65%;
@@ -207,13 +209,13 @@
           <a
             href="https://Message.TopicUnsubscribeLink"
             style="color: #c7c7c7; text-decoration: underline"
-            >отписаться от анонсов мероприятий</a
+            >отписаться от&nbsp;анонсов мероприятий</a
           >
-          или
+          или&nbsp;
           <a
             href="https://Message.TopicUnsubscribeLink"
             style="color: #c7c7c7; text-decoration: underline"
-            >отписаться от всего</a
+            >отписаться от&nbsp;всего</a
           >.
         </mj-text>
       </mj-column>
