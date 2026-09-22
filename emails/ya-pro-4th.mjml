@@ -22,7 +22,7 @@
           <div
             style="
               background-color: #1a1c1e;
-              background-image: url(img/4/hero-bg.jpg);
+              background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/4/hero-bg.jpg);
               background-position: center center;
               background-repeat: no-repeat;
               background-size: cover;
@@ -34,7 +34,7 @@
             "
           >
             <img
-              src="img/content-top.png"
+              src="https://storage.yandexcloud.net/team-hh-email/backend/content-top.png"
               alt="Я про&nbsp;бэкенд"
               style="
                 display: block;
@@ -203,7 +203,7 @@
           <div
             style="
               background-color: #1a1c1e;
-              background-image: url(img/4/foot-bg.jpg);
+              background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/4/foot-bg.jpg);
               background-position: center;
               background-repeat: no-repeat;
               background-size: cover;
@@ -213,7 +213,7 @@
             "
           >
             <img
-              src="img/4/foot.png"
+              src="https://storage.yandexcloud.net/team-hh-email/backend/4/foot.png"
               alt="До&nbsp;встречи через&nbsp;час"
               style="
                 display: block;
@@ -266,7 +266,7 @@
     >
       <mj-column padding="0">
         <mj-image
-          src="img/tg-logo.png"
+          src="https://storage.yandexcloud.net/team-hh-email/backend/tg-logo.png"
           alt="Telegram"
           width="32px"
           padding="0"

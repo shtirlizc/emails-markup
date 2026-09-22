@@ -21,8 +21,8 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(img/2/left-top.png), url(img/2/right-top.png),
-                url(img/bg-top.jpg);
+                url(https://storage.yandexcloud.net/team-hh-email/backend/2/left-top.png), url(https://storage.yandexcloud.net/team-hh-email/backend/2/right-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/bg-top.jpg);
               background-position:
                 left center,
                 right center,
@@ -41,7 +41,7 @@
             "
           >
             <img
-              src="img/content-top.png"
+              src="https://storage.yandexcloud.net/team-hh-email/backend/content-top.png"
               alt="Я про бэкенд"
               style="
                 display: block;
@@ -154,8 +154,8 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(img/2/left-bottom.png), url(img/2/right-bottom.png),
-                url(img/bg-bottom.jpg);
+                url(https://storage.yandexcloud.net/team-hh-email/backend/2/left-bottom.png), url(https://storage.yandexcloud.net/team-hh-email/backend/2/right-bottom.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/bg-bottom.jpg);
               background-position:
                 left center,
                 right center,
@@ -172,7 +172,7 @@
             "
           >
             <img
-              src="img/2/content-bottom.png"
+              src="https://storage.yandexcloud.net/team-hh-email/backend/2/content-bottom.png"
               alt="До встречи на Я про бэкенд"
               style="
                 display: inline-block;
@@ -227,7 +227,7 @@
     >
       <mj-column padding="0">
         <mj-image
-          src="img/tg-logo.png"
+          src="https://storage.yandexcloud.net/team-hh-email/backend/tg-logo.png"
           alt="Telegram"
           width="32px"
           padding="0"

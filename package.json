@@ -4,7 +4,7 @@
   "private": true,
   "description": "Email templates compiled from MJML",
   "scripts": {
-    "email:build": "mkdir -p emails/dist && mjml emails/*.mjml -o emails/dist --config.minify true && cp -R emails/img emails/dist/",
+    "email:build": "mkdir -p emails/dist && mjml emails/*.mjml -o emails/dist --config.minify true",
     "pages:build": "npm run email:build && cp emails/dist/main.html emails/dist/index.html && touch emails/dist/.nojekyll",
     "email:watch": "mkdir -p emails/dist && mjml --watch emails/*.mjml -o emails/dist",
     "email:serve": "vite",
