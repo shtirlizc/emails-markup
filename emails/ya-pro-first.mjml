@@ -1,75 +1,198 @@
 <mjml>
   <mj-head>
-    <mj-preview>
-      <!-- TODO Add mail preview -->
-    </mj-preview>
+    <mj-title>Неделя до «Я про бэкенд»</mj-title>
+    <mj-preview>До конференции «Я про бэкенд» осталась неделя</mj-preview>
   </mj-head>
-  <mj-body>
-    <mj-raw>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          padding: 24px;
-          background-color: #020201;
-          color: #c7c7c7;
-        "
-      >
-        <div
-          style="
-            background-image: url(../img/background-top.jpg);
-            background-repeat: no-repeat;
-            border-radius: 30px;
-          "
-        >
+  <mj-body
+    background-color="#020201"
+    width="600px"
+  >
+    <mj-section
+      background-color="#020201"
+      background-url="../img/background-top.jpg"
+      background-repeat="no-repeat"
+      background-position="center 15px"
+      background-size="95% 160px"
+      border-radius="30px"
+      padding="15px 15px 0"
+    >
+      <mj-column padding="0 0 13px">
+        <mj-raw>
           <img
             src="../img/content-top.png"
-            alt="first-top"
-            style="display: block; max-width: 100%; height: auto"
+            alt="Я про бэкенд"
+            style="
+              display: block;
+              width: 61.5%;
+              max-width: 350px;
+              height: auto;
+              margin: 13px auto 0;
+            "
           />
-        </div>
-        <div>
-          <p>
-            Привет!  До конференции «Я про бэкенд» осталась неделя. Уже скоро
-            встретимся, чтобы поговорить о высоконагруженных системах,
-            инфраструктуре для AI, обработке данных и других вызовах современной
-            бэкенд-разработки  Знакомьтесь со спикерами и докладами в программе
-            конференции.  Пожалуйста, возьмите с собой паспорт или водительское
-            удостоверение и билет из письма с приглашением. Распечатывать билет
-            необязательно — достаточно показать его на телефоне.
-          </p>
-          <p>Адрес: Сonnect, г. Москва, 5-ий Донской проезд, 17.</p>
-          <p>Новости и анонсы конференции публикуем в телеграм-канале.</p>
-        </div>
-        <div style="background-color: #ffd471">
-          <span style="color: #000000">Посмотреть программу конференции</span>
-        </div>
-        <div
-          style="
-            background-image: url(../img/background-bottom.jpg);
-            background-repeat: no-repeat;
-            border-radius: 30px;
-          "
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="24px 15px 0"
+    >
+      <mj-column
+        width="500px"
+        padding="0"
+      >
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 32px"
         >
+          <p style="margin: 0 0 24px 0">Привет!</p>
+          <p style="margin: 0 0 24px 0">
+            До конференции
+            <a
+              href="https://events.yandex.ru/events/yaprobackend/"
+              style="color: #ffd471; font-weight: bold; text-decoration: none"
+              >«Я про бэкенд»</a
+            >
+            осталась неделя. Уже скоро встретимся, чтобы поговорить о
+            высоконагруженных системах, инфраструктуре для AI, обработке данных
+            и других вызовах современной бэкенд-разработки
+          </p>
+          <p style="margin: 0 0 24px 0">
+            Знакомьтесь со спикерами и докладами в
+            <a
+              href="https://events.yandex.ru/events/yaprobackend/"
+              style="color: #0591ab; text-decoration: underline"
+              >программе конференции</a
+            >.
+          </p>
+          <p style="margin: 0">
+            Пожалуйста, возьмите с собой паспорт или водительское удостоверение
+            и билет из письма с приглашением. Распечатывать билет необязательно
+            — достаточно показать его на телефоне.
+          </p>
+        </mj-text>
+
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 32px"
+        >
+          <strong>Адрес:</strong>
+          <a
+            href="https://yandex.ru/maps/-/CTx3e28U"
+            style="color: #0591ab; text-decoration: underline"
+            >Сonnect</a
+          >, г. Москва, 5-ий Донской проезд, 17.
+        </mj-text>
+
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 32px"
+        >
+          Новости и анонсы конференции публикуем в
+          <a
+            href="https://t.me/yaprobackend"
+            style="color: #0591ab; text-decoration: underline"
+            >телеграм-канале</a
+          >.
+        </mj-text>
+
+        <mj-button
+          href="https://events.yandex.ru/events/yaprobackend/"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="10px 36px"
+          padding="0"
+        >
+          Посмотреть программу конференции
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      background-url="../img/background-bottom.jpg"
+      background-repeat="no-repeat"
+      background-position="center 32px"
+      background-size="95% 71px"
+      border-radius="30px"
+      padding="32px 15px 0"
+    >
+      <mj-column padding="0 0 13px">
+        <mj-raw>
           <img
             src="../img/content-bottom.png"
-            alt="first-bottom"
-            style="display: block; max-width: 100%; height: auto">
-          </img>
-        </div>
-        <span
-        >Если вы больше не хотите получать новости Яндекс Мероприятий, вы
-          можете отписаться от анонсов мероприятий или отписаться от
-          всего.  </span
-        >
-        <a>
-          <img
-            src="../img/tg-logo.png"
-            alt="first-top"
-            style="display: block; width: 32px; height: 32px"
+            alt="До встречи на Я про бэкенд"
+            style="
+              display: block;
+              width: 48.6%;
+              max-width: 277px;
+              height: auto;
+              margin: 17px 0 0 35px;
+            "
           />
-        </a>
-      </div>
-    </mj-raw>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="11px 15px 0"
+    >
+      <mj-column
+        width="442px"
+        padding="0"
+      >
+        <mj-text
+          align="center"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="12px"
+          line-height="1.2"
+          color="#c7c7c7"
+          padding="0"
+        >
+          Если вы больше не хотите получать новости Яндекс Мероприятий, вы
+          можете
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от анонсов мероприятий</a
+          >
+          или
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от всего</a
+          >.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="45px 15px 24px"
+    >
+      <mj-column padding="0">
+        <mj-image
+          src="../img/tg-logo.png"
+          alt="Telegram"
+          width="32px"
+          padding="0"
+          href="https://t.me/yaprobackend"
+        />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
