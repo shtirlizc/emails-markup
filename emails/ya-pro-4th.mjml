@@ -11,7 +11,7 @@
   >
     <mj-section
       background-color="#020201"
-      padding="15px 30px 0"
+      padding="15px 16px 0"
     >
       <mj-column padding="0">
         <mj-text
@@ -68,8 +68,7 @@
           <p style="margin: 0 0 21px 0">
             До&nbsp;начала «Я про&nbsp;бэкенд» остался час.
             <br />
-            Стартуем в&nbsp;
-            <span
+            Стартуем в&nbsp;<span
               style="color: #ffd471; font-weight: bold; text-decoration: none"
               >12:00
             </span>
@@ -82,70 +81,72 @@
 
     <mj-section
       background-color="#020201"
-      padding="0 50px"
+      padding="0 16px"
     >
-      <mj-column
-        width="33.333%"
-        padding="0 13px 0 0"
-      >
-        <mj-button
-          href="#"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="9px 12px"
-          width="100%"
-          align="center"
-          padding="0"
+      <mj-group width="500px">
+        <mj-column
+          width="33.333%"
+          padding="0 13px 0 0"
         >
-          Трек 1
-        </mj-button>
-      </mj-column>
+          <mj-button
+            href="#"
+            background-color="#ffd471"
+            color="#000000"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="16px"
+            line-height="1.5"
+            border-radius="10px"
+            inner-padding="9px 12px"
+            width="100%"
+            align="center"
+            padding="0"
+          >
+            Трек 1
+          </mj-button>
+        </mj-column>
 
-      <mj-column
-        width="33.333%"
-        padding="0 7px"
-      >
-        <mj-button
-          href="#"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="9px 12px"
-          width="100%"
-          align="center"
-          padding="0"
+        <mj-column
+          width="33.333%"
+          padding="0 7px"
         >
-          Трек 2
-        </mj-button>
-      </mj-column>
+          <mj-button
+            href="#"
+            background-color="#ffd471"
+            color="#000000"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="16px"
+            line-height="1.5"
+            border-radius="10px"
+            inner-padding="9px 12px"
+            width="100%"
+            align="center"
+            padding="0"
+          >
+            Трек 2
+          </mj-button>
+        </mj-column>
 
-      <mj-column
-        width="33.333%"
-        padding="0 0 0 13px"
-      >
-        <mj-button
-          href="#"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="9px 12px"
-          width="100%"
-          align="center"
-          padding="0"
+        <mj-column
+          width="33.333%"
+          padding="0 0 0 13px"
         >
-          Трек 3
-        </mj-button>
-      </mj-column>
+          <mj-button
+            href="#"
+            background-color="#ffd471"
+            color="#000000"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="16px"
+            line-height="1.5"
+            border-radius="10px"
+            inner-padding="9px 12px"
+            width="100%"
+            align="center"
+            padding="0"
+          >
+            Трек 3
+          </mj-button>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-section
@@ -191,7 +192,7 @@
 
     <mj-section
       background-color="#020201"
-      padding="32px 15px 0"
+      padding="32px 16px 0"
     >
       <mj-column padding="0">
         <mj-text
