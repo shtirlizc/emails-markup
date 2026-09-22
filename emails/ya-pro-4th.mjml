@@ -66,18 +66,107 @@
         >
           <p style="margin: 0 0 21px 0">Привет!</p>
           <p style="margin: 0 0 21px 0">
+            До начала «Я про бэкенд» остался час.
+            <br />
+            Стартуем в
             <span
               style="color: #ffd471; font-weight: bold; text-decoration: none"
-              >«Я&nbsp;про&nbsp;бэкенд»
+              >12:00
             </span>
-            завершилась, но&nbsp;нам&nbsp;важно узнать, какие впечатления
-            она&nbsp;оставила.
+            по московскому времени.
           </p>
-          <p style="margin: 0 0 24px 0">
-            Пожалуйста, пройдите короткий опрос. Расскажите, какие доклады
-            и&nbsp;форматы вам&nbsp;понравились, а&nbsp;чего не&nbsp;хватило.
-            Ваши ответы помогут нам&nbsp;сделать следующую конференцию
-            ещё&nbsp;полезнее.
+          <p style="margin: 0 0 12px 0">Ссылки на трансляции:</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0 50px"
+    >
+      <mj-column
+        width="33.333%"
+        padding="0 13px 0 0"
+      >
+        <mj-button
+          href="#"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="9px 12px"
+          width="100%"
+          align="center"
+          padding="0"
+        >
+          Трек 1
+        </mj-button>
+      </mj-column>
+
+      <mj-column
+        width="33.333%"
+        padding="0 7px"
+      >
+        <mj-button
+          href="#"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="9px 12px"
+          width="100%"
+          align="center"
+          padding="0"
+        >
+          Трек 2
+        </mj-button>
+      </mj-column>
+
+      <mj-column
+        width="33.333%"
+        padding="0 0 0 13px"
+      >
+        <mj-button
+          href="#"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="9px 12px"
+          width="100%"
+          align="center"
+          padding="0"
+        >
+          Трек 3
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0 15px"
+    >
+      <mj-column
+        width="500px"
+        padding="0"
+      >
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 8px"
+        >
+          <p style="margin: 19px 0 24px 0">
+            Обсуждать доклады и следить за новостями можно в телеграм-канале
+            <br />
+            До встречи в эфире!
           </p>
         </mj-text>
 
@@ -93,22 +182,6 @@
           width="328px"
           align="center"
           padding="0"
-        >
-          Пройти опрос
-        </mj-button>
-
-        <mj-button
-          href="https://events.yandex.ru/events/yaprobackend/"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="12px 12px"
-          width="328px"
-          align="center"
-          padding="20px 0 0"
         >
           Посмотреть программу конференции
         </mj-button>
