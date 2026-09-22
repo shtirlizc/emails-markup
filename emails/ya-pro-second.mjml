@@ -21,7 +21,7 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(img2/left-top.png), url(img2/right-top.png),
+                url(img/2/left-top.png), url(img/2/right-top.png),
                 url(img/bg-top.jpg);
               background-position:
                 left center,
@@ -156,7 +156,7 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(img2/left-bottom.png), url(img2/right-bottom.png),
+                url(img/2/left-bottom.png), url(img/2/right-bottom.png),
                 url(img/bg-bottom.jpg);
               background-position:
                 left center,
@@ -174,7 +174,7 @@
             "
           >
             <img
-              src="img2/content-bottom.png"
+              src="img/2/content-bottom.png"
               alt="До встречи на Я про бэкенд"
               style="
                 display: inline-block;
