@@ -12,14 +12,32 @@
       padding="15px 15px 0"
     >
       <mj-column padding="0">
-        <mj-raw>
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
           <div
             style="
-              background: #1a1c1e url(../img/background-top.jpg) center center /
-                cover no-repeat;
+              background-color: #1a1c1e;
+              background-image:
+                url(../img/left.png), url(../img/right.png),
+                url(../img/bg-top.jpg);
+              background-position:
+                left center,
+                right center,
+                center center;
+              background-repeat: no-repeat;
+              background-size:
+                auto 100%,
+                auto 100%,
+                cover;
               border-radius: 30px;
+              box-sizing: border-box;
               height: 160px;
               overflow: hidden;
+              padding: 0 20px;
+              text-align: center;
             "
           >
             <img
@@ -27,14 +45,14 @@
               alt="Я про бэкенд"
               style="
                 display: block;
-                width: 61.5%;
-                max-width: 350px;
+                width: 100%;
+                max-width: 330px;
                 height: auto;
-                margin: 13px auto 0;
+                margin: 20px auto 0;
               "
             />
           </div>
-        </mj-raw>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -119,7 +137,7 @@
           line-height="1.5"
           border-radius="10px"
           inner-padding="10px 34px"
-          padding="0s"
+          padding="0"
         >
           Посмотреть программу конференции
         </mj-button>
@@ -131,11 +149,23 @@
       padding="32px 15px 0"
     >
       <mj-column padding="0">
-        <mj-raw>
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
           <div
             style="
-              background: #1a1c1e url(../img/background-bottom.jpg) center
-                center / cover no-repeat;
+              background-color: #1a1c1e;
+              background-image:
+                url(../img/right-bottom.png), url(../img/bg-bottom.jpg);
+              background-position:
+                right center,
+                center center;
+              background-repeat: no-repeat;
+              background-size:
+                auto 100%,
+                cover;
               border-radius: 30px;
               height: 71px;
               overflow: hidden;
@@ -153,7 +183,7 @@
               "
             />
           </div>
-        </mj-raw>
+        </mj-text>
       </mj-column>
     </mj-section>
 
