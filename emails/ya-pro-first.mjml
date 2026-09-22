@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-preview>
+      <!-- TODO Add mail preview -->
+    </mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          padding: 24px;
+          background-color: #020201;
+          color: #c7c7c7;
+        "
+      >
+        <div
+          style="
+            background-image: url(../img/background-top.jpg);
+            background-repeat: no-repeat;
+            border-radius: 30px;
+          "
+        >
+          <img
+            src="../img/content-top.png"
+            alt="first-top"
+            style="display: block; max-width: 100%; height: auto"
+          />
+        </div>
+        <div>
+          <p>
+            Привет!  До конференции «Я про бэкенд» осталась неделя. Уже скоро
+            встретимся, чтобы поговорить о высоконагруженных системах,
+            инфраструктуре для AI, обработке данных и других вызовах современной
+            бэкенд-разработки  Знакомьтесь со спикерами и докладами в программе
+            конференции.  Пожалуйста, возьмите с собой паспорт или водительское
+            удостоверение и билет из письма с приглашением. Распечатывать билет
+            необязательно — достаточно показать его на телефоне.
+          </p>
+          <p>Адрес: Сonnect, г. Москва, 5-ий Донской проезд, 17.</p>
+          <p>Новости и анонсы конференции публикуем в телеграм-канале.</p>
+        </div>
+        <div style="background-color: #ffd471">
+          <span style="color: #000000">Посмотреть программу конференции</span>
+        </div>
+        <div
+          style="
+            background-image: url(../img/background-bottom.jpg);
+            background-repeat: no-repeat;
+            border-radius: 30px;
+          "
+        >
+          <img
+            src="../img/content-bottom.png"
+            alt="first-bottom"
+            style="display: block; max-width: 100%; height: auto">
+          </img>
+        </div>
+        <span
+        >Если вы больше не хотите получать новости Яндекс Мероприятий, вы
+          можете отписаться от анонсов мероприятий или отписаться от
+          всего.  </span
+        >
+        <a>
+          <img
+            src="../img/tg-logo.png"
+            alt="first-top"
+            style="display: block; width: 32px; height: 32px"
+          />
+        </a>
+      </div>
+    </mj-raw>
+  </mj-body>
+</mjml>

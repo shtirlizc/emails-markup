@@ -1,0 +1,13 @@
+{
+  "printWidth": 80,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "overrides": [
+    {
+      "files": "*.mjml",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
