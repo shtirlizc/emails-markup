@@ -73,8 +73,7 @@
         >
           <p style="margin: 0 0 24px 0">Привет!</p>
           <p style="margin: 0 0 24px 0">
-            «Я про бэкенд» уже завтра. Ждём вас к 
-            <span
+            «Я про бэкенд» уже завтра. Ждём вас к <span
               style="color: #ffd471; font-weight: bold; text-decoration: none"
               >11:00</span
             >
@@ -118,8 +117,7 @@
           color="#c7c7c7"
           padding="0 0 32px"
         >
-          Новости и анонсы конференции публикуем в 
-          <a
+          Новости и анонсы конференции публикуем в <a
             href="https://t.me/yaprobackend"
             style="color: #0591ab; text-decoration: underline"
             >телеграм-канале</a
