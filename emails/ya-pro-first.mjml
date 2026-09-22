@@ -9,26 +9,31 @@
   >
     <mj-section
       background-color="#020201"
-      background-url="../img/background-top.jpg"
-      background-repeat="no-repeat"
-      background-position="center 15px"
-      background-size="95% 160px"
-      border-radius="30px"
       padding="15px 15px 0"
     >
-      <mj-column padding="0 0 13px">
+      <mj-column padding="0">
         <mj-raw>
-          <img
-            src="../img/content-top.png"
-            alt="Я про бэкенд"
+          <div
             style="
-              display: block;
-              width: 61.5%;
-              max-width: 350px;
-              height: auto;
-              margin: 13px auto 0;
+              background: #1a1c1e url(../img/background-top.jpg) center center /
+                cover no-repeat;
+              border-radius: 30px;
+              height: 160px;
+              overflow: hidden;
             "
-          />
+          >
+            <img
+              src="../img/content-top.png"
+              alt="Я про бэкенд"
+              style="
+                display: block;
+                width: 61.5%;
+                max-width: 350px;
+                height: auto;
+                margin: 13px auto 0;
+              "
+            />
+          </div>
         </mj-raw>
       </mj-column>
     </mj-section>
@@ -80,7 +85,7 @@
           font-size="14px"
           line-height="1.5"
           color="#c7c7c7"
-          padding="0 0 32px"
+          padding="0 0 25px"
         >
           <strong>Адрес:</strong>
           <a
@@ -113,8 +118,8 @@
           font-size="16px"
           line-height="1.5"
           border-radius="10px"
-          inner-padding="10px 36px"
-          padding="0"
+          inner-padding="10px 34px"
+          padding="0s"
         >
           Посмотреть программу конференции
         </mj-button>
@@ -123,26 +128,31 @@
 
     <mj-section
       background-color="#020201"
-      background-url="../img/background-bottom.jpg"
-      background-repeat="no-repeat"
-      background-position="center 32px"
-      background-size="95% 71px"
-      border-radius="30px"
       padding="32px 15px 0"
     >
-      <mj-column padding="0 0 13px">
+      <mj-column padding="0">
         <mj-raw>
-          <img
-            src="../img/content-bottom.png"
-            alt="До встречи на Я про бэкенд"
+          <div
             style="
-              display: block;
-              width: 48.6%;
-              max-width: 277px;
-              height: auto;
-              margin: 17px 0 0 35px;
+              background: #1a1c1e url(../img/background-bottom.jpg) center
+                center / cover no-repeat;
+              border-radius: 30px;
+              height: 71px;
+              overflow: hidden;
             "
-          />
+          >
+            <img
+              src="../img/content-bottom.png"
+              alt="До встречи на Я про бэкенд"
+              style="
+                display: block;
+                width: 48.6%;
+                max-width: 277px;
+                height: auto;
+                margin: 17px 0 0 35px;
+              "
+            />
+          </div>
         </mj-raw>
       </mj-column>
     </mj-section>
