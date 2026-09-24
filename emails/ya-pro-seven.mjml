@@ -1,0 +1,598 @@
+<mjml>
+  <mj-head>
+    <mj-title>«Я про&nbsp;бэкенд»</mj-title>
+    <mj-preview>Конференции «Я про&nbsp;бэкенд»</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body
+    background-color="#020201"
+    width="600px"
+  >
+    <mj-section
+      background-color="#020201"
+      padding="32px 16px"
+    >
+      <mj-column padding="0">
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
+          <div
+            style="
+              background-color: #1a1c1e;
+              background-image:
+                url(../img7/left-top.png), url(../img7/right-top.png),
+                url(../img7/bg-top.jpg);
+              background-position:
+                left center,
+                right center,
+                center center;
+              background-repeat: no-repeat;
+              background-size:
+                auto 100%,
+                auto 100%,
+                cover;
+              border-radius: 24px;
+              box-sizing: border-box;
+              height: 160px;
+              overflow: hidden;
+              padding: 0 20px;
+              text-align: center;
+            "
+          >
+            <img
+              src="../img7/content-top.png"
+              alt="Я про&nbsp;бэкенд"
+              style="
+                display: block;
+                width: 100%;
+                max-width: 330px;
+                height: auto;
+                margin: 20px auto 0;
+              "
+            />
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0 15px 0"
+    >
+      <mj-column
+        width="500px"
+        padding="0"
+      >
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0"
+        >
+          <p style="margin: 0 0 24px 0">Привет!</p>
+          <p style="margin: 0 0 24px 0">
+            Если откладывали регистрацию на 
+            <a
+              href="https://events.yandex.ru/events/yaprobackend/"
+              style="color: #ffd471; font-weight: bold; text-decoration: none"
+              >«Я про бэкенд»</a
+            >, сейчас самое время к ней вернуться. Принимаем заявки
+            <span
+              style="color: #ffd471; font-weight: bold; text-decoration: none"
+              >до 1 октября.</span
+            >
+          </p>
+          <p style="margin: 0 0 24px 0">
+            Встретимся
+            <span
+              style="color: #ffd471; font-weight: bold; text-decoration: none"
+              >3 октября в Москве и онлайн</span
+            >, в программе:
+          </p>
+        </mj-text>
+
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0"
+        >
+          <div
+            style="
+              font-family: Arial, sans-serif;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 100%;
+              letter-spacing: 0;
+              margin-bottom: 12px;
+            "
+          >
+            DOOM не должен запускаться внутри eBPF. Но вечер был слишком
+            свободным
+          </div>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                width="120"
+                valign="top"
+                bgcolor="#1a1c1e"
+                background="../img7/bg-top.jpg"
+                style="
+                  width: 120px;
+                  height: 120px;
+                  padding: 0;
+                  overflow: hidden;
+                  border-radius: 9px;
+                  background-color: #1a1c1e;
+                  background-image: url(../img7/bg-top.jpg);
+                  background-position: left center;
+                  background-size: auto 100%;
+                "
+              >
+                <img
+                  src="../img7/photo.png"
+                  alt="Александр Селезнёв"
+                  width="120"
+                  height="120"
+                  style="display: block; width: 120px; height: 120px; border: 0"
+                />
+              </td>
+              <td
+                width="12"
+                style="width: 12px; font-size: 0; line-height: 0"
+              >
+                &nbsp;
+              </td>
+              <td
+                valign="top"
+                style="padding: 0"
+              >
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      bgcolor="#003b46"
+                      style="
+                        padding: 4px 8px;
+                        border-radius: 4px;
+                        font-family: Arial, sans-serif;
+                        font-size: 14px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 150%;
+                        letter-spacing: 0;
+                        font-variant-numeric: lining-nums proportional-nums;
+                        color: #ccd8da;
+                      "
+                    >
+                      Александр Селезнёв
+                    </td>
+                  </tr>
+                </table>
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 8px 0 0;
+                        color: #858585;
+                        font-family: Arial, sans-serif;
+                        font-size: 12px;
+                        font-weight: bold;
+                        line-height: 1.2;
+                      "
+                    >
+                      Руководитель группы Perforator<br />Поиск с&nbsp;Алисой AI
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <p style="margin: 20px 0 0 0">
+            Александр расскажет про свой проект BPF Capsule. Это компилятор
+            и среда исполнения для кода на C/C++/Rust внутри обычного BPF:
+            без патчей ядра и без отдельной виртуальной машины
+            в пользовательском процессе.
+          </p>
+        </mj-text>
+
+        <mj-divider
+          border-color="#393939"
+          border-width="1px"
+          padding="20px 0"
+        />
+
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0"
+        >
+          <div
+            style="
+              font-family: Arial, sans-serif;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 100%;
+              letter-spacing: 0;
+              margin-bottom: 12px;
+            "
+          >
+            Что в чёрном ящике? Как надёжно упаковывать терабайты данных
+            под капотом автономного транспорта
+          </div>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                width="120"
+                valign="top"
+                bgcolor="#1a1c1e"
+                background="../img7/bg-top.jpg"
+                style="
+                  width: 120px;
+                  height: 120px;
+                  padding: 0;
+                  overflow: hidden;
+                  border-radius: 9px;
+                  background-color: #1a1c1e;
+                  background-image: url(../img7/bg-top.jpg);
+                  background-position: left center;
+                  background-size: auto 100%;
+                "
+              >
+                <img
+                  src="../img7/photo2.png"
+                  alt="Максим Антонов"
+                  width="120"
+                  height="120"
+                  style="display: block; width: 120px; height: 120px; border: 0"
+                />
+              </td>
+              <td
+                width="12"
+                style="width: 12px; font-size: 0; line-height: 0"
+              >
+                &nbsp;
+              </td>
+              <td
+                valign="top"
+                style="padding: 0"
+              >
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      bgcolor="#003b46"
+                      style="
+                        padding: 4px 8px;
+                        border-radius: 4px;
+                        font-family: Arial, sans-serif;
+                        font-size: 14px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 150%;
+                        letter-spacing: 0;
+                        font-variant-numeric: lining-nums proportional-nums;
+                        color: #ccd8da;
+                      "
+                    >
+                      Максим Антонов
+                    </td>
+                  </tr>
+                </table>
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 8px 0 0;
+                        color: #858585;
+                        font-family: Arial, sans-serif;
+                        font-size: 12px;
+                        font-weight: bold;
+                        line-height: 1.2;
+                      "
+                    >
+                      Руководитель группы поставки данных<br />Автономный
+                      транспорт и роботы
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <p style="margin: 20px 0 0 0">
+            Автономный грузовик генерирует до 1200 ГБ данных в час.
+            Максим расскажет, откуда берётся такой объём, как мы записываем
+            и обрабатываем этот поток, какие форматы используем и с какими
+            ограничениями Linux сталкиваемся на практике.
+          </p>
+        </mj-text>
+
+        <mj-divider
+          border-color="#393939"
+          border-width="1px"
+          padding="20px 0"
+        />
+
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0 0 20px"
+        >
+          <div
+            style="
+              font-family: Arial, sans-serif;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 100%;
+              letter-spacing: 0;
+              margin-bottom: 12px;
+            "
+          >
+            База векторных баз
+          </div>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                width="120"
+                valign="top"
+                bgcolor="#1a1c1e"
+                background="../img7/bg-top.jpg"
+                style="
+                  width: 120px;
+                  height: 120px;
+                  padding: 0;
+                  overflow: hidden;
+                  border-radius: 9px;
+                  background-color: #1a1c1e;
+                  background-image: url(../img7/bg-top.jpg);
+                  background-position: left center;
+                  background-size: auto 100%;
+                "
+              >
+                <img
+                  src="../img7/photo3.png"
+                  alt="Андрей Аксёнов"
+                  width="120"
+                  height="120"
+                  style="display: block; width: 120px; height: 120px; border: 0"
+                />
+              </td>
+              <td
+                width="12"
+                style="width: 12px; font-size: 0; line-height: 0"
+              >
+                &nbsp;
+              </td>
+              <td
+                valign="top"
+                style="padding: 0"
+              >
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      bgcolor="#003b46"
+                      style="
+                        padding: 4px 8px;
+                        border-radius: 4px;
+                        font-family: Arial, sans-serif;
+                        font-size: 14px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 150%;
+                        letter-spacing: 0;
+                        font-variant-numeric: lining-nums proportional-nums;
+                        color: #ccd8da;
+                      "
+                    >
+                      Андрей Аксёнов
+                    </td>
+                  </tr>
+                </table>
+                <table
+                  role="presentation"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 8px 0 0;
+                        color: #858585;
+                        font-family: Arial, sans-serif;
+                        font-size: 12px;
+                        font-weight: bold;
+                        line-height: 1.2;
+                      "
+                    >
+                      Руководитель инфраструктуры поиска<br />Avito
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <p style="margin: 20px 0 0 0">
+            Выбирай, что ближе к твоим задачам, и регистрируйся. Ждём тебя!
+          </p>
+        </mj-text>
+
+        <mj-button
+          href="https://events.yandex.ru/events/yaprobackend/"
+          background-color="#ffd471"
+          color="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="1.5"
+          border-radius="10px"
+          inner-padding="10px 34px"
+          padding="0"
+          width="328px"
+        >
+          Успеть зарегистрироваться
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-spacer height="32px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0"
+    >
+      <mj-column padding="0">
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
+          <div
+            style="
+              margin: 0 15px;
+              height: 71px;
+              overflow: hidden;
+              border-radius: 24px;
+              background-color: #1a1c1e;
+              background-image: url(../img7/bg-bottom.jpg);
+              background-position: center center;
+              background-repeat: no-repeat;
+              background-size: cover;
+            "
+          >
+            <table
+              role="presentation"
+              border="0"
+              cellpadding="0"
+              cellspacing="0"
+              width="100%"
+              height="71"
+            >
+              <tr>
+                <td
+                  valign="middle"
+                  style="padding: 0 0 0 35px"
+                >
+                  <img
+                    src="../img7/content-bottom.png"
+                    alt="Ждём вас, команда Я&nbsp;про&nbsp;бэкенд"
+                    width="145"
+                    style="
+                      display: block;
+                      width: 100%;
+                      max-width: 145px;
+                      height: auto;
+                      border: 0;
+                    "
+                  />
+                </td>
+              </tr>
+            </table>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="11px 15px 0"
+    >
+      <mj-column
+        width="442px"
+        padding="0"
+      >
+        <mj-text
+          align="center"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="12px"
+          line-height="1.2"
+          color="#c7c7c7"
+          padding="0"
+        >
+          Если вы больше не хотите получать новости Яндекс Мероприятий, вы
+          можете
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от&nbsp;анонсов мероприятий</a
+          >
+          или&nbsp;
+          <a
+            href="https://Message.TopicUnsubscribeLink"
+            style="color: #c7c7c7; text-decoration: underline"
+            >отписаться от&nbsp;всего</a
+          >.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="45px 15px 24px"
+    >
+      <mj-column padding="0">
+        <mj-image
+          src="https://storage.yandexcloud.net/team-hh-email/backend/tg-logo.png"
+          alt="Telegram"
+          width="32px"
+          padding="0"
+          href="https://t.me/yaprobackend"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
