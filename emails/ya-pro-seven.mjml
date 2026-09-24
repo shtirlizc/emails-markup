@@ -24,8 +24,9 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(../img7/left-top.png), url(../img7/right-top.png),
-                url(../img7/bg-top.jpg);
+                url(https://storage.yandexcloud.net/team-hh-email/backend/7/left-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/7/right-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
               background-position:
                 left center,
                 right center,
@@ -44,7 +45,7 @@
             "
           >
             <img
-              src="../img7/content-top.png"
+              src="https://storage.yandexcloud.net/team-hh-email/backend/7/content-top.png"
               alt="Я про&nbsp;бэкенд"
               style="
                 display: block;
@@ -128,7 +129,7 @@
                 width="120"
                 valign="top"
                 bgcolor="#1a1c1e"
-                background="../img7/bg-top.jpg"
+                background="https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg"
                 style="
                   width: 120px;
                   height: 120px;
@@ -136,13 +137,13 @@
                   overflow: hidden;
                   border-radius: 9px;
                   background-color: #1a1c1e;
-                  background-image: url(../img7/bg-top.jpg);
+                  background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
                   background-position: left center;
                   background-size: auto 100%;
                 "
               >
                 <img
-                  src="../img7/photo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/7/photo.png"
                   alt="Александр Селезнёв"
                   width="120"
                   height="120"
@@ -255,7 +256,7 @@
                 width="120"
                 valign="top"
                 bgcolor="#1a1c1e"
-                background="../img7/bg-top.jpg"
+                background="https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg"
                 style="
                   width: 120px;
                   height: 120px;
@@ -263,13 +264,13 @@
                   overflow: hidden;
                   border-radius: 9px;
                   background-color: #1a1c1e;
-                  background-image: url(../img7/bg-top.jpg);
+                  background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
                   background-position: left center;
                   background-size: auto 100%;
                 "
               >
                 <img
-                  src="../img7/photo2.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/7/photo2.png"
                   alt="Максим Антонов"
                   width="120"
                   height="120"
@@ -382,7 +383,7 @@
                 width="120"
                 valign="top"
                 bgcolor="#1a1c1e"
-                background="../img7/bg-top.jpg"
+                background="https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg"
                 style="
                   width: 120px;
                   height: 120px;
@@ -390,13 +391,13 @@
                   overflow: hidden;
                   border-radius: 9px;
                   background-color: #1a1c1e;
-                  background-image: url(../img7/bg-top.jpg);
+                  background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
                   background-position: left center;
                   background-size: auto 100%;
                 "
               >
                 <img
-                  src="../img7/photo3.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/7/photo3.png"
                   alt="Андрей Аксёнов"
                   width="120"
                   height="120"
@@ -508,7 +509,7 @@
               overflow: hidden;
               border-radius: 24px;
               background-color: #1a1c1e;
-              background-image: url(../img7/bg-bottom.jpg);
+              background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-bottom.jpg);
               background-position: center center;
               background-repeat: no-repeat;
               background-size: cover;
@@ -528,7 +529,7 @@
                   style="padding: 0 0 0 35px"
                 >
                   <img
-                    src="../img7/content-bottom.png"
+                    src="https://storage.yandexcloud.net/team-hh-email/backend/7/content-bottom.png"
                     alt="Ждём вас, команда Я&nbsp;про&nbsp;бэкенд"
                     width="145"
                     style="
