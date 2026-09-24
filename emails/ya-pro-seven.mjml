@@ -165,37 +165,49 @@
                   border="0"
                   cellpadding="0"
                   cellspacing="0"
+                  width="100%"
+                  height="120"
+                  style="height: 120px"
                 >
                   <tr>
                     <td
-                      bgcolor="#003b46"
-                      style="
-                        padding: 4px 8px;
-                        border-radius: 4px;
-                        font-family: Arial, sans-serif;
-                        font-size: 14px;
-                        font-style: normal;
-                        font-weight: 400;
-                        line-height: 150%;
-                        letter-spacing: 0;
-                        font-variant-numeric: lining-nums proportional-nums;
-                        color: #ccd8da;
-                      "
+                      valign="top"
+                      style="padding: 0"
                     >
-                      Александр Селезнёв
+                      <table
+                        role="presentation"
+                        border="0"
+                        cellpadding="0"
+                        cellspacing="0"
+                      >
+                        <tr>
+                          <td
+                            bgcolor="#003b46"
+                            style="
+                              padding: 4px 8px;
+                              border-radius: 4px;
+                              font-family: Arial, sans-serif;
+                              font-size: 14px;
+                              font-style: normal;
+                              font-weight: 400;
+                              line-height: 150%;
+                              letter-spacing: 0;
+                              font-variant-numeric: lining-nums
+                                proportional-nums;
+                              color: #ccd8da;
+                            "
+                          >
+                            Александр Селезнёв
+                          </td>
+                        </tr>
+                      </table>
                     </td>
                   </tr>
-                </table>
-                <table
-                  role="presentation"
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                >
                   <tr>
                     <td
+                      valign="bottom"
                       style="
-                        padding: 8px 0 0;
+                        padding: 0;
                         color: #858585;
                         font-family: Arial, sans-serif;
                         font-size: 12px;
@@ -292,37 +304,49 @@
                   border="0"
                   cellpadding="0"
                   cellspacing="0"
+                  width="100%"
+                  height="120"
+                  style="height: 120px"
                 >
                   <tr>
                     <td
-                      bgcolor="#003b46"
-                      style="
-                        padding: 4px 8px;
-                        border-radius: 4px;
-                        font-family: Arial, sans-serif;
-                        font-size: 14px;
-                        font-style: normal;
-                        font-weight: 400;
-                        line-height: 150%;
-                        letter-spacing: 0;
-                        font-variant-numeric: lining-nums proportional-nums;
-                        color: #ccd8da;
-                      "
+                      valign="top"
+                      style="padding: 0"
                     >
-                      Максим Антонов
+                      <table
+                        role="presentation"
+                        border="0"
+                        cellpadding="0"
+                        cellspacing="0"
+                      >
+                        <tr>
+                          <td
+                            bgcolor="#003b46"
+                            style="
+                              padding: 4px 8px;
+                              border-radius: 4px;
+                              font-family: Arial, sans-serif;
+                              font-size: 14px;
+                              font-style: normal;
+                              font-weight: 400;
+                              line-height: 150%;
+                              letter-spacing: 0;
+                              font-variant-numeric: lining-nums
+                                proportional-nums;
+                              color: #ccd8da;
+                            "
+                          >
+                            Максим Антонов
+                          </td>
+                        </tr>
+                      </table>
                     </td>
                   </tr>
-                </table>
-                <table
-                  role="presentation"
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                >
                   <tr>
                     <td
+                      valign="bottom"
                       style="
-                        padding: 8px 0 0;
+                        padding: 0;
                         color: #858585;
                         font-family: Arial, sans-serif;
                         font-size: 12px;
@@ -330,8 +354,8 @@
                         line-height: 1.2;
                       "
                     >
-                      Руководитель группы поставки данных Автономный
-                      транспорт и роботы
+                      Руководитель группы поставки данных Автономный транспорт и
+                      роботы
                     </td>
                   </tr>
                 </table>
@@ -419,37 +443,49 @@
                   border="0"
                   cellpadding="0"
                   cellspacing="0"
+                  width="100%"
+                  height="120"
+                  style="height: 120px"
                 >
                   <tr>
                     <td
-                      bgcolor="#003b46"
-                      style="
-                        padding: 4px 8px;
-                        border-radius: 4px;
-                        font-family: Arial, sans-serif;
-                        font-size: 14px;
-                        font-style: normal;
-                        font-weight: 400;
-                        line-height: 150%;
-                        letter-spacing: 0;
-                        font-variant-numeric: lining-nums proportional-nums;
-                        color: #ccd8da;
-                      "
+                      valign="top"
+                      style="padding: 0"
                     >
-                      Андрей Аксёнов
+                      <table
+                        role="presentation"
+                        border="0"
+                        cellpadding="0"
+                        cellspacing="0"
+                      >
+                        <tr>
+                          <td
+                            bgcolor="#003b46"
+                            style="
+                              padding: 4px 8px;
+                              border-radius: 4px;
+                              font-family: Arial, sans-serif;
+                              font-size: 14px;
+                              font-style: normal;
+                              font-weight: 400;
+                              line-height: 150%;
+                              letter-spacing: 0;
+                              font-variant-numeric: lining-nums
+                                proportional-nums;
+                              color: #ccd8da;
+                            "
+                          >
+                            Андрей Аксёнов
+                          </td>
+                        </tr>
+                      </table>
                     </td>
                   </tr>
-                </table>
-                <table
-                  role="presentation"
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                >
                   <tr>
                     <td
+                      valign="bottom"
                       style="
-                        padding: 8px 0 0;
+                        padding: 0;
                         color: #858585;
                         font-family: Arial, sans-serif;
                         font-size: 12px;
@@ -469,20 +505,39 @@
           </p>
         </mj-text>
 
-        <mj-button
-          href="https://events.yandex.ru/events/yaprobackend/"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="10px 34px"
-          padding="0"
-          width="328px"
-        >
-          Успеть зарегистрироваться
-        </mj-button>
+        <mj-text padding="0">
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="348"
+            align="left"
+            style="width: 100%; max-width: 348px; margin: 0"
+          >
+            <tr>
+              <td
+                align="center"
+                bgcolor="#ffd471"
+                style="border-radius: 10px; padding: 10px 34px"
+              >
+                <a
+                  href="https://events.yandex.ru/events/yaprobackend/"
+                  style="
+                    display: block;
+                    color: #000000;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    text-decoration: none;
+                  "
+                  >Успеть зарегистрироваться</a
+                >
+              </td>
+            </tr>
+          </table>
+        </mj-text>
       </mj-column>
     </mj-section>
 
