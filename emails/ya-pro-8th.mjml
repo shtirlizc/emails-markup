@@ -84,20 +84,15 @@
           </p>
         </mj-text>
 
-        <mj-button
-          href="https://events.yandex.ru/events/yaprobackend/"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="10px 34px"
-          padding="0"
-          width="348px"
-        >
-          Зарегистрироваться
-        </mj-button>
+        <mj-text padding="0">
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="348" align="center" style="width: 100%; max-width: 348px">
+            <tr>
+              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
+                <a href="https://events.yandex.ru/events/yaprobackend/" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Зарегистрироваться</a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
 
         <mj-text
           font-family="Arial, Helvetica, sans-serif"
@@ -236,9 +231,9 @@
               </td>
             </tr>
           </table>
-          <div style="height: 12px; font-size: 0; line-height: 12px">
-            &nbsp;
-          </div>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          </table>
           <div
             style="
               font-family: Arial, sans-serif;
@@ -252,8 +247,8 @@
             YTsaurus Flow: как распределённо обрабатывать более 100 ГБ/с в
             реальном времени без потерь и дублей
           </div>
-          <div style="display: flex; flex-direction: column; gap: 20px">
-            <p style="margin: 0">
+          <div>
+            <p style="margin: 0 0 20px">
               Как обеспечить exactly-once, если падают серверы или целые
               дата-центры? Как балансировать партиции при меняющейся нагрузке
               и убедиться, что все данные обработаны к нужному моменту?
@@ -391,7 +386,7 @@
                         line-height: 1.2;
                       "
                     >
-                      Руководитель группы инфраструктуры AI-агентов Поисковые
+                      Руководитель группы инфраструктуры AI-агентов<br />Поисковые
                       сервисы и ИИ Яндекса
                     </td>
                   </tr>
@@ -399,9 +394,9 @@
               </td>
             </tr>
           </table>
-          <div style="height: 12px; font-size: 0; line-height: 12px">
-            &nbsp;
-          </div>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          </table>
           <div
             style="
               font-family: Arial, sans-serif;
@@ -414,8 +409,8 @@
           >
             Как надёжно раздавать конфиги на 200к хостов при отказе [n−1] ДЦ
           </div>
-          <div style="display: flex; flex-direction: column; gap: 20px">
-            <p style="margin: 0">
+          <div>
+            <p style="margin: 0 0 20px">
               В основе доклада — «Молния», система аварийной доставки данных.
               Она должна продолжать работать при отказе нескольких дата-центров
               и за секунды доставлять данные на десятки тысяч хостов.
@@ -555,16 +550,16 @@
                         line-height: 1.2;
                       "
                     >
-                      Разработчик в команде Cloud SIEM Positive Technologies
+                      Разработчик в команде Cloud SIEM<br />Positive Technologies
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
           </table>
-          <div style="height: 12px; font-size: 0; line-height: 12px">
-            &nbsp;
-          </div>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          </table>
           <div
             style="
               font-family: Arial, sans-serif;
@@ -577,14 +572,14 @@
           >
             Вердикт за минуту: ML-фильтр и LLM на потоке 40+к событий в секунду
           </div>
-          <div style="display: flex; flex-direction: column; gap: 20px">
-            <p style="margin: 0">
+          <div>
+            <p style="margin: 0 0 20px">
               Как построить потоковый AI/ML-пайплайн под заданный SLA и удержать
               latency при рестартах и масштабировании stateful-джоб
               под нагрузкой?
             </p>
 
-            <p style="margin: 0">
+            <p style="margin: 0 0 20px">
               <span
                 style="color: #ffd471; font-weight: bold; text-decoration: none"
                 >Алина Шестакова из Positive Technologies</span
@@ -601,34 +596,25 @@
           </div>
         </mj-text>
 
-        <mj-button
-          href="https://events.yandex.ru/events/yaprobackend"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="10px 34px"
-          padding="24px 0 0"
-          width="328px"
-        >
-          Посмотреть всю программу
-        </mj-button>
-        <mj-button
-          href="https://events.yandex.ru/events/yaprobackend/"
-          background-color="#ffd471"
-          color="#000000"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16px"
-          line-height="1.5"
-          border-radius="10px"
-          inner-padding="10px 34px"
-          padding="12px 0 24px"
-          width="328px"
-        >
-          Зарегистрироваться
-        </mj-button>
+        <mj-text padding="24px 0">
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="328" align="center" style="width: 100%; max-width: 328px">
+            <tr>
+              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
+                <a href="https://events.yandex.ru/events/yaprobackend" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Посмотреть всю программу</a>
+              </td>
+            </tr>
+          </table>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          </table>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="328" align="center" style="width: 100%; max-width: 328px">
+            <tr>
+              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
+                <a href="https://events.yandex.ru/events/yaprobackend/" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Зарегистрироваться</a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -671,7 +657,7 @@
                   <img
                     src="https://storage.yandexcloud.net/team-hh-email/backend/7/content-bottom.png"
                     alt="Ждём вас, команда Я&nbsp;про&nbsp;бэкенд"
-                    width="230"
+                    width="145"
                     style="
                       display: block;
                       width: 100%;
