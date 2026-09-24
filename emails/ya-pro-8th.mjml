@@ -24,7 +24,7 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(../img8/left-top.png), url(../img8/right-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/8/left-top.png), url(https://storage.yandexcloud.net/team-hh-email/backend/8/right-top.png),
                 url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
               background-position:
                 left center,
@@ -151,7 +151,7 @@
                 "
               >
                 <img
-                  src="../img8/photo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/8/photo.png"
                   alt="Егор Хайруллин"
                   width="120"
                   height="120"
@@ -314,7 +314,7 @@
                 "
               >
                 <img
-                  src="../img8/photo2.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/8/photo2.png"
                   alt="Владислав Тюльбашев"
                   width="120"
                   height="120"
@@ -478,7 +478,7 @@
                 "
               >
                 <img
-                  src="../img8/photo3.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/backend/8/photo3.png"
                   alt="Алина Шестакова"
                   width="120"
                   height="120"
@@ -635,7 +635,7 @@
               overflow: hidden;
               border-radius: 24px;
               background-color: #1a1c1e;
-              background-image: url(../img8/bg-bottom.jpg);
+              background-image: url(https://storage.yandexcloud.net/team-hh-email/backend/8/bg-bottom.jpg);
               background-position: center center;
               background-repeat: no-repeat;
               background-size: 100% 100%;
