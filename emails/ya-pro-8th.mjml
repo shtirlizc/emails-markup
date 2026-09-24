@@ -5,6 +5,24 @@
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
     </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width: 380px) {
+        .desktop-figures {
+          display: none !important;
+          max-height: 0 !important;
+          overflow: hidden !important;
+        }
+      }
+      @media only screen and (min-width: 381px) {
+        .desktop-figures-inner {
+          margin-top: -118px !important;
+          margin-bottom: -71px !important;
+        }
+        .desktop-figure-left {
+          margin-top: 55px !important;
+        }
+      }
+    </mj-style>
   </mj-head>
   <mj-body
     background-color="#020201"
@@ -174,8 +192,6 @@
                   cellpadding="0"
                   cellspacing="0"
                   width="100%"
-                  height="120"
-                  style="height: 120px"
                 >
                   <tr>
                     <td
@@ -213,7 +229,13 @@
                   </tr>
                   <tr>
                     <td
-                      valign="bottom"
+                      height="5"
+                      style="height: 5px; font-size: 0; line-height: 5px"
+                    >&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td
+                      valign="top"
                       style="
                         padding: 0;
                         color: #858585;
@@ -337,8 +359,6 @@
                   cellpadding="0"
                   cellspacing="0"
                   width="100%"
-                  height="120"
-                  style="height: 120px"
                 >
                   <tr>
                     <td
@@ -376,7 +396,13 @@
                   </tr>
                   <tr>
                     <td
-                      valign="bottom"
+                      height="5"
+                      style="height: 5px; font-size: 0; line-height: 5px"
+                    >&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td
+                      valign="top"
                       style="
                         padding: 0;
                         color: #858585;
@@ -439,7 +465,7 @@
           font-size="14px"
           line-height="1.5"
           color="#c7c7c7"
-          padding="0 0"
+          padding="0 0 20px"
         >
           <div
             style="
@@ -501,8 +527,6 @@
                   cellpadding="0"
                   cellspacing="0"
                   width="100%"
-                  height="120"
-                  style="height: 120px"
                 >
                   <tr>
                     <td
@@ -540,7 +564,13 @@
                   </tr>
                   <tr>
                     <td
-                      valign="bottom"
+                      height="5"
+                      style="height: 5px; font-size: 0; line-height: 5px"
+                    >&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td
+                      valign="top"
                       style="
                         padding: 0;
                         color: #858585;
@@ -579,7 +609,7 @@
               под нагрузкой?
             </p>
 
-            <p style="margin: 0 0 20px">
+            <p style="margin: 0">
               <span
                 style="color: #ffd471; font-weight: bold; text-decoration: none"
                 >Алина Шестакова из Positive Technologies</span
@@ -588,12 +618,86 @@
               Bloom-фильтры, кэши, key-group-aware прогрев и переход на Flink +
               Kubernetes®.
             </p>
-            <p style="margin: 0">
-              Если highload, streaming и fault tolerance — часть ваших рабочих
-              задач, приходите послушать, как с ними справляются другие
-              инженеры, и обсудить свой опыт.
-            </p>
           </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0"
+      css-class="desktop-figures"
+    >
+      <mj-column padding="0">
+        <mj-text
+          padding="0"
+          font-size="0"
+          line-height="0"
+        >
+          <div class="desktop-figures-inner">
+            <table
+              role="presentation"
+              border="0"
+              cellpadding="0"
+              cellspacing="0"
+              width="100%"
+              style="width: 100%; table-layout: fixed"
+            >
+              <tr>
+                <td
+                  align="left"
+                  valign="top"
+                  width="50%"
+                  style="width: 50%; padding: 0; font-size: 0; line-height: 0"
+                >
+                  <img
+                    class="desktop-figure-left"
+                    src="https://storage.yandexcloud.net/team-hh-email/backend/8/middle-left2.png"
+                    alt=""
+                    width="140"
+                    style="display: block; width: 140px; max-width: 100%; height: auto; border: 0"
+                  />
+                </td>
+                <td
+                  align="right"
+                  valign="top"
+                  width="50%"
+                  style="width: 50%; padding: 0; font-size: 0; line-height: 0"
+                >
+                  <img
+                    src="https://storage.yandexcloud.net/team-hh-email/backend/8/middle-right2.png"
+                    alt=""
+                    width="205"
+                    style="display: block; width: 205px; max-width: 100%; height: auto; border: 0"
+                  />
+                </td>
+              </tr>
+            </table>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#020201"
+      padding="0 15px 0"
+    >
+      <mj-column
+        width="500px"
+        padding="0"
+      >
+        <mj-text
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14px"
+          line-height="1.5"
+          color="#c7c7c7"
+          padding="0"
+        >
+          <p style="margin: 0">
+            Если highload, streaming и fault tolerance — часть ваших рабочих
+            задач, приходите послушать, как с ними справляются другие
+            инженеры, и обсудить свой опыт.
+          </p>
         </mj-text>
 
         <mj-text padding="24px 0">
