@@ -6,22 +6,11 @@
       <mj-all font-family="Arial, Helvetica, sans-serif" />
     </mj-attributes>
     <mj-style>
-      @media only screen and (max-width: 380px) {
-        .desktop-figures {
-          display: none !important;
-          max-height: 0 !important;
-          overflow: hidden !important;
-        }
-      }
-      @media only screen and (min-width: 381px) {
-        .desktop-figures-inner {
-          margin-top: -118px !important;
-          margin-bottom: -71px !important;
-        }
-        .desktop-figure-left {
-          margin-top: 55px !important;
-        }
-      }
+      @media only screen and (max-width: 380px) { .desktop-figures { display:
+      none !important; max-height: 0 !important; overflow: hidden !important; }
+      } @media only screen and (min-width: 381px) { .desktop-figures-inner {
+      margin-top: -118px !important; margin-bottom: -51px !important; }
+      .desktop-figure-left { margin-top: 55px !important; } }
     </mj-style>
   </mj-head>
   <mj-body
@@ -42,7 +31,8 @@
             style="
               background-color: #1a1c1e;
               background-image:
-                url(https://storage.yandexcloud.net/team-hh-email/backend/8/left-top.png), url(https://storage.yandexcloud.net/team-hh-email/backend/8/right-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/8/left-top.png),
+                url(https://storage.yandexcloud.net/team-hh-email/backend/8/right-top.png),
                 url(https://storage.yandexcloud.net/team-hh-email/backend/7/bg-top.jpg);
               background-position:
                 left center,
@@ -103,10 +93,34 @@
         </mj-text>
 
         <mj-text padding="0">
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="348" align="center" style="width: 100%; max-width: 348px">
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="348"
+            align="center"
+            style="width: 100%; max-width: 348px"
+          >
             <tr>
-              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
-                <a href="https://events.yandex.ru/events/yaprobackend/" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Зарегистрироваться</a>
+              <td
+                align="center"
+                bgcolor="#ffd471"
+                style="border-radius: 10px; padding: 10px 34px"
+              >
+                <a
+                  href="https://events.yandex.ru/events/yaprobackend/"
+                  style="
+                    display: block;
+                    color: #000000;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    text-decoration: none;
+                  "
+                  >Зарегистрироваться</a
+                >
               </td>
             </tr>
           </table>
@@ -231,7 +245,9 @@
                     <td
                       height="5"
                       style="height: 5px; font-size: 0; line-height: 5px"
-                    >&nbsp;</td>
+                    >
+                      &nbsp;
+                    </td>
                   </tr>
                   <tr>
                     <td
@@ -253,8 +269,21 @@
               </td>
             </tr>
           </table>
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                height="12"
+                style="height: 12px; font-size: 0; line-height: 12px"
+              >
+                &nbsp;
+              </td>
+            </tr>
           </table>
           <div
             style="
@@ -398,7 +427,9 @@
                     <td
                       height="5"
                       style="height: 5px; font-size: 0; line-height: 5px"
-                    >&nbsp;</td>
+                    >
+                      &nbsp;
+                    </td>
                   </tr>
                   <tr>
                     <td
@@ -420,8 +451,21 @@
               </td>
             </tr>
           </table>
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                height="12"
+                style="height: 12px; font-size: 0; line-height: 12px"
+              >
+                &nbsp;
+              </td>
+            </tr>
           </table>
           <div
             style="
@@ -566,7 +610,9 @@
                     <td
                       height="5"
                       style="height: 5px; font-size: 0; line-height: 5px"
-                    >&nbsp;</td>
+                    >
+                      &nbsp;
+                    </td>
                   </tr>
                   <tr>
                     <td
@@ -580,15 +626,29 @@
                         line-height: 1.2;
                       "
                     >
-                      Разработчик в команде Cloud SIEM<br />Positive Technologies
+                      Разработчик в команде Cloud SIEM<br />Positive
+                      Technologies
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
           </table>
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
+            <tr>
+              <td
+                height="12"
+                style="height: 12px; font-size: 0; line-height: 12px"
+              >
+                &nbsp;
+              </td>
+            </tr>
           </table>
           <div
             style="
@@ -655,7 +715,13 @@
                     src="https://storage.yandexcloud.net/team-hh-email/backend/8/middle-left2.png"
                     alt=""
                     width="140"
-                    style="display: block; width: 140px; max-width: 100%; height: auto; border: 0"
+                    style="
+                      display: block;
+                      width: 140px;
+                      max-width: 100%;
+                      height: auto;
+                      border: 0;
+                    "
                   />
                 </td>
                 <td
@@ -668,7 +734,13 @@
                     src="https://storage.yandexcloud.net/team-hh-email/backend/8/middle-right2.png"
                     alt=""
                     width="205"
-                    style="display: block; width: 205px; max-width: 100%; height: auto; border: 0"
+                    style="
+                      display: block;
+                      width: 205px;
+                      max-width: 100%;
+                      height: auto;
+                      border: 0;
+                    "
                   />
                 </td>
               </tr>
@@ -695,26 +767,87 @@
         >
           <p style="margin: 0">
             Если highload, streaming и fault tolerance — часть ваших рабочих
-            задач, приходите послушать, как с ними справляются другие
-            инженеры, и обсудить свой опыт.
+            задач, приходите послушать, как с ними справляются другие инженеры,
+            и обсудить свой опыт.
           </p>
         </mj-text>
 
         <mj-text padding="24px 0">
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="328" align="center" style="width: 100%; max-width: 328px">
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="328"
+            align="center"
+            style="width: 100%; max-width: 328px"
+          >
             <tr>
-              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
-                <a href="https://events.yandex.ru/events/yaprobackend" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Посмотреть всю программу</a>
+              <td
+                align="center"
+                bgcolor="#ffd471"
+                style="border-radius: 10px; padding: 10px 34px"
+              >
+                <a
+                  href="https://events.yandex.ru/events/yaprobackend"
+                  style="
+                    display: block;
+                    color: #000000;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    text-decoration: none;
+                  "
+                  >Посмотреть всю программу</a
+                >
               </td>
             </tr>
           </table>
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr><td height="12" style="height: 12px; font-size: 0; line-height: 12px">&nbsp;</td></tr>
-          </table>
-          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="328" align="center" style="width: 100%; max-width: 328px">
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+          >
             <tr>
-              <td align="center" bgcolor="#ffd471" style="border-radius: 10px; padding: 10px 34px">
-                <a href="https://events.yandex.ru/events/yaprobackend/" style="display: block; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; text-decoration: none">Зарегистрироваться</a>
+              <td
+                height="12"
+                style="height: 12px; font-size: 0; line-height: 12px"
+              >
+                &nbsp;
+              </td>
+            </tr>
+          </table>
+          <table
+            role="presentation"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="328"
+            align="center"
+            style="width: 100%; max-width: 328px"
+          >
+            <tr>
+              <td
+                align="center"
+                bgcolor="#ffd471"
+                style="border-radius: 10px; padding: 10px 34px"
+              >
+                <a
+                  href="https://events.yandex.ru/events/yaprobackend/"
+                  style="
+                    display: block;
+                    color: #000000;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    text-decoration: none;
+                  "
+                  >Зарегистрироваться</a
+                >
               </td>
             </tr>
           </table>
