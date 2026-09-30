@@ -1,0 +1,408 @@
+<mjml>
+  <mj-head>
+    <mj-title>Конференция Dialog X5 / Аналитика — 14 октября</mj-title>
+    <mj-preview
+      >Синергия сети и поставщика: от данных к решениям и совместному
+      росту</mj-preview
+    >
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text
+        color="#272727"
+        font-size="20px"
+        line-height="23px"
+        letter-spacing="-0.6px"
+        padding="0"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body
+    width="594px"
+    background-color="#ffffff"
+  >
+    <mj-section padding="30px 30px 20px">
+      <mj-column padding="0">
+        <mj-image
+          src="../assets/dialog-x5/hero.jpg"
+          alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
+          width="534px"
+          fluid-on-mobile="true"
+          border-radius="15px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0"><mj-text>Добрый день!</mj-text></mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0">
+        <mj-text>
+          Приглашаем вас на ключевое событие года —
+          <a
+            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            style="
+              color: #0d5906;
+              font-weight: bold;
+              text-decoration: underline;
+              text-decoration-thickness: 1px;
+              text-decoration-skip-ink: none;
+              text-underline-offset: 4px;
+            "
+            >конференцию Dialog X5 / Аналитика «Синергия сети и поставщика:
+            от данных к решениям и совместному росту».</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0">
+        <mj-text>
+          <div style="max-width: 503px">
+            Вас ждёт выступление ведущих экспертов торговых сетей Пятёрочка,
+            Перекрёсток, X5 Digital и лидеров ключевых сервисов для поставщиков,
+            практические кейсы EVYAP, May — Brands и «Балтики», а также
+            три тематические сессии о развитии продуктов, поиске точек роста
+            и продвижения.
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper
+      padding="0 30px 20px"
+      background-color="#ffffff"
+    >
+      <mj-section
+        background-color="#e6f0ff"
+        border-radius="15px 15px 0 0"
+        padding="6px 14px 7px"
+      >
+        <mj-column
+          width="50%"
+          padding="0"
+        >
+          <mj-table
+            padding="0"
+            font-size="20px"
+            line-height="23px"
+            color="#272727"
+          >
+            <tr>
+              <td
+                width="75"
+                style="padding: 0; vertical-align: middle"
+              >
+                <img
+                  src="../assets/dialog-x5/calendar.png"
+                  alt="Календарь"
+                  width="75"
+                  height="83"
+                  style="
+                    display: block;
+                    width: 75px;
+                    max-width: 100%;
+                    height: auto;
+                  "
+                />
+              </td>
+              <td
+                style="
+                  padding: 0 0 0 5px;
+                  vertical-align: middle;
+                  white-space: nowrap;
+                  letter-spacing: -0.6px;
+                "
+              >
+                14 октября
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+        <mj-column
+          width="50%"
+          padding="0"
+        >
+          <mj-table
+            padding="0"
+            font-size="20px"
+            line-height="23px"
+            color="#272727"
+          >
+            <tr>
+              <td
+                width="75"
+                style="padding: 0; vertical-align: middle"
+              >
+                <img
+                  src="../assets/dialog-x5/clock.png"
+                  alt="Часы"
+                  width="75"
+                  height="84"
+                  style="
+                    display: block;
+                    width: 75px;
+                    max-width: 100%;
+                    height: auto;
+                  "
+                />
+              </td>
+              <td
+                style="
+                  padding: 0 0 0 5px;
+                  vertical-align: middle;
+                  white-space: nowrap;
+                  letter-spacing: -0.6px;
+                "
+              >
+                11:00
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#e6f0ff"
+        border-radius="0 0 15px 15px"
+        padding="6px 14px 12px"
+      >
+        <mj-column padding="0">
+          <mj-button
+            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            background-color="#0d5906"
+            color="#ffffff"
+            font-size="0"
+            line-height="0"
+            border-radius="30px"
+            width="100%"
+            inner-padding="16px 12px"
+            padding="0"
+            ><img
+              src="../assets/dialog-x5/cta-label.png"
+              alt="Зарегистрироваться"
+              width="201"
+              height="20"
+              style="display: block; border: 0; margin: 0 auto"
+          /></mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper
+      padding="0 30px 20px"
+      background-color="#ffffff"
+    >
+      <mj-section
+        background-color="#e6f0ff"
+        border-radius="20px 20px 0 0"
+        padding="20px 16px 12px"
+      >
+        <mj-column padding="0"
+          ><mj-text>На конференции вы узнаете:</mj-text></mj-column
+        >
+      </mj-section>
+      <mj-section
+        background-color="#e6f0ff"
+        padding="0 12px 0"
+      >
+        <mj-column
+          width="50%"
+          padding="0 4px 8px"
+        >
+          <mj-text
+            font-size="16px"
+            line-height="18.4px"
+            letter-spacing="-0.48px"
+            padding="0"
+            ><div
+              style="
+                background-color: #ffffff;
+                border-radius: 10px;
+                padding: 16px;
+                min-height: 36px;
+              "
+            >
+              Как успешно запускать продукты и привлекать  новую аудиторию
+            </div></mj-text
+          >
+        </mj-column>
+        <mj-column
+          width="50%"
+          padding="0 4px 8px"
+        >
+          <mj-text
+            font-size="16px"
+            line-height="18.4px"
+            letter-spacing="-0.48px"
+            padding="0"
+            ><div
+              style="
+                background-color: #ffffff;
+                border-radius: 10px;
+                padding: 16px;
+                min-height: 36px;
+              "
+            >
+              Где искать новые возможности для роста  и расширения дистрибуции
+            </div></mj-text
+          >
+        </mj-column>
+      </mj-section>
+      <mj-section
+        background-color="#e6f0ff"
+        border-radius="0 0 20px 20px"
+        padding="0 12px 12px"
+      >
+        <mj-column
+          width="50%"
+          padding="0 4px 0"
+        >
+          <mj-text
+            font-size="16px"
+            line-height="18.4px"
+            letter-spacing="-0.48px"
+            padding="0"
+            ><div
+              style="
+                background-color: #ffffff;
+                border-radius: 10px;
+                padding: 16px;
+                min-height: 36px;
+              "
+            >
+              Как продвигать товары и увеличивать продажи
+            </div></mj-text
+          >
+        </mj-column>
+        <mj-column
+          width="50%"
+          padding="0 4px 0"
+        >
+          <mj-text
+            font-size="16px"
+            line-height="18.4px"
+            letter-spacing="-0.48px"
+            padding="0"
+            ><div
+              style="
+                background-color: #ffffff;
+                border-radius: 10px;
+                padding: 16px;
+                min-height: 36px;
+              "
+            >
+              Как аналитика решает реальные бизнес-задачи
+            </div></mj-text
+          >
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0"
+        ><mj-text
+          >Поделитесь приглашением с коллегами, которым может быть интересна
+          и полезна тема конференции.</mj-text
+        ></mj-column
+      >
+    </mj-section>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0">
+        <mj-text
+          >Информацию о всех мероприятиях вы можете найти
+          <a
+            href="https://dialog.x5.ru/connect/event/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            style="color: #0d5906; text-decoration: underline"
+            >на сайте</a
+          >, а также в наших каналах в социальных сетях.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 20px">
+      <mj-column padding="0">
+        <mj-text
+          >По любым вопросам пишите нам на почту
+          <a
+            href="mailto:dialog.info@x5.ru"
+            style="color: #0d5906; text-decoration: underline"
+            >dialog.info@x5.ru.</a
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 16px">
+      <mj-column padding="0">
+        <mj-text
+          font-size="18px"
+          line-height="20.7px"
+          letter-spacing="-0.54px"
+          >С уважением, Команда
+          <a
+            href="https://dialog.x5.ru/analytics?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            style="color: #0d5906; text-decoration: underline"
+            >Dialog X5</a
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px 30px">
+      <mj-column padding="0">
+        <mj-table
+          padding="0"
+          align="center"
+          width="128px"
+        >
+          <tr>
+            <td style="padding: 0 4px">
+              <a href="https://vk.com/dialog.x5analytics"
+                ><img
+                  src="../assets/dialog-x5/vk.png"
+                  width="25"
+                  height="25"
+                  alt="ВКонтакте"
+                  style="display: block; border: 0"
+              /></a>
+            </td>
+            <td style="padding: 0 4px">
+              <a href="https://t.me/DialogX5Insights"
+                ><img
+                  src="../assets/dialog-x5/telegram.png"
+                  width="25"
+                  height="25"
+                  alt="Telegram"
+                  style="display: block; border: 0"
+              /></a>
+            </td>
+            <td style="padding: 0 4px">
+              <a href="https://max.ru/dialogx5"
+                ><img
+                  src="../assets/dialog-x5/max.png"
+                  width="25"
+                  height="25"
+                  alt="MAX"
+                  style="display: block; border: 0"
+              /></a>
+            </td>
+            <td style="padding: 0 4px">
+              <a href="https://rutube.ru/channel/78572314/"
+                ><img
+                  src="../assets/dialog-x5/rutube.png"
+                  width="25"
+                  height="25"
+                  alt="Rutube"
+                  style="display: block; border: 0"
+              /></a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
