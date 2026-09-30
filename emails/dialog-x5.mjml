@@ -94,7 +94,7 @@
             <tr>
               <td
                 width="65"
-                style="padding: 0; vertical-align: middle"
+                style="padding: 0; vertical-align: middle; min-width: 65px"
               >
                 <img
                   src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/calendar.png"
@@ -104,7 +104,7 @@
                   style="
                     display: block;
                     width: 65px;
-                    max-width: 100%;
+                    min-width: 65px;
                     height: auto;
                   "
                 />
