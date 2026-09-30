@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Конференция Dialog X5 / Аналитика — 14 октября</mj-title>
     <mj-preview
-      >Синергия сети и поставщика: от данных к решениям и совместному
+      >Синергия сети и поставщика: от данных к решениям и совместному
       росту</mj-preview
     >
     <mj-attributes>
@@ -24,7 +24,7 @@
       <mj-column padding="0">
         <mj-image
           src="../assets/dialog-x5/hero.jpg"
-          alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
+          alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
           width="534px"
           fluid-on-mobile="true"
           border-radius="15px"
@@ -47,7 +47,7 @@
               color: #0d5906;
               font-weight: bold;
               text-decoration: underline;
-              text-decoration-thickness: 1px;
+              text-decoration-thickness: 2px;
               text-decoration-skip-ink: none;
               text-underline-offset: 4px;
             "
@@ -178,15 +178,33 @@
             line-height="0"
             border-radius="30px"
             width="100%"
-            inner-padding="16px 12px"
+            inner-padding="0"
             padding="0"
-            ><img
-              src="../assets/dialog-x5/cta-label.png"
-              alt="Зарегистрироваться"
-              width="201"
-              height="20"
-              style="display: block; border: 0; margin: 0 auto"
-          /></mj-button>
+            ><span
+              style="
+                display: block;
+                background-color: #0d5906;
+                background-image: url(&quot;../assets/dialog-x5/bg-button.png&quot;);
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border-radius: 30px;
+                padding: 16px 12px;
+                text-align: center;
+              "
+              ><img
+                src="../assets/dialog-x5/content-button.png"
+                alt="Зарегистрироваться"
+                width="201"
+                height="20"
+                style="
+                  display: block;
+                  border: 0;
+                  margin: 0 auto;
+                  max-width: 100%;
+                  height: auto;
+                " /></span
+          ></mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -201,7 +219,7 @@
         padding="20px 16px 12px"
       >
         <mj-column padding="0"
-          ><mj-text>На конференции вы узнаете:</mj-text></mj-column
+          ><mj-text>На конференции вы узнаете:</mj-text></mj-column
         >
       </mj-section>
       <mj-section
@@ -225,7 +243,7 @@
                 min-height: 36px;
               "
             >
-              Как успешно запускать продукты и привлекать  новую аудиторию
+              Как успешно запускать продукты и привлекать новую аудиторию
             </div></mj-text
           >
         </mj-column>
@@ -246,7 +264,7 @@
                 min-height: 36px;
               "
             >
-              Где искать новые возможности для роста  и расширения дистрибуции
+              Где искать новые возможности для роста  и расширения дистрибуции
             </div></mj-text
           >
         </mj-column>
