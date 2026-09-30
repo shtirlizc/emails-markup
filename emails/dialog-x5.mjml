@@ -1,10 +1,9 @@
 <mjml>
   <mj-head>
-    <mj-title>Конференция Dialog X5 / Аналитика — 14 октября</mj-title>
-    <mj-preview
-      >Синергия сети и поставщика: от данных к решениям и совместному
-      росту</mj-preview
-    >
+    <mj-title>Конференция Dialog X5 / Аналитика — 14 октября </mj-title>
+    <mj-preview>
+      Синергия сети и поставщика: от данных к решениям и совместному росту
+    </mj-preview>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif" />
       <mj-text
@@ -51,8 +50,9 @@
               text-decoration-skip-ink: none;
               text-underline-offset: 4px;
             "
-            >конференцию Dialog X5 / Аналитика «Синергия сети и поставщика:
-            от данных к решениям и совместному росту».</a
+            >конференцию Dialog X5 / Аналитика <br />
+            «Синергия сети и поставщика: от данных <br />
+            к решениям и совместному росту».</a
           >
         </mj-text>
       </mj-column>
@@ -79,7 +79,7 @@
       <mj-section
         background-color="#e6f0ff"
         border-radius="15px 15px 0 0"
-        padding="6px 14px 7px"
+        padding="11px 20px 7px"
       >
         <mj-column
           width="50%"
@@ -93,17 +93,17 @@
           >
             <tr>
               <td
-                width="75"
+                width="65"
                 style="padding: 0; vertical-align: middle"
               >
                 <img
                   src="../assets/dialog-x5/calendar.png"
                   alt="Календарь"
-                  width="75"
-                  height="83"
+                  width="65"
+                  height="62"
                   style="
                     display: block;
-                    width: 75px;
+                    width: 65px;
                     max-width: 100%;
                     height: auto;
                   "
@@ -111,9 +111,14 @@
               </td>
               <td
                 style="
-                  padding: 0 0 0 5px;
+                  padding: 0 0 0 12px;
                   vertical-align: middle;
                   white-space: nowrap;
+                  font-family: Arial;
+                  font-weight: 400;
+                  font-style: normal;
+                  font-size: 20px;
+                  line-height: 23px;
                   letter-spacing: -0.6px;
                 "
               >
@@ -124,7 +129,7 @@
         </mj-column>
         <mj-column
           width="50%"
-          padding="0"
+          padding="0 0 0 10px"
         >
           <mj-table
             padding="0"
@@ -134,17 +139,17 @@
           >
             <tr>
               <td
-                width="75"
+                width="65"
                 style="padding: 0; vertical-align: middle"
               >
                 <img
                   src="../assets/dialog-x5/clock.png"
                   alt="Часы"
-                  width="75"
-                  height="84"
+                  width="65"
+                  height="65"
                   style="
                     display: block;
-                    width: 75px;
+                    width: 65px;
                     max-width: 100%;
                     height: auto;
                   "
@@ -152,9 +157,14 @@
               </td>
               <td
                 style="
-                  padding: 0 0 0 5px;
+                  padding: 0 0 0 12px;
                   vertical-align: middle;
                   white-space: nowrap;
+                  font-family: Arial;
+                  font-weight: 400;
+                  font-style: normal;
+                  font-size: 20px;
+                  line-height: 23px;
                   letter-spacing: -0.6px;
                 "
               >
@@ -167,7 +177,7 @@
       <mj-section
         background-color="#e6f0ff"
         border-radius="0 0 15px 15px"
-        padding="6px 14px 12px"
+        padding="9px 16px 12px"
       >
         <mj-column padding="0">
           <mj-button
