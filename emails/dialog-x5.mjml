@@ -86,7 +86,7 @@
           padding="0"
         >
           <mj-table
-            padding="0"
+            padding="0 10px 10px 10px"
             font-size="20px"
             line-height="23px"
             color="#272727"
@@ -286,7 +286,7 @@
       >
         <mj-column
           width="50%"
-          padding="0 4px 0"
+          padding="0 4px 8px"
         >
           <mj-text
             font-size="16px"
