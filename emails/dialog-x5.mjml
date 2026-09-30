@@ -22,7 +22,7 @@
     <mj-section padding="30px 30px 20px">
       <mj-column padding="0">
         <mj-image
-          src="../assets/dialog-x5/hero.jpg"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/hero.jpg"
           alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
           width="534px"
           fluid-on-mobile="true"
@@ -97,7 +97,7 @@
                 style="padding: 0; vertical-align: middle"
               >
                 <img
-                  src="../assets/dialog-x5/calendar.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/calendar.png"
                   alt="Календарь"
                   width="65"
                   height="62"
@@ -143,7 +143,7 @@
                 style="padding: 0; vertical-align: middle"
               >
                 <img
-                  src="../assets/dialog-x5/clock.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/clock.png"
                   alt="Часы"
                   width="65"
                   height="65"
@@ -194,7 +194,7 @@
               style="
                 display: block;
                 background-color: #0d5906;
-                background-image: url(&quot;../assets/dialog-x5/bg-button.png&quot;);
+                background-image: url(&quot;https://storage.yandexcloud.net/team-hh-email/dialog-x5/bg-button.png&quot;);
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -203,7 +203,7 @@
                 text-align: center;
               "
               ><img
-                src="../assets/dialog-x5/content-button.png"
+                src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/content-button.png"
                 alt="Зарегистрироваться"
                 width="201"
                 height="20"
@@ -391,7 +391,7 @@
             <td style="padding: 0 4px">
               <a href="https://vk.com/dialog.x5analytics"
                 ><img
-                  src="../assets/dialog-x5/vk.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/vk.png"
                   width="25"
                   height="25"
                   alt="ВКонтакте"
@@ -401,7 +401,7 @@
             <td style="padding: 0 4px">
               <a href="https://t.me/DialogX5Insights"
                 ><img
-                  src="../assets/dialog-x5/telegram.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/telegram.png"
                   width="25"
                   height="25"
                   alt="Telegram"
@@ -411,7 +411,7 @@
             <td style="padding: 0 4px">
               <a href="https://max.ru/dialogx5"
                 ><img
-                  src="../assets/dialog-x5/max.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/max.png"
                   width="25"
                   height="25"
                   alt="MAX"
@@ -421,7 +421,7 @@
             <td style="padding: 0 4px">
               <a href="https://rutube.ru/channel/78572314/"
                 ><img
-                  src="../assets/dialog-x5/rutube.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/rutube.png"
                   width="25"
                   height="25"
                   alt="Rutube"
