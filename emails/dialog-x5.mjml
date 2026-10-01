@@ -23,6 +23,7 @@
       <mj-column padding="0">
         <mj-image
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5/hero.jpg"
+          href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
           alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
           width="534px"
           fluid-on-mobile="true"
