@@ -30,7 +30,7 @@
       <mj-column>
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/top-bg.jpg"
+          src="../img/top-bg.png"
           href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
           alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
           width="541px"
@@ -56,6 +56,9 @@
                 color: #0d5906;
                 font-weight: bold;
                 text-decoration: underline;
+                text-decoration-thickness: 2px;
+                text-decoration-skip-ink: none;
+                text-underline-offset: 4px;
               "
               >конференцию Dialog X5 / Аналитика «Синергия сети и поставщика:
               от данных к решениям и совместному росту».</a
@@ -108,7 +111,7 @@
               style="
                 display: block;
                 background-color: #c2f56b;
-                background-image: url(&quot;../img/mid-button-bg.png&quot;);
+                background-image: url(../img/mid-button-bg.png);
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -165,9 +168,10 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/yumatova-card.jpg"
+          src="../img/yumatova-card.png"
           alt="Диана Юматова"
           width="264px"
+          border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
         />
@@ -193,9 +197,10 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/rodionova-card.jpg"
+          src="../img/rodionova-card.png"
           alt="Ирина Родионова"
           width="264px"
+          border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
         />
@@ -225,10 +230,12 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image"
-          src="../img/timoshenko-card.jpg"
+          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          src="../img/timoshenko-card.png"
           alt="Ольга Тимошенко"
-          width="264px"
+          width="172px"
+          height="132px"
+          border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
         />
@@ -254,10 +261,12 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image"
-          src="../img/shipilova-card.jpg"
+          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          src="../img/shipilova-card.png"
           alt="Ольга Шипилова"
-          width="264px"
+          width="172px"
+          height="132px"
+          border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
         />
@@ -283,10 +292,12 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image"
-          src="../img/gavrilov-card.jpg"
+          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          src="../img/gavrilov-card.png"
           alt="Алексей Гаврилов"
-          width="264px"
+          width="172px"
+          height="132px"
+          border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
         />
@@ -536,7 +547,7 @@
             style="
               display: block;
               background-color: #c2f56b;
-              background-image: url(&quot;../img/bottom-button-bg.png&quot;);
+              background-image: url(../img/bottom-button-bg.png);
               background-position: center;
               background-repeat: no-repeat;
               background-size: cover;

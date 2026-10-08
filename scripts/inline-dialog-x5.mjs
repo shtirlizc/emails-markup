@@ -39,8 +39,12 @@ const secondInlineHtml = secondHtml
   .replace(
     /(<td\b[^>]*class="[^"]*\bdialog-second-fluid-image\b[^"]*"[^>]*>\s*<table\b[^>]*style=")([^"]*)("[^>]*>[\s\S]*?<td\b[^>]*style=")width:([\d.]+)px/gi,
     (_, prefix, style, inner, width) =>
-      `${prefix}${style};width:100%;max-width:${Math.max(264, Number(width))}px${inner}width:100%`,
+      `${prefix}${style};width:100%;max-width:${prefix.includes('dialog-second-small-photo') ? 172 : Math.max(264, Number(width))}px${inner}width:100%`,
   )
+  // Include the photo borders in the fluid image width.
+  .replace(/(<img\b[^>]*src="\.\.\/img\/[^"/]+-card\.jpg"[^>]*style=")/gi, '$1box-sizing:border-box;')
+  // These source portraits have different aspect ratios; keep the row aligned.
+  .replace(/(<img\b[^>]*src="\.\.\/img\/(?:timoshenko|shipilova|gavrilov)-card\.jpg"[^>]*style=")/gi, '$1object-fit:cover;object-position:center top;')
   .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
   .replace(/\sclass=(?:"[^"]*"|'[^']*')/gi, '');
 
