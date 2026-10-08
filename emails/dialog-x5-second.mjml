@@ -30,7 +30,7 @@
       <mj-column>
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/top-bg.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/top-bg.png"
           href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
           alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
           width="541px"
@@ -111,7 +111,7 @@
               style="
                 display: block;
                 background-color: #c2f56b;
-                background-image: url(../img/mid-button-bg.png);
+                background-image: url(https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/mid-button-bg.png);
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -120,7 +120,7 @@
                 text-align: center;
               "
               ><img
-                src="../img/mid-button-content.png"
+                src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/mid-button-content.png"
                 alt="Зарегистрироваться →"
                 width="231"
                 height="19"
@@ -168,7 +168,7 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/yumatova-card.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/yumatova-card.png"
           alt="Диана Юматова"
           width="264px"
           border="2px solid #E5EBEB"
@@ -197,7 +197,7 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image"
-          src="../img/rodionova-card.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/rodionova-card.png"
           alt="Ирина Родионова"
           width="264px"
           border="2px solid #E5EBEB"
@@ -231,7 +231,7 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image dialog-second-small-photo"
-          src="../img/timoshenko-card.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/timoshenko-card.png"
           alt="Ольга Тимошенко"
           width="172px"
           height="132px"
@@ -262,7 +262,7 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image dialog-second-small-photo"
-          src="../img/shipilova-card.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/shipilova-card.png"
           alt="Ольга Шипилова"
           width="172px"
           height="132px"
@@ -293,7 +293,7 @@
       >
         <mj-image
           css-class="dialog-second-fluid-image dialog-second-small-photo"
-          src="../img/gavrilov-card.png"
+          src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/gavrilov-card.png"
           alt="Алексей Гаврилов"
           width="172px"
           height="132px"
@@ -547,7 +547,7 @@
             style="
               display: block;
               background-color: #c2f56b;
-              background-image: url(../img/bottom-button-bg.png);
+              background-image: url(https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/bottom-button-bg.png);
               background-position: center;
               background-repeat: no-repeat;
               background-size: cover;
@@ -556,7 +556,7 @@
               text-align: center;
             "
             ><img
-              src="../img/bottom-button-content.png"
+              src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/bottom-button-content.png"
               alt="Зарегистрироваться →"
               width="231"
               height="19"
@@ -627,7 +627,7 @@
             >
               <a href="https://vk.com/dialog.x5analytics"
                 ><img
-                  src="../img/vk-logo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/vk-logo.png"
                   width="24.625"
                   height="24.625"
                   alt="ВКонтакте"
@@ -649,7 +649,7 @@
             >
               <a href="https://t.me/DialogX5Insights"
                 ><img
-                  src="../img/tg-logo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/tg-logo.png"
                   width="24.625"
                   height="24.625"
                   alt="Telegram"
@@ -671,7 +671,7 @@
             >
               <a href="https://max.ru/dialogx5"
                 ><img
-                  src="../img/max-logo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/max-logo.png"
                   width="24.625"
                   height="24.625"
                   alt="MAX"
@@ -693,7 +693,7 @@
             >
               <a href="https://rutube.ru/channel/78572314/"
                 ><img
-                  src="../img/rutube-logo.png"
+                  src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/rutube-logo.png"
                   width="24.625"
                   height="24.625"
                   alt="Rutube"
