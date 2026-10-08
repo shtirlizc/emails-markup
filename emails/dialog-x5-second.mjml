@@ -167,10 +167,11 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image"
+          css-class="dialog-second-fluid-image dialog-second-speaker-photo"
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/yumatova-card.png"
           alt="Диана Юматова"
           width="264px"
+          height="132px"
           border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
@@ -196,10 +197,11 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image"
+          css-class="dialog-second-fluid-image dialog-second-speaker-photo"
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/rodionova-card.png"
           alt="Ирина Родионова"
           width="264px"
+          height="132px"
           border="2px solid #E5EBEB"
           border-radius="16px"
           padding="0 0 6px"
@@ -230,7 +232,7 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          css-class="dialog-second-fluid-image dialog-second-speaker-photo dialog-second-small-photo"
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/timoshenko-card.png"
           alt="Ольга Тимошенко"
           width="172px"
@@ -261,7 +263,7 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          css-class="dialog-second-fluid-image dialog-second-speaker-photo dialog-second-small-photo"
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/shipilova-card.png"
           alt="Ольга Шипилова"
           width="172px"
@@ -292,7 +294,7 @@
         padding="0 6px 18px"
       >
         <mj-image
-          css-class="dialog-second-fluid-image dialog-second-small-photo"
+          css-class="dialog-second-fluid-image dialog-second-speaker-photo dialog-second-small-photo"
           src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/gavrilov-card.png"
           alt="Алексей Гаврилов"
           width="172px"

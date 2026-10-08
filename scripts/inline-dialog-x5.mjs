@@ -38,13 +38,24 @@ const secondInlineHtml = secondHtml
   // MJML emits fixed-width image tables; make these fluid without a media query.
   .replace(
     /(<td\b[^>]*class="[^"]*\bdialog-second-fluid-image\b[^"]*"[^>]*>\s*<table\b[^>]*style=")([^"]*)("[^>]*>[\s\S]*?<td\b[^>]*style=")width:([\d.]+)px/gi,
-    (_, prefix, style, inner, width) =>
-      `${prefix}${style};width:100%;max-width:${prefix.includes('dialog-second-small-photo') ? 172 : Math.max(264, Number(width))}px${inner}width:100%`,
+    (_, prefix, style, inner, width) => {
+      let sizing = `width:100%;max-width:${Math.max(264, Number(width))}px`;
+      if (prefix.includes('dialog-second-speaker-photo')) {
+        const small = prefix.includes('dialog-second-small-photo');
+        // Mobile portraits are 175px wide; keep each desktop row's own width.
+        sizing = small
+          ? 'width:172px;width:calc((600px - 100vw) * 1000);min-width:172px;max-width:175px'
+          : 'width:264px;width:calc((100vw - 599px) * 1000);min-width:175px;max-width:264px';
+      }
+      return `${prefix}${style};${sizing}${inner}width:100%`;
+    },
   )
-  // Include the photo borders in the fluid image width.
-  .replace(/(<img\b[^>]*src="\.\.\/img\/[^"/]+-card\.jpg"[^>]*style=")/gi, '$1box-sizing:border-box;')
-  // These source portraits have different aspect ratios; keep the row aligned.
-  .replace(/(<img\b[^>]*src="\.\.\/img\/(?:timoshenko|shipilova|gavrilov)-card\.jpg"[^>]*style=")/gi, '$1object-fit:cover;object-position:center top;')
+  // Use 130px on mobile and 132px on desktop, including the existing borders.
+  // Append sizing after MJML's height so it takes precedence without a stylesheet.
+  .replace(
+    /(<img\b[^>]*src="\.\.\/img\/[^"/]+-card\.(?:png|jpe?g)"[^>]*style=")([^"]*)"/gi,
+    (_, prefix, style) => `${prefix}${style};box-sizing:border-box;height:132px;height:calc((100vw - 599px) * 1000);min-height:130px;max-height:132px;object-fit:cover;object-position:center top"`,
+  )
   .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
   .replace(/\sclass=(?:"[^"]*"|'[^']*')/gi, '');
 
