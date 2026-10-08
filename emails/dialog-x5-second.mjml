@@ -1,0 +1,702 @@
+<mjml>
+  <mj-head>
+    <mj-title>Конференция Dialog X5 / Аналитика — 14 октября</mj-title>
+    <mj-preview
+      >Спикеры конференции и три кейса, которые можно забрать в работу. 14
+      октября, 11:00–13:00 по Мск.</mj-preview
+    >
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-section padding="0" />
+      <mj-column padding="0" />
+      <mj-text
+        color="#121414"
+        font-size="20px"
+        line-height="25px"
+        padding="0"
+      />
+      <mj-image padding="0" />
+      <mj-table
+        padding="0"
+        color="#121414"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body
+    width="600px"
+    background-color="#ffffff"
+  >
+    <mj-section padding="6px 30px 6px 29px">
+      <mj-column>
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/top-bg.jpg"
+          href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
+          alt="X5 Dialog. Конференция Dialog X5 / Аналитика «Синергия сети и поставщика: от данных к решениям и совместному росту». 14 октября, 11:00–13:00"
+          width="541px"
+          border-radius="16px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px">
+      <mj-column>
+        <mj-text padding="0 0 17px">Добрый день!</mj-text>
+        <mj-text
+          color="#272727"
+          line-height="23px"
+          letter-spacing="-0.6px"
+          padding="0 0 14px"
+        >
+          <div style="max-width: 534px">
+            Приглашаем вас на ключевое событие года —
+            <a
+              href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
+              style="
+                color: #0d5906;
+                font-weight: bold;
+                text-decoration: underline;
+              "
+              >конференцию Dialog X5 / Аналитика «Синергия сети и поставщика:
+              от данных к решениям и совместному росту».</a
+            >
+          </div>
+        </mj-text>
+        <mj-text
+          >На конференции разберём не только тренды,<br />а конкретные задачи
+          поставщиков: как запускать продукты, находить новые точки роста и
+          превращать аналитику в решения, которые помогают продажам.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 30px 30px">
+      <mj-section
+        background-color="#055708"
+        border-radius="24px"
+        padding="17.5px 30px 17.25px"
+      >
+        <mj-column>
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="28px"
+            font-weight="bold"
+            line-height="35px"
+            padding="0 0 8px"
+            >14 октября · 11:00–13:00 по Мск</mj-text
+          >
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="17px"
+            line-height="21.25px"
+            padding="0 0 16px"
+            >2 часа практики: решения X5 + кейсы поставщиков</mj-text
+          >
+          <mj-button
+            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
+            background-color="#c2f56b"
+            color="#055708"
+            font-size="0"
+            line-height="0"
+            border-radius="30px"
+            width="100%"
+            inner-padding="0"
+            padding="0"
+            ><span
+              style="
+                display: block;
+                background-color: #c2f56b;
+                background-image: url(&quot;../img/mid-button-bg.png&quot;);
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border-radius: 30px;
+                padding: 13px 0;
+                text-align: center;
+              "
+              ><img
+                src="../img/mid-button-content.png"
+                alt="Зарегистрироваться →"
+                width="231"
+                height="19"
+                style="
+                  display: block;
+                  border: 0;
+                  margin: 0 auto;
+                  width: 231px;
+                  max-width: 100%;
+                  height: auto;
+                " /></span
+          ></mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section
+      background-color="#e8f2ff"
+      padding="30px 30px 17px"
+    >
+      <mj-column>
+        <mj-text
+          font-size="24px"
+          font-weight="bold"
+          line-height="30px"
+          >Спикеры конференции</mj-text
+        >
+        <mj-text
+          color="#5c6166"
+          font-size="16px"
+          line-height="20px"
+          >Представители торговых сетей X5 и брендов-поставщиков</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#e8f2ff"
+      padding="0 24px"
+    >
+      <mj-column
+        css-class="dialog-second-speaker-two"
+        width="50%"
+        padding="0 6px 18px"
+      >
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/yumatova-card.jpg"
+          alt="Диана Юматова"
+          width="264px"
+          border-radius="16px"
+          padding="0 0 6px"
+        />
+        <mj-text
+          align="center"
+          font-size="13px"
+          font-weight="bold"
+          line-height="18px"
+          >Диана Юматова</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#5c6166"
+          font-size="12px"
+          line-height="15px"
+          >Пятёрочка</mj-text
+        >
+      </mj-column>
+      <mj-column
+        css-class="dialog-second-speaker-two"
+        width="50%"
+        padding="0 6px 18px"
+      >
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/rodionova-card.jpg"
+          alt="Ирина Родионова"
+          width="264px"
+          border-radius="16px"
+          padding="0 0 6px"
+        />
+        <mj-text
+          align="center"
+          font-size="13px"
+          font-weight="bold"
+          line-height="18px"
+          >Ирина Родионова</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#5c6166"
+          font-size="12px"
+          line-height="15px"
+          >Перекрёсток</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#e8f2ff"
+      padding="0 24px 12px"
+    >
+      <mj-column
+        css-class="dialog-second-speaker-three"
+        width="33.333333%"
+        padding="0 6px 18px"
+      >
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/timoshenko-card.jpg"
+          alt="Ольга Тимошенко"
+          width="264px"
+          border-radius="16px"
+          padding="0 0 6px"
+        />
+        <mj-text
+          align="center"
+          font-size="13px"
+          font-weight="bold"
+          line-height="16.25px"
+          padding="4.875px 0"
+          >Ольга Тимошенко</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#5c6166"
+          font-size="12px"
+          line-height="15px"
+          >Пятёрочка</mj-text
+        >
+      </mj-column>
+      <mj-column
+        css-class="dialog-second-speaker-three"
+        width="33.333333%"
+        padding="0 6px 18px"
+      >
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/shipilova-card.jpg"
+          alt="Ольга Шипилова"
+          width="264px"
+          border-radius="16px"
+          padding="0 0 6px"
+        />
+        <mj-text
+          align="center"
+          font-size="13px"
+          font-weight="bold"
+          line-height="16.25px"
+          padding="4.875px 0"
+          >Ольга Шипилова</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#5c6166"
+          font-size="12px"
+          line-height="15px"
+          >X5 Digital</mj-text
+        >
+      </mj-column>
+      <mj-column
+        css-class="dialog-second-speaker-three"
+        width="33.333333%"
+        padding="0 6px 18px"
+      >
+        <mj-image
+          css-class="dialog-second-fluid-image"
+          src="../img/gavrilov-card.jpg"
+          alt="Алексей Гаврилов"
+          width="264px"
+          border-radius="16px"
+          padding="0 0 6px"
+        />
+        <mj-text
+          align="center"
+          font-size="13px"
+          font-weight="bold"
+          line-height="16.25px"
+          padding="4.875px 0"
+          >Алексей Гаврилов</mj-text
+        >
+        <mj-text
+          align="center"
+          color="#5c6166"
+          font-size="12px"
+          line-height="15px"
+          >Пятёрочка</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 30px">
+      <mj-column
+        ><mj-text
+          font-size="22px"
+          font-weight="bold"
+          line-height="28px"
+          >Три кейса, которые можно забрать в работу</mj-text
+        ></mj-column
+      >
+    </mj-section>
+
+    <mj-wrapper padding="0 26px 16px 30px">
+      <mj-section
+        background-color="#e8f2ff"
+        border-radius="18px"
+        padding="18px 18px 19px"
+      >
+        <mj-column>
+          <mj-table
+            table-layout="fixed"
+            font-size="16px"
+            line-height="20px"
+          >
+            <tr>
+              <td
+                width="42"
+                valign="top"
+                style="width: 42px; padding: 0"
+              >
+                <div
+                  style="
+                    width: 42px;
+                    background-color: #c2f56b;
+                    border-radius: 21px;
+                    color: #055708;
+                    font-size: 13px;
+                    font-weight: bold;
+                    line-height: 42px;
+                    text-align: center;
+                  "
+                >
+                  01
+                </div>
+              </td>
+              <td
+                valign="top"
+                style="padding: 0 0 0 16px"
+              >
+                <div
+                  style="
+                    font-size: 18px;
+                    font-weight: bold;
+                    line-height: 23px;
+                    margin: 0 0 4px;
+                  "
+                >
+                  EVYAP · ARKO и DURU
+                </div>
+                <div style="max-width: 315.633px">
+                  От гипотез к полке: как превратить цифры в покупательский
+                  спрос
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="0 26px 16px 30px">
+      <mj-section
+        background-color="#e8f2ff"
+        border-radius="18px"
+        padding="18px 18px 24px"
+      >
+        <mj-column>
+          <mj-table
+            table-layout="fixed"
+            font-size="16px"
+            line-height="20px"
+          >
+            <tr>
+              <td
+                width="42"
+                valign="top"
+                style="width: 42px; padding: 0"
+              >
+                <div
+                  style="
+                    width: 42px;
+                    background-color: #c2f56b;
+                    border-radius: 21px;
+                    color: #055708;
+                    font-size: 13px;
+                    font-weight: bold;
+                    line-height: 42px;
+                    text-align: center;
+                  "
+                >
+                  02
+                </div>
+              </td>
+              <td
+                valign="top"
+                style="padding: 0 0 0 16px"
+              >
+                <div
+                  style="
+                    font-size: 18px;
+                    font-weight: bold;
+                    line-height: 23px;
+                    margin: 0 0 4px;
+                  "
+                >
+                  May — Brands
+                </div>
+                <div style="max-width: 308.513px">
+                  Как расширять дистрибуцию и выходить на новые территории
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="0 26px 16px 30px">
+      <mj-section
+        background-color="#e8f2ff"
+        border-radius="18px"
+        padding="18px 18px 20px"
+      >
+        <mj-column>
+          <mj-table
+            table-layout="fixed"
+            font-size="16px"
+            line-height="20px"
+          >
+            <tr>
+              <td
+                width="42"
+                valign="top"
+                style="width: 42px; padding: 0"
+              >
+                <div
+                  style="
+                    width: 42px;
+                    background-color: #c2f56b;
+                    border-radius: 21px;
+                    color: #055708;
+                    font-size: 13px;
+                    font-weight: bold;
+                    line-height: 42px;
+                    text-align: center;
+                  "
+                >
+                  03
+                </div>
+              </td>
+              <td
+                valign="top"
+                style="padding: 0 0 0 16px"
+              >
+                <div
+                  style="
+                    font-size: 18px;
+                    font-weight: bold;
+                    line-height: 23px;
+                    margin: 0 0 4px;
+                  "
+                >
+                  Балтика
+                </div>
+                <div>
+                  Как запускать и продвигать новинку с опорой на аналитику
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="0 30px 11px">
+      <mj-section
+        background-color="#e8f2ff"
+        border-radius="18px"
+        padding="18px 18px 19px"
+      >
+        <mj-column>
+          <mj-text
+            font-size="20px"
+            font-weight="bold"
+            line-height="25px"
+            padding="0 0 4px"
+            >Есть своя задача?</mj-text
+          >
+          <mj-text
+            font-size="18px"
+            line-height="23px"
+            ><div style="max-width: 458.202px">
+              При регистрации можно оставить вопрос спикерам, таким образом
+              конференция будет полезнее именно для вашей компании.
+            </div></mj-text
+          >
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="16px 30px 17px">
+      <mj-column>
+        <mj-text
+          color="#5c6166"
+          font-weight="bold"
+          padding="0 0 12px"
+          >До встречи 14 октября!</mj-text
+        >
+        <mj-button
+          href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
+          background-color="#c2f56b"
+          color="#055708"
+          font-size="0"
+          line-height="0"
+          border-radius="30px"
+          width="100%"
+          inner-padding="0"
+          padding="0"
+          ><span
+            style="
+              display: block;
+              background-color: #c2f56b;
+              background-image: url(&quot;../img/bottom-button-bg.png&quot;);
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              border-radius: 30px;
+              padding: 14px 0;
+              text-align: center;
+            "
+            ><img
+              src="../img/bottom-button-content.png"
+              alt="Зарегистрироваться →"
+              width="231"
+              height="19"
+              style="
+                display: block;
+                border: 0;
+                margin: 0 auto;
+                width: 231px;
+                max-width: 100%;
+                height: auto;
+              " /></span
+        ></mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 30px 30px">
+      <mj-column>
+        <mj-text
+          color="#272727"
+          line-height="23px"
+          letter-spacing="-0.6px"
+          padding="0 0 16px"
+          ><div style="max-width: 534px">
+            Информацию о всех мероприятиях вы можете найти
+            <a
+              href="https://dialog.x5.ru/connect/event/"
+              style="color: #0d5906; text-decoration: underline"
+              >на сайте</a
+            >, а также в наших каналах в социальных сетях.
+          </div></mj-text
+        >
+        <mj-text
+          color="#272727"
+          line-height="23px"
+          letter-spacing="-0.6px"
+          padding="0 0 16px"
+          ><div style="max-width: 534px">
+            По любым вопросам пишите нам на почту
+            <a
+              href="mailto:dialog.info@x5.ru"
+              style="color: #0d5906; text-decoration: underline"
+              >dialog.info@x5.ru.</a
+            >
+          </div></mj-text
+        >
+        <mj-text
+          color="#272727"
+          font-size="18px"
+          line-height="21px"
+          letter-spacing="-0.54px"
+          padding="0 0 32px"
+          >С уважением, Команда <a
+            href="https://dialog.x5.ru/analytics"
+            style="color: #0d5906; text-decoration: underline"
+            >Dialog X5</a
+          ></mj-text
+        >
+        <mj-table
+          align="center"
+          width="164.5px"
+          table-layout="fixed"
+          line-height="0"
+        >
+          <tr>
+            <td
+              width="24.625"
+              style="padding: 0"
+            >
+              <a href="https://vk.com/dialog.x5analytics"
+                ><img
+                  src="../img/vk-logo.png"
+                  width="24.625"
+                  height="24.625"
+                  alt="ВКонтакте"
+                  style="
+                    display: block;
+                    width: 24.625px;
+                    height: 24.625px;
+                    border: 0;
+                  "
+              /></a>
+            </td>
+            <td
+              width="22"
+              style="padding: 0; width: 22px"
+            ></td>
+            <td
+              width="24.625"
+              style="padding: 0"
+            >
+              <a href="https://t.me/DialogX5Insights"
+                ><img
+                  src="../img/tg-logo.png"
+                  width="24.625"
+                  height="24.625"
+                  alt="Telegram"
+                  style="
+                    display: block;
+                    width: 24.625px;
+                    height: 24.625px;
+                    border: 0;
+                  "
+              /></a>
+            </td>
+            <td
+              width="22"
+              style="padding: 0; width: 22px"
+            ></td>
+            <td
+              width="24.625"
+              style="padding: 0"
+            >
+              <a href="https://max.ru/dialogx5"
+                ><img
+                  src="../img/max-logo.png"
+                  width="24.625"
+                  height="24.625"
+                  alt="MAX"
+                  style="
+                    display: block;
+                    width: 24.625px;
+                    height: 24.625px;
+                    border: 0;
+                  "
+              /></a>
+            </td>
+            <td
+              width="22"
+              style="padding: 0; width: 22px"
+            ></td>
+            <td
+              width="24.625"
+              style="padding: 0"
+            >
+              <a href="https://rutube.ru/channel/78572314/"
+                ><img
+                  src="../img/rutube-logo.png"
+                  width="24.625"
+                  height="24.625"
+                  alt="Rutube"
+                  style="
+                    display: block;
+                    width: 24.625px;
+                    height: 24.625px;
+                    border: 0;
+                  "
+              /></a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

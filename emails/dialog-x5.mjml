@@ -42,7 +42,7 @@
         <mj-text>
           Приглашаем вас на ключевое событие года —
           <a
-            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
             style="
               color: #0d5906;
               font-weight: bold;
@@ -182,7 +182,7 @@
       >
         <mj-column padding="0">
           <mj-button
-            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            href="https://dialog.x5.ru/connect/event/konferenciya-dialog-x5-sinergiya-seti-i-postavshhika-ot-dannyh-k-resheniyam-i-sovmestnomu-rostu/"
             background-color="#0d5906"
             color="#ffffff"
             font-size="0"
@@ -344,7 +344,7 @@
         <mj-text
           >Информацию о всех мероприятиях вы можете найти
           <a
-            href="https://dialog.x5.ru/connect/event/?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            href="https://dialog.x5.ru/connect/event/"
             style="color: #0d5906; text-decoration: underline"
             >на сайте</a
           >, а также в наших каналах в социальных сетях.</mj-text
@@ -373,7 +373,7 @@
           letter-spacing="-0.54px"
           >С уважением, Команда
           <a
-            href="https://dialog.x5.ru/analytics?utm_source=marketing&amp;utm_medium=email&amp;utm_campaign=conf_14.10"
+            href="https://dialog.x5.ru/analytics"
             style="color: #0d5906; text-decoration: underline"
             >Dialog X5</a
           ></mj-text
