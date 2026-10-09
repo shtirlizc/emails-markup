@@ -157,16 +157,14 @@
     <mj-section background-color="#e8f2ff" padding="0 24px">
       <mj-column>
         <mj-text font-size="0" line-height="0" padding="0" align="center">
-          <!--[if mso]><table role="presentation" width="552" cellpadding="0" cellspacing="0" border="0" style="width: 552px"><tr><![endif]-->
-          <!--[if mso]><td width="276" valign="top" style="width: 276px; padding: 0"><![endif]-->
-          <div style="display: inline-block; vertical-align: top; width: 100%; width: calc((552px - 100%) * 1000); min-width: 50%; max-width: 100%; text-align: center">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+          <div style="display: inline-block; vertical-align: top; width: 100%; width: clamp(50%, calc((551px - 100vw) * 1000), calc(100vw - 48px)); max-width: 100%; text-align: center">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse">
               <tr>
                 <td style="padding: 0 6px 18px; vertical-align: top">
-                  <table role="presentation" align="center" width="264" cellpadding="0" cellspacing="0" border="0" style="width: 264px; width: calc((100vw - 599px) * 1000); min-width: 175px; max-width: 264px; border-collapse: separate; border-spacing: 0; margin: 0 auto">
+                  <table role="presentation" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; margin: 0 auto">
                     <tr>
                       <td style="padding: 0 0 6px; font-size: 0; line-height: 0">
-                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/yumatova-card.png" alt="Диана Юматова" width="264" height="132" style="display: block; box-sizing: border-box; width: 100%; height: 132px; height: calc((100vw - 599px) * 1000); min-height: 130px; max-height: 132px; object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
+                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/yumatova-card.png" alt="Диана Юматова" width="264" height="132" style="display: block; box-sizing: border-box; margin: 0 auto; width: 264px; width: clamp(175px, calc((100vw - 550.5px) * 1000), 264px); max-width: 100%; height: 132px; height: clamp(130px, calc((100vw - 550.5px) * 1000), 132px); object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
                       </td>
                     </tr>
                   </table>
@@ -178,16 +176,14 @@
               </tr>
             </table>
           </div>
-          <!--[if mso]></td><![endif]-->
-          <!--[if mso]><td width="276" valign="top" style="width: 276px; padding: 0"><![endif]-->
-          <div style="display: inline-block; vertical-align: top; width: 100%; width: calc((552px - 100%) * 1000); min-width: 50%; max-width: 100%; text-align: center">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+          <div style="display: inline-block; vertical-align: top; width: 100%; width: clamp(50%, calc((551px - 100vw) * 1000), calc(100vw - 48px)); max-width: 100%; text-align: center">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse">
               <tr>
                 <td style="padding: 0 6px 18px; vertical-align: top">
-                  <table role="presentation" align="center" width="264" cellpadding="0" cellspacing="0" border="0" style="width: 264px; width: calc((100vw - 599px) * 1000); min-width: 175px; max-width: 264px; border-collapse: separate; border-spacing: 0; margin: 0 auto">
+                  <table role="presentation" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; margin: 0 auto">
                     <tr>
                       <td style="padding: 0 0 6px; font-size: 0; line-height: 0">
-                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/rodionova-card.png" alt="Ирина Родионова" width="264" height="132" style="display: block; box-sizing: border-box; width: 100%; height: 132px; height: calc((100vw - 599px) * 1000); min-height: 130px; max-height: 132px; object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
+                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/rodionova-card.png" alt="Ирина Родионова" width="264" height="132" style="display: block; box-sizing: border-box; margin: 0 auto; width: 264px; width: clamp(175px, calc((100vw - 550.5px) * 1000), 264px); max-width: 100%; height: 132px; height: clamp(130px, calc((100vw - 550.5px) * 1000), 132px); object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
                       </td>
                     </tr>
                   </table>
@@ -199,8 +195,6 @@
               </tr>
             </table>
           </div>
-          <!--[if mso]></td><![endif]-->
-          <!--[if mso]></tr></table><![endif]-->
         </mj-text>
       </mj-column>
     </mj-section>
@@ -208,16 +202,14 @@
     <mj-section background-color="#e8f2ff" padding="0 24px 12px">
       <mj-column>
         <mj-text font-size="0" line-height="0" padding="0" align="center">
-          <!--[if mso]><table role="presentation" width="552" cellpadding="0" cellspacing="0" border="0" style="width: 552px"><tr><![endif]-->
-          <!--[if mso]><td width="184" valign="top" style="width: 184px; padding: 0"><![endif]-->
-          <div style="display: inline-block; vertical-align: top; width: 100%; width: calc((552px - 100%) * 1000); min-width: 33.333333%; max-width: 100%; text-align: center">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+          <div style="display: inline-block; vertical-align: top; width: 100%; width: clamp(33.333333%, calc((551px - 100vw) * 1000), calc(100vw - 48px)); max-width: 100%; text-align: center">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse">
               <tr>
                 <td style="padding: 0 6px 18px; vertical-align: top">
-                  <table role="presentation" align="center" width="172" cellpadding="0" cellspacing="0" border="0" style="width: 172px; width: calc((600px - 100vw) * 1000); min-width: 172px; max-width: 175px; border-collapse: separate; border-spacing: 0; margin: 0 auto">
+                  <table role="presentation" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; margin: 0 auto">
                     <tr>
                       <td style="padding: 0 0 6px; font-size: 0; line-height: 0">
-                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/timoshenko-card.png" alt="Ольга Тимошенко" width="172" height="132" style="display: block; box-sizing: border-box; width: 100%; height: 132px; height: calc((100vw - 599px) * 1000); min-height: 130px; max-height: 132px; object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
+                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/timoshenko-card.png" alt="Ольга Тимошенко" width="172" height="132" style="display: block; box-sizing: border-box; margin: 0 auto; width: 172px; width: clamp(172px, calc((551px - 100vw) * 1000), 175px); max-width: 100%; height: 132px; height: clamp(130px, calc((100vw - 550.5px) * 1000), 132px); object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
                       </td>
                     </tr>
                   </table>
@@ -229,16 +221,14 @@
               </tr>
             </table>
           </div>
-          <!--[if mso]></td><![endif]-->
-          <!--[if mso]><td width="184" valign="top" style="width: 184px; padding: 0"><![endif]-->
-          <div style="display: inline-block; vertical-align: top; width: 100%; width: calc((552px - 100%) * 1000); min-width: 33.333333%; max-width: 100%; text-align: center">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+          <div style="display: inline-block; vertical-align: top; width: 100%; width: clamp(33.333333%, calc((551px - 100vw) * 1000), calc(100vw - 48px)); max-width: 100%; text-align: center">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse">
               <tr>
                 <td style="padding: 0 6px 18px; vertical-align: top">
-                  <table role="presentation" align="center" width="172" cellpadding="0" cellspacing="0" border="0" style="width: 172px; width: calc((600px - 100vw) * 1000); min-width: 172px; max-width: 175px; border-collapse: separate; border-spacing: 0; margin: 0 auto">
+                  <table role="presentation" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; margin: 0 auto">
                     <tr>
                       <td style="padding: 0 0 6px; font-size: 0; line-height: 0">
-                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/shipilova-card.png" alt="Ольга Шипилова" width="172" height="132" style="display: block; box-sizing: border-box; width: 100%; height: 132px; height: calc((100vw - 599px) * 1000); min-height: 130px; max-height: 132px; object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
+                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/shipilova-card.png" alt="Ольга Шипилова" width="172" height="132" style="display: block; box-sizing: border-box; margin: 0 auto; width: 172px; width: clamp(172px, calc((551px - 100vw) * 1000), 175px); max-width: 100%; height: 132px; height: clamp(130px, calc((100vw - 550.5px) * 1000), 132px); object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
                       </td>
                     </tr>
                   </table>
@@ -250,16 +240,14 @@
               </tr>
             </table>
           </div>
-          <!--[if mso]></td><![endif]-->
-          <!--[if mso]><td width="184" valign="top" style="width: 184px; padding: 0"><![endif]-->
-          <div style="display: inline-block; vertical-align: top; width: 100%; width: calc((552px - 100%) * 1000); min-width: 33.333333%; max-width: 100%; text-align: center">
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+          <div style="display: inline-block; vertical-align: top; width: 100%; width: clamp(33.333333%, calc((551px - 100vw) * 1000), calc(100vw - 48px)); max-width: 100%; text-align: center">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse">
               <tr>
                 <td style="padding: 0 6px 18px; vertical-align: top">
-                  <table role="presentation" align="center" width="172" cellpadding="0" cellspacing="0" border="0" style="width: 172px; width: calc((600px - 100vw) * 1000); min-width: 172px; max-width: 175px; border-collapse: separate; border-spacing: 0; margin: 0 auto">
+                  <table role="presentation" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; margin: 0 auto">
                     <tr>
                       <td style="padding: 0 0 6px; font-size: 0; line-height: 0">
-                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/gavrilov-card.png" alt="Алексей Гаврилов" width="172" height="132" style="display: block; box-sizing: border-box; width: 100%; height: 132px; height: calc((100vw - 599px) * 1000); min-height: 130px; max-height: 132px; object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
+                        <img src="https://storage.yandexcloud.net/team-hh-email/dialog-x5-2/gavrilov-card.png" alt="Алексей Гаврилов" width="172" height="132" style="display: block; box-sizing: border-box; margin: 0 auto; width: 172px; width: clamp(172px, calc((551px - 100vw) * 1000), 175px); max-width: 100%; height: 132px; height: clamp(130px, calc((100vw - 550.5px) * 1000), 132px); object-fit: cover; object-position: center top; border: 2px solid #E5EBEB; border-radius: 16px" />
                       </td>
                     </tr>
                   </table>
@@ -271,8 +259,6 @@
               </tr>
             </table>
           </div>
-          <!--[if mso]></td><![endif]-->
-          <!--[if mso]></tr></table><![endif]-->
         </mj-text>
       </mj-column>
     </mj-section>
